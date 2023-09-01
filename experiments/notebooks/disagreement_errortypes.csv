@@ -1,0 +1,188 @@
+,Unnamed: 0,uuid,user_id,docid,model,nonfactual_spans,evidence,error_type,summary,dialogue,user_id2,nonfactual_spans2,evidence2,error_type2
+0,0,6,elisa,test_12,GPT4,Person 1 (Steven) noticed that Pe,What happene,Intrinsic_Error,"Person 1 (Steven) noticed that Person 2 (Tony) looked unhappy. Tony admitted making a big mistake, revealing he got caught cheating on a test which made him feel ashamed. He explains his fear of failing due to his father's expectations. However, Steven advises him to study hard and learn from his mistakes.","#Person1#: Hi, Tony. You look unhappy. What's wrong?
+#Person2#: Oh, Steven, I made a big mistake.
+#Person1#: What happened?
+#Person2#: I really wish I hadn't done it.
+#Person1#: What on earth are you talking about?
+#Person2#: I got caught cheating. I feel so ashamed. The teacher saw me and told me I failed.
+#Person1#: What were you thinking?
+#Person2#: You know my father. If I fail, he'll kill me. I have to do well.
+#Person1#: But what you should do is study hard.
+#Person2#: I know. . . I know. . . it's all my fault. I feel awful that I didn't study, and I cheated, and I got caught.
+#Person1#: So long as you learn from your mistakes.",sanjana,,,
+2,2,8,elisa,test_123,GPT4,Person1 inquires about the me,,Intrinsic_Error,"Person1 inquires about the method to contact Person2, who suggests either phone contact or email. Person2 further asks when Person1's organization will make a decision, to which Person1 responds it will take approximately one week. Person2 shows appreciation for the interaction and anticipates a later meeting.","#Person1#: How can we get in touch with you?
+#Person2#: Please call me or send e-mail. Could you please let me know when your organization can make a decision?
+#Person1#: About one week.
+#Person2#: I really appreciate your time and help. See you then.",sanjana,,,
+4,4,10,elisa,test_127,GPT4,"s, and earned a weekl",,Intrinsic_Error,"Person1 asked Mr. Smith (Person2) about his education, age, previous jobs, and salary. Mr. Smith revealed that he studied Economics at Yale University, is 27 years old, has worked at a bank for the last five years, and earned a weekly salary of $500 there.","#Person1#: Could you tell me what university you went to, Mr. Smith?
+#Person2#: I went to Yale University.
+#Person1#: Did you? And what did you study?
+#Person2#: I have a B. A. in Economics.
+#Person1#: Would you mind telling me how old you are?
+#Person2#: I'm twenty-seven.
+#Person1#: And could you tell me what other jobs you have had?
+#Person2#: Yes, I have worked in a bank for the last five years.
+#Person1#: And what was your salary at the bank?
+#Person2#: I got $ 500 a week.",sanjana,,,
+5,5,11,elisa,test_132,GPT4,"going, caring, and non-",,Intrinsic_Error,"Person1 and Person2 discuss their idea of the perfect woman at a party. Person2 wants a woman who is affectionally servile and traditional, which Person1 criticizes as outdated, citing a study that reports many women don’t think their husbands do their share of housework. In contrast, Person1 idealizes a woman who's outgoing, caring, and non-judgmental. Despite the disagreement, Person2 doesn't change his viewpoint and decides to leave the party early.","#Person1#: Hey Rocky! You've been sitting around all night. Get out and dance with someone like that woman over there.
+#Person2#: No way! She looks like the intellectual type.
+#Person1#: Oh come on man! What kind of woman do you like?
+#Person2#: I want a woman who's affectionate and fulfills my every need, and that woman over there is just not the right type.
+#Person1#: Hey. Where have you been? Times are changing, and you're never going to find a woman who will shine your shoes and pick up after you all the time. Wake up.
+#Person2#: Oh really? I meet a lot of women like that, but not at this party. [Oh.] I also prefer a woman who'll stay home, cook, clean, and watch the kids.
+#Person1#: Okay, but what are your household responsibilities once you get home from work?
+#Person2#: Hmm. Eat, watch TV, and throw out the garbage.
+#Person1#: Wait, wait, wait. I can't believe I'm hearing this. In fact, you're never going to get married. I recently read a news report that said 40 percent of women don't think their husbands do their share around the house, and you seem to be that type.
+#Person2#: Well, that's the way I am, but what's YOUR idea of the perfect woman?
+#Person1#: Well, I like a woman who's outgoing, caring, and non-judgmental about people's differences, and it bothers me when people think their the center of the universe ... like someone I know.
+#Person2#: Well, that's nice for you, but that doesn't change my point of view. I guess I'll have to go home to a TV dinner and my dog, Rusty.
+#Person1#: Hey, and if I stick with you, this is going to be a long, lonely night. Say hello to Rusty for me.",sanjana,,,
+6,6,12,elisa,test_133,GPT4,,,,"Person1 and Person2 discussed the heavy storm from the previous night that broke several windows and brought down a large tree branch in front of Person1's house. However, no damage was done to Person1's house. They both longed for better weather, noting that it was April and flowers had begun blossoming. They also mentioned that they had enjoyed nice weather in March.","#Person1#: It was a heavy storm last night, wasn't it?
+#Person2#: It certainly was. The wind broke several windows. What weather!
+#Person1#: Do you know that big tree in front of my house? One of the biggest branches came down in the night.
+#Person2#: Really? Did it do any damage to your home?
+#Person1#: Thank goodness! It is far away from that.
+#Person2#: I really hate storms. It's about time we had some nice spring weather.
+#Person1#: It's April, you know. The flowers are beginning to blossom.
+#Person2#: Yes, that's true. But I still think the weather is terrible.
+#Person1#: I suppose we should not complain. We had a fine March after all.",sanjana,enjoyed nice weather in March,#Person1#: : I suppose we should not complain. We had a fine March after all,Intrinsic_Error
+8,8,14,elisa,test_140,GPT4,Person3 that Person1 is p,,Intrinsic_Error,"Person1 forgives Person2 for not calling, who explains that they had been away fighting forest fires. Person1 then shares that they may be pregnant, to which Person2 reacts positively. After it is confirmed by Person3 that Person1 is pregnant, Person2 questions the accuracy of the conception date since he was away during that time. He concludes to Person1 the baby may not be his, leaving Person1 in shock.","#Person1#: Honey, of course I forgive you! I love you so much! I've really missed you. I was wrong to get upset over nothing. 
+#Person2#: I'm sorry I haven't called or anything, but right after you decided you wanted a break, I was called up north to put out some major forest fires! I was in the middle of nowhere, working day and night, trying to prevent the blaze from spreading! It was pretty intense. 
+#Person1#: Oh, honey, I'm glad you're okay! But I have some exciting news. . . I think I'm pregnant! 
+#Person2#: Really? Wow, that's amazing! This is great news! I've always wanted to be a father! We'll go to the doctor first thing in the morning! 
+#Person3#: We have your test results back and, indeed, you are pregnant. Let's see here. . . everything seems to be in order. Your approximate due date is October twenty-seventh two thousand and nine, so that means that the baby was conceived on February third, two thousand and nine. 
+#Person2#: Are you sure? Are these things accurate? 
+#Person3#: Well, yes sir, they are. 
+#Person1#: What's wrong? Why are you asking these questions? 
+#Person2#: This baby isn't mine! I was away the first week of February at a training seminar! 
+#Person1#: I. . . I. . . no, it can't be. . . ",sanjana,,,
+9,9,15,elisa,test_147,GPT4,ating whether dr,,Intrinsic_Error,"Person1 and Person2 are arguing about whose fault it was that they got in trouble and lost. Person1 blames Person2 for trying to bribe a policeman, while Person2 blames Person1 for not asking for directions and causing them to get lost. They also argue about who is to blame for their late arrival, debating whether driving or taking the train would have been the better option.","#Person1#: This is all your fault. This wouldn't have happened if you hadn't tried to give money to that policeman.
+#Person2#: Well, if you'd listen to me when I suggested asking someone for directions, we wouldn't have got lost in the first place, would we?
+#Person1#: Oh, go on, blame it all on me. You were the one who was driving when we got stopped by the police. If you hadn't been speeding, we wouldn't have been stopped at all.
+#Person2#: That's not fair. We were doing fine until you suddenly decided you knew a quicker way.
+#Person1#: Oh, come on, I only suggest it because we were running so late. We would have been fine if you hadn't suggested driving instead of taking the train.
+#Person2#: No, we would have been fine if you had remembered to book tickets.",sanjana,,,
+16,16,22,elisa,test_161,GPT4,,,,"Andy approached Fanny, who sounded tired due to a sleepless night. She had a nightmare about being chased by ghosts in a graveyard and cried out for help, prompting her mother to wake her up. Despite feeling embarrassed due to her age, Fanny enjoyed some comfort food from her mother. She remained fearful of sleep due to her anxieties about getting into the University of Michigan, which was shared by Andy. They both agreed that if they aren't accepted into this University, they will be accepted in other schools.","#Person1#: Hi, Fanny.
+#Person2#: Hi, Andy.
+#Person1#: Are you feeling OK? You sound a little tired this morning.
+#Person2#: I did not sleep much last night. I really feel bad. It was a crazy night.
+#Person1#: What happened?
+#Person2#: I had a bad dream. I was walking alone in the graveyard, and suddenly all the ghosts jumped out of their graves. They began to chase me through the graveyard and shouted that they wanted my blood.
+#Person1#: Oh, what a nightmare! Then what happened?
+#Person2#: My mother woke me up. She had heard me crying out for help.
+#Person1#: You have got a great mother.
+#Person2#: I felt embarrased. After all, I am 18 years old. Mom gave me some chocolate cookies and a glass of milk.
+#Person1#: That sounds good!
+#Person2#: Yeah, but i was afraid to fall back asleep. I am worrying about getting into the University of Michigan.
+#Person1#: Me too. But I tell myself that if they don't accept me, another school will.",sanjana,"They both agreed that if they aren't accepted into this University, they will be accepted in other schools","#Person1#: : Me too. But I tell myself that if they don't accept me, another school will.",Intrinsic_Error
+20,20,26,elisa,test_191,GPT4,scheduled,,Intrinsic_Error,"Person1 inquired about their test results, leading Person2 to request an in-person appointment for further discussion. Although not explicitly confirmed, Person2 implied that the tests were unclear which raised concern for Person1. Person2 sought to reassure them and scheduled for an afternoon appointment, suggesting they could bring their husband for support.","#Person1#: Hi, I was wondering if I could get my test results from the other day. 
+#Person2#: Yes, I would like to schedule an appointment for you to come in and talk with me. 
+#Person1#: Is something wrong with me? 
+#Person2#: No, sometimes the test results aren't clear and we need to do more to get a clearer picture. 
+#Person1#: Can we talk about it now? 
+#Person2#: I would if I knew anything for sure, but I want to take a second look. 
+#Person1#: When can I come and see you? 
+#Person2#: You can come in this afternoon. If you would feel better, bring your husband with you. 
+#Person1#: Now I know that something bad is up! 
+#Person2#: Just relax. We will talk about it this afternoon. ",sanjana,,,
+22,22,28,elisa,test_194,GPT4,it seems the battery is dead,,Intrinsic_Error,"Person1 realizes they have misplaced their cellphone and can't find it in the hotel room. Person2 tries calling it, but it seems the battery is dead. They contemplate not taking the phone to a wedding they are due to leave for in 15 minutes, but Person2 insists that it is needed as her sister might call. Eventually, Person1 remembers leaving the phone at a bakery. Person2 decides to inform her sister about the lost phone and then call the bakery in hopes the phone could be retrieved before they leave for the wedding.","#Person1#: Linda, I can't find my cellphone anywhere in this hotel room! Could you call it?
+#Person2#: OK, I'm calling it.
+#Person1#: I don't hear anything. I think the batteries dead.
+#Person2#: Oh, no? How are you going to find it? We have to leave for the wedding in 15 minutes.
+#Person1#: Well, maybe I won't take my cellphone to the wedding. Do I need it?
+#Person2#: Yes, you need it. My sister might call you to tell us how the kids are doing. Maybe it's in the car.
+#Person1#: I remember where it is. I left it in the bakery where we ate breakfast.
+#Person2#: OK, well, I need to call my sister to tell her you lost your phone. Then I'll call the bakery. If the bakery is still open, maybe we can pick it up before we go to the wedding. Please keep your phone in your pocket next time.",sanjana,,,
+36,36,42,elisa,test_246,GPT4,,,,"Person1 and Person2 discussed Tim's project on leading a greener life. Tim's inspiration came from his science lessons on the environment which prompted him to make changes in his personal life. One of those changes was riding his bike to school since there was no bus service near his home. At school, he proposed that most work should be submitted electronically to reduce paper usage. He also suggested improvements in the school cafeteria such as meatless Mondays, use of local produce and removing machines selling bottled drinks.","#Person1#: Tim, you're going to talk about your project and how to lead a greener life. Why did you choose that subject?
+#Person2#: Well. We'd learned a lot about the environment in our science lessons, so I decided to see what I could do in my own life rather than just act completely helpless. And I knew the rest of my family would be interested.
+#Person1#: Did you find it easy to get information?
+#Person2#: Yeah, I discovered there were lots of people at my age trying to be green. I'd always gone to school by car. Catching a bus would be better, but there's no bus where we live. So I've gone for riding my bike to school now.
+#Person1#: OK. And what about being green once you're actually at school?
+#Person2#: Well, I realized that although all school paper was recycled and most of my friends use both sides of paper. We use huge quantities and I thought we should cut down and then it came to me that we should be sending in most of our work electronically. I'm going to recommend it to our teachers.
+#Person1#: And what about the school cafeteria?
+#Person2#: One school I've read about has meatless Mondays. It's good to use local produce, too. That something our school already does, but we still have machines with bottled milk, water and juices for sale. And I think we shouldn't have them.",sanjana,use of local produce,"It's good to use local produce, too. That something our school already does,",Intrinsic_Error
+37,37,43,elisa,test_261,GPT4,,,,"Person1 introduced his new assistant to Person2, who confessed that they were unimpressed, finding her rather condescending. Person1 defended the assistant, mentioning how helpful she's been, to which Person2 pointed out that as her boss, Person1 is likely to receive preferential treatment. Despite Person1 insisting his assistant is universally helpful, Person2 disagreed, mentioning that she doesn't even greet him.","#Person1#: Hi Joe. You met my new assistant, right?
+#Person2#: Emm. . . yes. But I wasn't too impressed. I found her a little stuck up.
+#Person1#: You are kidding, but she's so helpful.
+#Person2#: Tom. . . you are her boss, you kown. Of course, she's helpful to you.
+#Person1#: Come on. She's like that with everyone.
+#Person2#: I don't think so actually. She never even says 'hello' to me.",sanjana,Person1 introduced his new assistant to Person2,"#Person1#: : Hi Joe. You met my new assistant, right?
+#Person2#: : Emm. . . yes. But I wasn't too impressed. I found her a little stuck up.",Intrinsic_Error
+39,39,45,elisa,test_266,GPT4,,,,"Person 1 and Person 2 discuss their family in New Zealand, including Uncle Bill, his wife, and their two daughters, Sarah and Jane. Uncle Bill is Person1’s mother's brother and Person2’s brother-in-law. Sarah and Jane are Person1's cousins and are step-sisters; Sarah is Uncle Bill's daughter from his deceased first wife, while Jane is his daughter from his current wife. Uncle Bill's family plans to visit during their Europe trip next year.","#Person1#: Dad, you keep talking about family in New Zealand. Who are they?
+#Person2#: Well, that's your uncle Bill, his wife and two of their daughters.
+#Person1#: Is uncle Bill your brother?
+#Person2#: No, your uncle Jack is my brother, Bill is my brother-in-law, your mom's brother.
+#Person1#: So his two daughters are my cousins?
+#Person2#: That's right, Sarah and Jane are both your cousins although they are step-sisters.
+#Person1#: What are step-sisters?
+#Person2#: Sarah is your uncle Bill's older daughter. When she was young, Bill's first wife, Sarah's mom died. Three years later Bill married again.
+#Person1#: So uncle Bill's wife is Jane's mother but not Sarah's mother. Right?
+#Person2#: Yes. She is Sarah's step-mother.
+#Person1#: And when are they coming to visit us?
+#Person2#: They want to travel to Europe next year, and will visit us at the same Ae.",sanjana,Jane is his daughter from his current wife,"#Person2#: : Sarah is your uncle Bill's older daughter. When she was young, Bill's first wife, Sarah's mom died. Three years later Bill married again.
+#Person1#: : So uncle Bill's wife is Jane's mother but not Sarah's mother. Right?
+#Person2#: : Yes. She is Sarah's step-mother.",Intrinsic_Error
+52,52,58,elisa,test_311,GPT4, signaling the start of labor,,Extrinsic_Error,"Person1 is having a baby shower and is delighted by the gifts received, including a baby bib, stroller, highchair, car seat, playpen, and crib. The gifts are from various friends, including Betty and Carla. After all the gifts are opened, an attempt to play a game pertaining to the baby's due date is interrupted as Person1 announces her water just broke, signaling the start of labor.","#Person1#: Thank you for organizing this great baby shower for me! I'Ve always been to baby showers but never actually had one held for me! Let's get started!
+#Person2#: Ok, let's start opening some presents!
+#Person1#: Oh look! What a great little bib for the baby! This will definitely come in handy! Oh wow, you also got me a stroller! That's so great! Thank you!
+#Person2#: This next one is from Betty.
+#Person1#: A highchair and car seat! Wow Betty, thank you so much! I really appreciate it!
+#Person2#: One more from Carla.
+#Person1#: A playpen and crib! Thanks Carla! This is just what I needed!
+#Person2#: OK, that's all of them. No more gifts. Now who wants to guess when the baby is due?
+#Person1#: Umm. I think my water just broke! Get me to a hospital!",sanjana,,,
+54,54,60,elisa,test_315,GPT4,their native language of ,,Intrinsic_Error,"Person1 asked Person2 about their language skills. Person2 revealed that, in addition to their native language of Chinese, they can speak English and French, but can only hold simple conversations in French. They are more proficient in speaking English than reading and writing it, but believe that their level of English is competent enough for general desk work in an American firm, as they were previously an interpreter.","#Person1#: How many languages can you speak?
+#Person2#: Besides Chinese, I can speak English and French.
+#Person1#: You mean you can read and write both of them?
+#Person2#: No, I can only carry on a simple conversation in French.
+#Person1#: Can you read and write English well?
+#Person2#: I can speak the language better than I read and write.
+#Person1#: Do you speak the language well enough to communicate with people of English-speaking countries?
+#Person2#: I think so. I used to be an interpreter.
+#Person1#: Do you think your English is good enough to do desk work?
+#Person2#: The amount of English I know enables me to do general desk work. I believe what I know is sufficient to work in an American firm.",sanjana,,,
+55,55,61,elisa,test_317,GPT4, or trying another airline,,Intrinsic_Error,"Person1 arrived for flight 513 to New York, but found it was canceled. Person2 confirmed the cancellation and suggested booking for tomorrow's flight or trying another airline. Person1 initially refused to book for the next day and asked about other airlines but upon seeing the long line of people also looking to rebook, decided to accept the offer for tomorrow's flight. Person2 confirmed the rebooking and offered a 50% discount as an apology for the inconvenience.","#Person1#: Hi. I'm here for flight 513 to New York but I thought I heard the paging system announce that it is canceled. Is that true?
+#Person2#: I'm terribly sorry, sir, but I'm afraid it is true. That flight has been canceled. Would you like to try to book tomorrow's flight?
+#Person1#: No way! I worked very hard so that I could leave on today's flight. Are there seats on another airline?
+#Person2#: It's possible. If you would like to book with another airline the line is right over there.
+#Person1#: You mean the line over there of about 200 people? !
+#Person2#: That's the one. It seems that everyone is anxious to get to New York tonight.
+#Person1#: This is a rotten way to start a vacation. I HATE lines! Can you book me on tomorrow's flight?
+#Person2#: Certainly. You will also be receiving a 50 % discount as our way of apologizing for the inconvenience.",sanjana,,,
+56,56,62,elisa,test_318,GPT4,Person2 agrees,,Intrinsic_Error,"Person1 suggests going to Burger Queen for lunch, praising their popular cheeseburgers. Person2 agrees, mentioning they enjoy the creamy and tasty milkshakes on offer. They discuss the long line at the restaurant, with Person1 saying it's worth the wait. Person1 also recommends the French fries served with mayonnaise, which Person2 notes they might try. Despite reservations about the unhealthy nature of fast food, both are eager to eat, with Person1 encouraging patience in waiting for their meal.","#Person1#: Let's go to Burger Queen for lunch. They have good cheese burgers.
+#Person2#: OK. I am hungry, too. I like their milkshake. They're very creamy and tasty.
+#Person1#: Look at the long line, there are always a lot of people waiting in lines just for the cheese burger. It must be very delicious.
+#Person2#: Yup. But, this also means we have to wait to order our food.
+#Person1#: Come on. It is worth waiting. Their cheese burgers are really popular. Once you have it, you will love it.
+#Person2#: Well, sounds very attractive. I just tried their vanilla milkshake last time, and it was really delicious.
+#Person1#: Yup, they have good French fries as well. Not very thick, but crispy enough. You should try them with some mayonnaise sauce. That is the Belgium style. You will love it.
+#Person2#: OK, I think I know what to order for my lunch now. But, eating too much fried food really makes me fat.
+#Person1#: Come on. You just have it once in a while, not every day. It will not harm you.
+#Person2#: That's true. You can hear my tummy grumbling. I am really hungry!
+#Person1#: Be patient. Good food never comes fast.
+#Person2#: Ok!",sanjana,,,
+69,69,75,elisa,test_35,GPT4,tired,,Intrinsic_Error,"Person1 notices that Person2, Bill, looks tired and learns that it is because he has been working late every night. Person1 advises him to go home on time and rest. Person2 also shares that his brother is on an extended business trip in the States. Before parting, Person1 ensures they have the correct time in order not to be late for a 5 o'clock meeting, which Person2 confirms with the time on his watch.","#Person1#: What's the matter, Bill? You look kind of pale.
+#Person2#: Oh, I'm just tired.
+#Person1#: Why?
+#Person2#: Well, I've been working until around ten every night this week.
+#Person1#: You should go home at quitting time today and take it easy.
+#Person2#: Yes. I think I will.
+#Person1#: That's good. Say, how's your brother?
+#Person2#: He's fine, but he is awfully busy. He went to the States on a business trip two weeks ago.
+#Person1#: Oh, really? Is he back yet?
+#Person2#: No, he won't come back for several more weeks.
+#Person1#: Wow! He must have a lot to do there.
+#Person2#: Yes, he does.
+#Person1#: I want to be sure of the time because I'm going to meet a friend at five o'clock sharp.
+#Person2#: Well, my watch says 4:30, and that time should be right. I set it with the radio yesterday.
+#Person1#: Good.",sanjana,,,
+82,82,88,elisa,test_376,GPT4,They hope that the headmaster will request assistance from the local government,,Extrinsic_Error,"Person1 and Person2 discussed the possibility of their headmaster planning to construct a new lab building due to the increasing teaching needs that the current one can't fulfill. However, they suspect funding may pose an issue. They hope that the headmaster will request assistance from the local government and that a decision will be made by the end of the term.","#Person1#: Do you think our headmaster is going to build a new lab building?
+#Person2#: I've no idea. He may have the plan. But he hasn't spoken to us teachers about it.
+#Person1#: Do you think it possible that it will happen?
+#Person2#: Of course. Right now, our old lab building can't satisfy the increasing need of teaching. It's too small and not in proper condition.
+#Person1#: Why don't we build a new one as soon as possible?
+#Person2#: There may be some problems with it.
+#Person1#: What's the problem then?
+#Person2#: As far as I know, money is. It's not likely to be solved soon, I guess.
+#Person1#: I believe our headmaster will ask the local government to help us build a new one.
+#Person2#: I think so. It's quite likely that the decision will be made before the end of this term.",sanjana,,,

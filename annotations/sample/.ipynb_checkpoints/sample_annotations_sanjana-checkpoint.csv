@@ -1,0 +1,710 @@
+,uuid,user_id,docid,model,nonfactual_spans,evidence,error_type,summary,dialogue
+0,c5b1509d-b628-4b95-9d46-39d6d09a8738,sanjana,test_12,GPT4,,,,"Person 1 (Steven) noticed that Person 2 (Tony) looked unhappy. Tony admitted making a big mistake, revealing he got caught cheating on a test which made him feel ashamed. He explains his fear of failing due to his father''s expectations. However, Steven advises him to study hard and learn from his mistakes.","#Person1#: Hi, Tony. You look unhappy. What''s wrong?
+#Person2#: Oh, Steven, I made a big mistake.
+#Person1#: What happened?
+#Person2#: I really wish I hadn''t done it.
+#Person1#: What on earth are you talking about?
+#Person2#: I got caught cheating. I feel so ashamed. The teacher saw me and told me I failed.
+#Person1#: What were you thinking?
+#Person2#: You know my father. If I fail, he''ll kill me. I have to do well.
+#Person1#: But what you should do is study hard.
+#Person2#: I know. . . I know. . . it''s all my fault. I feel awful that I didn''t study, and I cheated, and I got caught.
+#Person1#: So long as you learn from your mistakes."
+1,b8b918d6-e42d-4227-bab2-d82595e1586b,sanjana,test_120,GPT4,,,,"Person1 checks if Person2 has fed the puppies, which they have. Person1 then instructs Person2 to bathe the puppies later and reminds them about a vet appointment on Saturday. Person2 confirms they will do both and asks for the timing of the vet appointment, which is scheduled for eleven in the morning.","#Person1#: Have you given the puppies food yet?
+#Person2#: Of course. I fed them today.
+#Person1#: Good job! Please give them a bath later on today.
+#Person2#: Sure, I''ll give them a bath.
+#Person1#: Thanks. But don''t forget that they have a vet appointment this Saturday.
+#Person2#: I remember. What time do they need to be there?
+#Person1#: They need to be there at eleven in the morning.
+#Person2#: All right. I''ll make sure and remember."
+2,5bbedec9-91e7-4fc9-9ed7-266d47bd9dae,sanjana,test_123,GPT4,,,,"Person1 inquires about the method to contact Person2, who suggests either phone contact or email. Person2 further asks when Person1''s organization will make a decision, to which Person1 responds it will take approximately one week. Person2 shows appreciation for the interaction and anticipates a later meeting.","#Person1#: How can we get in touch with you?
+#Person2#: Please call me or send e-mail. Could you please let me know when your organization can make a decision?
+#Person1#: About one week.
+#Person2#: I really appreciate your time and help. See you then."
+3,597724f2-6d56-4ebc-9e07-123beec157ae,sanjana,test_127,GPT4,,,,"Person1 asked Mr. Smith (Person2) about his education, age, previous jobs, and salary. Mr. Smith revealed that he studied Economics at Yale University, is 27 years old, has worked at a bank for the last five years, and earned a weekly salary of $500 there.","#Person1#: Could you tell me what university you went to, Mr. Smith?
+#Person2#: I went to Yale University.
+#Person1#: Did you? And what did you study?
+#Person2#: I have a B. A. in Economics.
+#Person1#: Would you mind telling me how old you are?
+#Person2#: I''m twenty-seven.
+#Person1#: And could you tell me what other jobs you have had?
+#Person2#: Yes, I have worked in a bank for the last five years.
+#Person1#: And what was your salary at the bank?
+#Person2#: I got $ 500 a week."
+4,b094ce58-5993-44a7-ab7e-c870f15f255d,sanjana,test_132,GPT4,,,,"Person1 and Person2 discuss their idea of the perfect woman at a party. Person2 wants a woman who is affectionally servile and traditional, which Person1 criticizes as outdated, citing a study that reports many women don’t think their husbands do their share of housework. In contrast, Person1 idealizes a woman who''s outgoing, caring, and non-judgmental. Despite the disagreement, Person2 doesn''t change his viewpoint and decides to leave the party early.","#Person1#: Hey Rocky! You''ve been sitting around all night. Get out and dance with someone like that woman over there.
+#Person2#: No way! She looks like the intellectual type.
+#Person1#: Oh come on man! What kind of woman do you like?
+#Person2#: I want a woman who''s affectionate and fulfills my every need, and that woman over there is just not the right type.
+#Person1#: Hey. Where have you been? Times are changing, and you''re never going to find a woman who will shine your shoes and pick up after you all the time. Wake up.
+#Person2#: Oh really? I meet a lot of women like that, but not at this party. [Oh.] I also prefer a woman who''ll stay home, cook, clean, and watch the kids.
+#Person1#: Okay, but what are your household responsibilities once you get home from work?
+#Person2#: Hmm. Eat, watch TV, and throw out the garbage.
+#Person1#: Wait, wait, wait. I can''t believe I''m hearing this. In fact, you''re never going to get married. I recently read a news report that said 40 percent of women don''t think their husbands do their share around the house, and you seem to be that type.
+#Person2#: Well, that''s the way I am, but what''s YOUR idea of the perfect woman?
+#Person1#: Well, I like a woman who''s outgoing, caring, and non-judgmental about people''s differences, and it bothers me when people think their the center of the universe ... like someone I know.
+#Person2#: Well, that''s nice for you, but that doesn''t change my point of view. I guess I''ll have to go home to a TV dinner and my dog, Rusty.
+#Person1#: Hey, and if I stick with you, this is going to be a long, lonely night. Say hello to Rusty for me."
+5,125445b3-5923-484d-bb84-f155cf165f89,sanjana,test_133,GPT4,enjoyed nice weather in March,#Person1#: : I suppose we should not complain. We had a fine March after all,Intrinsic_Error,"Person1 and Person2 discussed the heavy storm from the previous night that broke several windows and brought down a large tree branch in front of Person1''s house. However, no damage was done to Person1''s house. They both longed for better weather, noting that it was April and flowers had begun blossoming. They also mentioned that they had enjoyed nice weather in March.","#Person1#: It was a heavy storm last night, wasn''t it?
+#Person2#: It certainly was. The wind broke several windows. What weather!
+#Person1#: Do you know that big tree in front of my house? One of the biggest branches came down in the night.
+#Person2#: Really? Did it do any damage to your home?
+#Person1#: Thank goodness! It is far away from that.
+#Person2#: I really hate storms. It''s about time we had some nice spring weather.
+#Person1#: It''s April, you know. The flowers are beginning to blossom.
+#Person2#: Yes, that''s true. But I still think the weather is terrible.
+#Person1#: I suppose we should not complain. We had a fine March after all."
+6,8383bd04-f9ca-4a75-a15c-052b36f3e5b3,sanjana,test_140,GPT4,,,,"Person1 forgives Person2 for not calling, who explains that they had been away fighting forest fires. Person1 then shares that they may be pregnant, to which Person2 reacts positively. After it is confirmed by Person3 that Person1 is pregnant, Person2 questions the accuracy of the conception date since he was away during that time. He concludes to Person1 the baby may not be his, leaving Person1 in shock.","#Person1#: Honey, of course I forgive you! I love you so much! I''ve really missed you. I was wrong to get upset over nothing. 
+#Person2#: I''m sorry I haven''t called or anything, but right after you decided you wanted a break, I was called up north to put out some major forest fires! I was in the middle of nowhere, working day and night, trying to prevent the blaze from spreading! It was pretty intense. 
+#Person1#: Oh, honey, I''m glad you''re okay! But I have some exciting news. . . I think I''m pregnant! 
+#Person2#: Really? Wow, that''s amazing! This is great news! I''ve always wanted to be a father! We''ll go to the doctor first thing in the morning! 
+#Person3#: We have your test results back and, indeed, you are pregnant. Let''s see here. . . everything seems to be in order. Your approximate due date is October twenty-seventh two thousand and nine, so that means that the baby was conceived on February third, two thousand and nine. 
+#Person2#: Are you sure? Are these things accurate? 
+#Person3#: Well, yes sir, they are. 
+#Person1#: What''s wrong? Why are you asking these questions? 
+#Person2#: This baby isn''t mine! I was away the first week of February at a training seminar! 
+#Person1#: I. . . I. . . no, it can''t be. . . "
+7,98b98222-d316-460b-9f00-abf5122ef999,sanjana,test_147,GPT4,,,,"Person1 and Person2 are arguing about whose fault it was that they got in trouble and lost. Person1 blames Person2 for trying to bribe a policeman, while Person2 blames Person1 for not asking for directions and causing them to get lost. They also argue about who is to blame for their late arrival, debating whether driving or taking the train would have been the better option.","#Person1#: This is all your fault. This wouldn''t have happened if you hadn''t tried to give money to that policeman.
+#Person2#: Well, if you''d listen to me when I suggested asking someone for directions, we wouldn''t have got lost in the first place, would we?
+#Person1#: Oh, go on, blame it all on me. You were the one who was driving when we got stopped by the police. If you hadn''t been speeding, we wouldn''t have been stopped at all.
+#Person2#: That''s not fair. We were doing fine until you suddenly decided you knew a quicker way.
+#Person1#: Oh, come on, I only suggest it because we were running so late. We would have been fine if you hadn''t suggested driving instead of taking the train.
+#Person2#: No, we would have been fine if you had remembered to book tickets."
+8,6688402b-e1d7-4510-9272-29eb6b3c6d82,sanjana,test_191,GPT4,,,,"Person1 inquired about their test results, leading Person2 to request an in-person appointment for further discussion. Although not explicitly confirmed, Person2 implied that the tests were unclear which raised concern for Person1. Person2 sought to reassure them and scheduled for an afternoon appointment, suggesting they could bring their husband for support.","#Person1#: Hi, I was wondering if I could get my test results from the other day. 
+#Person2#: Yes, I would like to schedule an appointment for you to come in and talk with me. 
+#Person1#: Is something wrong with me? 
+#Person2#: No, sometimes the test results aren''t clear and we need to do more to get a clearer picture. 
+#Person1#: Can we talk about it now? 
+#Person2#: I would if I knew anything for sure, but I want to take a second look. 
+#Person1#: When can I come and see you? 
+#Person2#: You can come in this afternoon. If you would feel better, bring your husband with you. 
+#Person1#: Now I know that something bad is up! 
+#Person2#: Just relax. We will talk about it this afternoon. "
+9,457eb0b4-bf68-49fc-97f8-778670dc7fd0,sanjana,test_194,GPT4,,,,"Person1 realizes they have misplaced their cellphone and can''t find it in the hotel room. Person2 tries calling it, but it seems the battery is dead. They contemplate not taking the phone to a wedding they are due to leave for in 15 minutes, but Person2 insists that it is needed as her sister might call. Eventually, Person1 remembers leaving the phone at a bakery. Person2 decides to inform her sister about the lost phone and then call the bakery in hopes the phone could be retrieved before they leave for the wedding.","#Person1#: Linda, I can''t find my cellphone anywhere in this hotel room! Could you call it?
+#Person2#: OK, I''m calling it.
+#Person1#: I don''t hear anything. I think the batteries dead.
+#Person2#: Oh, no? How are you going to find it? We have to leave for the wedding in 15 minutes.
+#Person1#: Well, maybe I won''t take my cellphone to the wedding. Do I need it?
+#Person2#: Yes, you need it. My sister might call you to tell us how the kids are doing. Maybe it''s in the car.
+#Person1#: I remember where it is. I left it in the bakery where we ate breakfast.
+#Person2#: OK, well, I need to call my sister to tell her you lost your phone. Then I''ll call the bakery. If the bakery is still open, maybe we can pick it up before we go to the wedding. Please keep your phone in your pocket next time."
+10,b0b2683c-1b6d-485c-a2a4-077178a98abd,sanjana,test_201,GPT4,,,,"Person1 had quoted a price and a three-month delivery timeline to Person2. After discussing with their superior, Person2 agreed to the specified price but expressed concerns over the slow delivery. Eventually, Person1 revealed that they had made arrangements for a shipment from Auckland the following month due to the importance of Person2 as a client. Following this, Person2 proposed drafting and signing the agreement at the earliest.","#Person1#: Good morning, I wonder whether you have got an answer from your superior.
+#Person2#: Yes, we had a meting about it yesterday afternoon.
+#Person1#: What''s the answer?
+#Person2#: We decided that we could agree to your price, but we are a bit worried about the slow delivery.
+#Person1#: Let me see. I quoted your delivery in three months, didn''t I?
+#Person2#: Yes, but we hope that the wool could reach us as soon as possible.
+#Person1#: I thought you would. So I rang Auckland last night. As you are our biggest customer, they agreed to ship the order on the first vessel available that will leave Auckland next month.
+#Person2#: Good, if you agree we''ll draft the agreement right away and sign it then.
+#Person1#: By all means."
+11,788092f4-6671-4318-a232-d88a998df327,sanjana,test_210,GPT4,,,,"Person1 warned Person2 not to touch the wet paint, to which Person2 apologized and promised to be more careful in the future. Person2 mentioned that someone named John Sampson had been even more careless, having walked over wet cement. Person1 criticized the workmen for not putting up a notice about the wet cement, and Person2 informed that they had gone to get a notice. However, ironically, the workmen also walked across the wet cement to put up the notice.","#Person1#: You mustn''t touch the wet paint, Bill.
+#Person2#: I''m sorry. I won''t do it again.
+#Person1#: Try to be more careful in future.
+#Person2#: I shall. I wasn''t as careless as John Sampson. He walked across that wet cement over there.
+#Person1#: The workmen oughtn''t to leave it without a notice.
+#Person2#: The headmaster asked them not to do so.
+#Person1#: Then why isn''t there a notice?
+#Person2#: They went to their stores to get one. Here they come with it now!
+#Person1#: But look at them! They''ve forgotten about the wet cement and they''re walking across it to put up the notice!"
+12,28b12112-0fe8-4cc8-a063-4b9f06ef6016,sanjana,test_212,GPT4,now on the road to recovery,"#Person1#: : Bummer, I'm sorry to hear that, is he better now?
+#Person2#: : Yes, Doctor William said that he could come back to work ASAP.",Intrinsic_Error,"Jim and Bill discuss their mutual friend, Dick, who has been absent for two weeks. Jim learns from Bill that Dick fell ill after returning from Italy, but is now on the road to recovery and will be expected to return to work soon as indicated by Doctor Williams.","#Person1#: Hi, Bill.
+#Person2#: Hi, Jim.
+#Person1#: Where is that cool guy, Dick? I haven''t seen him for two weeks.
+#Person2#: He''s been sick since he came back from Italy.
+#Person1#: Bummer, I''m sorry to hear that, is he better now?
+#Person2#: Yes, Doctor William said that he could come back to work ASAP."
+13,fba72bd2-f0ad-4f7a-bf45-2da92edefacb,sanjana,test_219,GPT4,,,,"Person1 informed Person2 that taking pictures was not allowed in the museum and that they had to confiscate their film. Person2, unaware of the rule, pleaded for the return of their camera. Person1 assured the camera will be returned later. Person2 then asked if there was a place to buy slides and picture postcards, to which Person1 directed them to the souvenir shop near the exit.","#Person1#: Excuse me. In this museum, you are not supposed to take pictures.
+#Person2#: Is that right? I didn''t know it.
+#Person1#: Will you give me your camera? We have to confiscate your film.
+#Person2#: Will you forgive me. Could you return my camera?
+#Person1#: We will keep and return it later.
+#Person2#: Oh, I see. Then, can I buy slides and picture postcards somewhere?
+#Person1#: You can buy them at the souvenir shop near the exit."
+14,2eb29857-7f66-4108-bd1c-ea1a51a55b9e,sanjana,test_149,GPT4,,,,"Person1 and Person2 discuss the founding of several major American newspapers. Person2 states that the Washington Post was founded in December 1877 by Stilson Hutchens, the New York Times was founded earlier in September 1851 by Henry Raymond and George Jones, and the Los Angeles Times started later in December 1881, under Nathan Cole Junior and Thomas Guardineer.","#Person1#: Look, here is a copy of the Washington Post. Do you know when it was founded?
+#Person2#: I happened to have a book right here about the development of newspapers. Let me see. Oh, it was founded in December eighteen seventy-seven by Stilson Hutchens.
+#Person1#: Which newspaper is elder, the New York Times or the Washington Post?
+#Person2#: The New York Times. It was founded in September eighteen fifty-one by Henry Raymond and George Jones.
+#Person1#: How about the Los Angeles Times?
+#Person2#: It was first published in December eighteen eighty-one, under the direction of Nathan Cole Junior and Thomas Guardineer."
+15,42e7f08c-0220-4e0a-b05e-95e3addb4bb8,sanjana,test_161,GPT4,"They both agreed that if they aren't accepted into this University, they will be accepted in other schools","#Person1#: : Me too. But I tell myself that if they don't accept me, another school will.",Intrinsic_Error,"Andy approached Fanny, who sounded tired due to a sleepless night. She had a nightmare about being chased by ghosts in a graveyard and cried out for help, prompting her mother to wake her up. Despite feeling embarrassed due to her age, Fanny enjoyed some comfort food from her mother. She remained fearful of sleep due to her anxieties about getting into the University of Michigan, which was shared by Andy. They both agreed that if they aren''t accepted into this University, they will be accepted in other schools.","#Person1#: Hi, Fanny.
+#Person2#: Hi, Andy.
+#Person1#: Are you feeling OK? You sound a little tired this morning.
+#Person2#: I did not sleep much last night. I really feel bad. It was a crazy night.
+#Person1#: What happened?
+#Person2#: I had a bad dream. I was walking alone in the graveyard, and suddenly all the ghosts jumped out of their graves. They began to chase me through the graveyard and shouted that they wanted my blood.
+#Person1#: Oh, what a nightmare! Then what happened?
+#Person2#: My mother woke me up. She had heard me crying out for help.
+#Person1#: You have got a great mother.
+#Person2#: I felt embarrased. After all, I am 18 years old. Mom gave me some chocolate cookies and a glass of milk.
+#Person1#: That sounds good!
+#Person2#: Yeah, but i was afraid to fall back asleep. I am worrying about getting into the University of Michigan.
+#Person1#: Me too. But I tell myself that if they don''t accept me, another school will."
+16,dfb53af1-1c4c-4f68-a2c1-1b3933ecaaad,sanjana,test_17,GPT4,,,,"Person1 asked Person2, Mike, about his sister''s appearance, personality, and intelligence. Mike describes his sister as tall, pretty, friendly and easy-going, similar to himself. However, he sees himself as more clever than she is, prompting a playful jest from Person1 about his ego.","#Person1#: What does your sister look like, Mike?
+#Person2#: Well, she''s tall and pretty.
+#Person1#: Is she like you?
+#Person2#: I suppose so. We''re both friendly and easy-going.
+#Person1#: Is she as clever as you?
+#Person2#: No, she''s not as clever as me.
+#Person1#: Big head!"
+17,50a17717-1474-4024-b479-1fa084be2eb0,sanjana,test_18,GPT4,,,,"Person1 approached Person2 with a headache, to which Person2 responded by taking their temperature and confirming they have a small fever. Person2 advised Person1 to call in sick next time they''re feeling unwell and to let their parents notify the school office.","#Person1#: Is anybody in?
+#Person2#: How can I help you?
+#Person1#: I have a headache.
+#Person2#: Let me take your temperature with a thermometer.
+#Person1#: OK.
+#Person2#: I think you have a small fever.
+#Person1#: I thought so. I felt dizzy this morning.
+#Person2#: You should''ve called in sick! Next time, have either of your parents call the school office."
+18,d0ffedea-6e5d-43d0-b439-4623822824f9,sanjana,test_182,GPT4,,,,"Person1 asked Person2 about their familiarity with American-styled accounting, to which Person2 responded they have no experience because they have not worked for an American company. When Person1 asked about the fundamental concepts of the accounting process, Person2 listed accounting entity, going concern, measuring unit, accounting period, and objectivity.","#Person1#: Are you familiar with American-styled accounting?
+#Person2#: I am afraid not. I haven''t worked in an American company so far.
+#Person1#: What are the most fundamental concepts underlying the accounting process?
+#Person2#: The first is accounting entity, and the second is going concern. The third is measuring unit. The fourth is accounting period, and the fifth is objectivity."
+19,821a9113-130e-45f2-9d1b-1fde7fc50e48,sanjana,test_206,GPT4,,,,"Person1 asks their mom, Person2, if they can play card games. Person2 initially expresses concern about disturbing their dad, who is working in the study, but after Person1 reassures them that they won''t make noise and have finished their homework, they allow them to play for five minutes with a condition not to touch anything else. Person1 promises not to cause trouble. Person2 tells them to be careful, and Person1 thanks them for the warning.","#Person1#: Mom, may I play the card games for a while?
+#Person2#: Do you know Dad working is in the study.
+#Person1#: I won''t make any noise. Mom, please.
+#Person2#: Behave yourself! Don''t make any noise. Have you finished your homework?
+#Person1#: Yes, I''ve finished.
+#Person2#: Okay, then let me see.
+#Person1#: er. . . , mom, I promise. I won''t make a single noise.
+#Person2#: All right. Just five minutes. Be sure not to touch anything.
+#Person1#: Ok. I won''t get into trouble.
+#Person2#: Be careful!
+#Person1#: Thanks for the warning, Mom."
+20,2188f19d-cc6b-4e63-80cd-04e12b4caab3,sanjana,test_208,GPT4,"Person1 and Person2 were discussing a map of the world without countries marked on it, in preparation for a geography class","#Person1#: : What are you doing?
+#Person2#: : I'm just looking at this map of the world. I'm preparing for a geography class.",Intrinsic_Error,"Person1 and Person2 were discussing a map of the world without countries marked on it, in preparation for a geography class. They discussed geographical features such as the Himalayan plateau, the vastness of the oceans compared to land size of countries, the impact of volcanic activity in creating mountains, the formation of valleys and canyons by rivers, and the influence of oceans and landscapes on the climate. Person1 found the topic intriguing and expressed interest in learning more either through internet research or by attending Person2''s geography class.","#Person1#: What are you doing?
+#Person2#: I''m just looking at this map of the world. I''m preparing for a geography class.
+#Person1#: There are no countries marked on the map.
+#Person2#: No, there aren''t. this map just show the geographical features. Look at the Himalayan plateau with the highest peaks in the world.
+#Person1#: The thing that I find most surprising is that most of the world is covered with water. Compared to the oceans, most countries are tiny.
+#Person2#: I find it incredible how millions of years of volcanic activity have created mountains thousands of metres tall.
+#Person1#: Rivers have created deep valleys and canyons like the grand canyon.
+#Person2#: The oceans and landscapes all influence our climate.
+#Person1#: It''s all so interesting. I''ll have to find more information about it on the internet. Or perhaps I should try and attend your geography class."
+21,85b4521a-78d9-4855-9e47-31b3b8faccb1,sanjana,test_21,GPT4,,,,"Person 2 has skills in computer programming and secretarial tasks. Their qualifications include a doctor''s license, a driver''s license, and successful completion of the Cambridge Examinations. They also completed a year-long course at Lucas Secretarial College in London, mastering typewriting and shorthand. They have experience handling office equipment like a word processor, a fax machine, and more due to their training in office procedure.","#Person1#: Do you have any special skills?
+#Person2#: I can write computer programs, I have a good command of secretarial skills.
+#Person1#: What qualifications have you got?
+#Person2#: I have a doctor license and a driving license.
+#Person1#: Do you get special training in office skills?
+#Person2#: I passed both the Cambridge Examinations, First Certificate and the Certificate of Proficiency in English. And studied for a year in London at the Lucas Secretarial College, ending with speeds of 120 words per minute in English shorthand and 50 words per minute in typing. I was also trained in office procedure.
+#Person1#: Please tell me about work you have done, which qualifies you for this job.
+#Person2#: I''Ve received some special training in typing, shorthand and operating a fax machine, etc. . I''m experienced in IBM-PC. I can operate familiarly a word-processor, a fax machine, a photo and other office equipment."
+22,23820350-e1e7-4a04-b2c9-ef7f666ea9e7,sanjana,test_22,GPT4,,,,"Person1 complained to Person2 that his steak was overcooked and not medium rare as he had ordered. Person2 apologized and agreed to replace the steak, but warned Person1 of a possible wait time. Person1 was fine with waiting and thanked Person2 for his assistance.","#Person1#: Excuse me.
+#Person2#: Yes, sir. Can I help you?
+#Person1#: Um, this steak, I asked for to be medium rare.
+#Person2#: Medium rare, that''s right, sir. I remember your order.
+#Person1#: Well, I''m afraid it isn''t. It''s a bit too well done and rather tough. Would you mind changing?
+#Person2#: If it is not to your satisfaction, I''ll certainly bring you another. But I''m afraid you may have to wait for a few minutes.
+#Person1#: Yes, that''s all right. Thank you very much."
+23,75891f6f-0e2c-43ba-8386-ccd6530acd31,sanjana,test_236,GPT4,,,,"Person1 invited Person2, Gregory, for lunch and offered to pay as Gregory was short on cash. Person1 also shared his recent bungee jumping experience and suggested Gregory should try it out. Gregory, in response, expressed fear and suggested that Person1 might be a little crazy. The conversation ended with Person1 realizing that he has lost his wallet.","#Person1#: Come on, Let''s go for lunch, Gregory . 
+#Person2#: I was going to eat in, I''m short on cash. 
+#Person1#: Don''t worry about it. It''s on me. 
+#Person2#: In that case, I''m with you. Em. this is good . 
+#Person1#: I agreed,Hi, guess what? I went bungee jumping last weekend. 
+#Person2#: Are you on the up and up? 
+#Person1#: Definitely. you know, I''m into serious sport in a big way. 
+#Person2#: If you asked me, you''ve got a screw loose somewhere. 
+#Person1#: come off it, It''s not that serious. You should DIY, do it yourself, sometimes.
+#Person2#: Fat chance, I''m too scared of bungee jumping. 
+#Person1#: No, really, I think you''d like it. I adapted to it right off the bat. 
+#Person2#: What did that have to do with me? I''m not the self-seeker like you. 
+#Person1#: I can teach you how. 
+#Person2#: I had a sneaking suspicion about you, Eric, I think you''ve lost it.
+#Person1#: No, not really, but I think I have lost my wallet. Where can it be? "
+24,1fd31486-65f1-4229-9eca-0c6164cd2bb3,sanjana,test_239,GPT4,,,,"Person1 is looking for a place to park on campus, to which Person2 suggests the parking structure for students located on the western side of the campus. Person1 inquires about the availability of the parking, and Person2 was unsure as they last checked in the morning.","#Person1#: Do you know where I can park? 
+#Person2#: Do you need a spot here or off campus? 
+#Person1#: I want a space on campus. 
+#Person2#: There''s a parking structure for students. 
+#Person1#: Where can I find it? 
+#Person2#: Go to the western side of the campus, and you''ll find it there. 
+#Person1#: Is it full? 
+#Person2#: When I went up there, it wasn''t full at all. 
+#Person1#: When was that? 
+#Person2#: Sometime this morning. 
+#Person1#: Would it be full now? 
+#Person2#: I am really not sure. "
+25,7a743c1e-e72c-4071-a07b-89d0f7a59b69,sanjana,test_241,GPT4,,,,"Person1 sought guidance from Person2 on how to use a vending machine. Person2 explained the process, noting the machine might require multiple attempts to accept money, and emphasized the machines aren''t always reliable. Despite some struggles, Person1 understood the process by the end of the conversation.","#Person1#: I want to know how to buy something from this machine. 
+#Person2#: Yeah, the new ones can be tricky. What are you trying to buy? 
+#Person1#: I want to buy one of those snack things. 
+#Person2#: Are you ready to go? 
+#Person1#: I''m clear so far. 
+#Person2#: The money goes in the slot over there. It has to be smooth to go in. 
+#Person1#: It won''t go in! 
+#Person2#: Just remember that you might have to feed the money in a couple of times to get it to work. 
+#Person1#: Yes, next step. 
+#Person2#: Make your selection and hope for the best. Vending machines aren''t all that reliable. 
+#Person1#: They''re totally unreliable. 
+#Person2#: You seem to have it down. Have a good day! "
+26,ed5e90ae-db57-4f9b-8ec4-77e007279feb,sanjana,test_228,GPT4,,,,"Person2 inquired about booking a flight to Helsinki, Finland on the 23rd of the month and returning on the 29th, requesting the cheapest fare available. Person1 informed them that a flight the day earlier would be significantly cheaper. Person2 agreed to book this cheaper flight for $980. The flight plan involves flying from Salt Lake City to New York''s Kennedy Airport, then transferring to a Helsinki-bound flight. Person2 also requested a vegetarian meal for their journey.","#Person1#: Freedom Travel. How may I help you?
+#Person2#: Yes, I''d like to make a flight reservation for the twenty third of this month.
+#Person1#: Okay. What is your destination?
+#Person2#: Well. I''m flying to Helsinki, Finland.
+#Person1#: Okay. Let me check what flights are available?.
+#Person2#: Okay.
+#Person1#: And when will you be returning?
+#Person2#: Uh, well, I''d like to catch a return flight on the twenty ninth. Oh, and I''d like the cheapest flight available.
+#Person1#: Okay. Let me see. Um, hmm ...
+#Person2#: Yeah?
+#Person1#: Well, the price for the flight is almost double the price you would pay if you leave the day before 12 AM.
+#Person2#: Whoo. Let''s go with the cheaper flight. By the way, how much is it?
+#Person1#: It''s only $980.
+#Person2#: Alright. Well, let''s go with that.
+#Person1#: Okay. That''s flight 1070 from Salt Lake City to New York, Kennedy Airport, transferring to flight 90 from Kennedy to Helsinki.
+#Person2#: And what are the departure and arrival times for each of those flights?
+#Person1#: It leaves Salt Lake City at 10:00 AM, arriving in New York at 4:35 PM, then transferring to flight 90 at 5:55 PM, and arriving in Helsinki at 8:30 AM the next day.
+#Person2#: Alright. And, uh, I''d like to request a vegetarian meal.
+#Person1#: Sure, no problem. And could I have you name please?"
+27,f703e073-2476-4282-a918-6ed6f425d458,sanjana,test_245,GPT4,,,,"Person1 asked Person2, Marquet, for advice on enrolling in a science course in order to graduate that year. Marquet, who is a premedical student, suggested Person1 opt for an introductory course suitable for non-science majors. Person1 voiced trouble with maps, a concern acknowledged by Marquet.","#Person1#: Marquet, do you think I should enroll in the science course? 
+#Person2#: Yes, I think so, If you want to graduated this year, you''ve got to take a science course. 
+#Person1#: Right, I figure since you are doing premedical, you know about the very courses. 
+#Person2#: Well, I have to take biology, chemistry, maps and physics. What you need is a good introductory course for non-science majors. 
+#Person1#: Yes, I really weak in maps, I did poorly in high school. 
+#Person2#: That''s a problem. "
+28,50814c1a-842c-4b91-acd5-d5f9ab5fd91a,sanjana,test_246,GPT4,use of local produce,"It's good to use local produce, too. That something our school already does,",Intrinsic_Error,"Person1 and Person2 discussed Tim''s project on leading a greener life. Tim''s inspiration came from his science lessons on the environment which prompted him to make changes in his personal life. One of those changes was riding his bike to school since there was no bus service near his home. At school, he proposed that most work should be submitted electronically to reduce paper usage. He also suggested improvements in the school cafeteria such as meatless Mondays, use of local produce and removing machines selling bottled drinks.","#Person1#: Tim, you''re going to talk about your project and how to lead a greener life. Why did you choose that subject?
+#Person2#: Well. We''d learned a lot about the environment in our science lessons, so I decided to see what I could do in my own life rather than just act completely helpless. And I knew the rest of my family would be interested.
+#Person1#: Did you find it easy to get information?
+#Person2#: Yeah, I discovered there were lots of people at my age trying to be green. I''d always gone to school by car. Catching a bus would be better, but there''s no bus where we live. So I''ve gone for riding my bike to school now.
+#Person1#: OK. And what about being green once you''re actually at school?
+#Person2#: Well, I realized that although all school paper was recycled and most of my friends use both sides of paper. We use huge quantities and I thought we should cut down and then it came to me that we should be sending in most of our work electronically. I''m going to recommend it to our teachers.
+#Person1#: And what about the school cafeteria?
+#Person2#: One school I''ve read about has meatless Mondays. It''s good to use local produce, too. That something our school already does, but we still have machines with bottled milk, water and juices for sale. And I think we shouldn''t have them."
+29,67c6f933-b185-4956-a492-aafb1da4bd7e,sanjana,test_261,GPT4,Person1 introduced his new assistant to Person2,"#Person1#: : Hi Joe. You met my new assistant, right?
+#Person2#: : Emm. . . yes. But I wasn't too impressed. I found her a little stuck up.",Intrinsic_Error,"Person1 introduced his new assistant to Person2, who confessed that they were unimpressed, finding her rather condescending. Person1 defended the assistant, mentioning how helpful she''s been, to which Person2 pointed out that as her boss, Person1 is likely to receive preferential treatment. Despite Person1 insisting his assistant is universally helpful, Person2 disagreed, mentioning that she doesn''t even greet him.","#Person1#: Hi Joe. You met my new assistant, right?
+#Person2#: Emm. . . yes. But I wasn''t too impressed. I found her a little stuck up.
+#Person1#: You are kidding, but she''s so helpful.
+#Person2#: Tom. . . you are her boss, you kown. Of course, she''s helpful to you.
+#Person1#: Come on. She''s like that with everyone.
+#Person2#: I don''t think so actually. She never even says ''hello'' to me."
+30,27c7e039-c169-4428-a6e2-97b31c33ae79,sanjana,test_264,GPT4,,,,"Person1 asks Person2 if Jenny is joining them and reveals he has a crush on her but is too nervous to confess his feelings. Person2 encourages Person1 to tell Jenny about his feelings and assures him that even if he is rejected, it isn''t the end of the world. Person1 feels uncertain about how to express his feelings to Jenny.","#Person1#: Hey, Mike, is Jenny coming with us?
+#Person2#: Yes. Why?
+#Person1#: Nothing. I''m just asking.
+#Person2#: Just asking? But why is your face burning like mad? Ah-huh, someone has a crush on Jenny, doesn''t he?
+#Person1#: Who has a crush? !
+#Person2#: Come on, Ted, don''t be such a chicken. If you like her, you''ve got to tell her. Maybe she likes you.
+#Person1#: Well, I don''t have the guts to ask her out.
+#Person2#: What''re you so afraid of? Just tell her what you''re feeling about her.
+#Person1#: I''d totally die if she turned me down.
+#Person2#: But that''s better than keeping everything to yourself. You''ve got to let her know. Come on! You''ve got to take a chance! Even though you are rejected, it''s not the end of the world! There''s nothing to lose, is there?
+#Person1#: I don''t know. . . Well, maybe, you''re right, but how am I going to tell her?"
+31,4e7a103b-6ef6-477e-84e1-827bba6bf590,sanjana,test_266,GPT4,Jane is his daughter from his current wife,"#Person2#: : Sarah is your uncle Bill's older daughter. When she was young, Bill's first wife, Sarah's mom died. Three years later Bill married again.
+#Person1#: : So uncle Bill's wife is Jane's mother but not Sarah's mother. Right?
+#Person2#: : Yes. She is Sarah's step-mother.",Intrinsic_Error,"Person 1 and Person 2 discuss their family in New Zealand, including Uncle Bill, his wife, and their two daughters, Sarah and Jane. Uncle Bill is Person1’s mother''s brother and Person2’s brother-in-law. Sarah and Jane are Person1''s cousins and are step-sisters; Sarah is Uncle Bill''s daughter from his deceased first wife, while Jane is his daughter from his current wife. Uncle Bill''s family plans to visit during their Europe trip next year.","#Person1#: Dad, you keep talking about family in New Zealand. Who are they?
+#Person2#: Well, that''s your uncle Bill, his wife and two of their daughters.
+#Person1#: Is uncle Bill your brother?
+#Person2#: No, your uncle Jack is my brother, Bill is my brother-in-law, your mom''s brother.
+#Person1#: So his two daughters are my cousins?
+#Person2#: That''s right, Sarah and Jane are both your cousins although they are step-sisters.
+#Person1#: What are step-sisters?
+#Person2#: Sarah is your uncle Bill''s older daughter. When she was young, Bill''s first wife, Sarah''s mom died. Three years later Bill married again.
+#Person1#: So uncle Bill''s wife is Jane''s mother but not Sarah''s mother. Right?
+#Person2#: Yes. She is Sarah''s step-mother.
+#Person1#: And when are they coming to visit us?
+#Person2#: They want to travel to Europe next year, and will visit us at the same Ae."
+32,6f4c49f8-3293-4eec-b3ae-ac3ecc1e5663,sanjana,test_267,GPT4,,,,"Person1 congratulates Mr. Stuart (Person2) on winning the city marathon, expressing their pride and sharing that they and their children watched him cross the finish line excitedly. Mr. Stuart expresses his happiness and admits that it was indeed an exciting moment.","#Person1#: Congratulations! Mr. Stuart! You won the city marathon.
+#Person2#: Thank you. I am very excited.
+#Person1#: We are all very proud of you.
+#Person2#: I am very happy, too. It was a big game and I won.
+#Person1#: I watched the race with my children. We saw you run to the finish line. We all screamed with excitement.
+#Person2#: It was really an exciting moment."
+33,d3d11557-200d-43fc-ae5d-32793266fed9,sanjana,test_269,GPT4,,,,"Person1 expressed difficulty in affording roaming charges to call back to the UK. Person2 suggested buying a local SIM card from a convenience store, costing about 100 RMB, with a call rate to the UK of roughly 10 RMB per minute. Person1 found this solution affordable.","#Person1#: Hong, I really need to call back to the UK but I can''t afford to pay for the roaming charges.
+#Person2#: Well, why don''t you use a local SIM card?
+#Person1#: Can I do that?
+#Person2#: Yes. Just go to the convenience store and ask for a SIM card. Then insert it into your phone.
+#Person1#: I see. How much will that cost?
+#Person2#: Well it''s 100 RMB for the SIM card then it will cost you about 10 RMB per minute to call the UK.
+#Person1#: Wow, that is cheap. Thank you very much."
+34,07a976d3-9c2d-4ca3-a6c5-d9f868c2420b,sanjana,test_27,GPT4,,,,"James and Muriel Douglas meet for the first time to discuss a new account. They make small talk while waiting for James''s associate, Susan Kim, to join them. They talk about their recent vacations; James went skiing in Tahoe while Muriel stayed in LA, watching the movie King Kong. Muriel reveals she would have enjoyed skiing in Tahoe, but James mentioned that his wife prefers warmer locales like Hawaii, which Muriel found enjoyable when she visited a few years ago. The conversation ends with Susan joining them.","#Person1#: Hello, are you Muriel Douglas?
+#Person2#: Yes, and you must be James. It''s nice to meet you at long last.
+#Person1#: Yes, you too. Thanks for agreeing to meet with us about the new account. My associate, Susan Kim, should be here any minute. Would you like something to drink while we''re waiting?
+#Person2#: No, thanks. I''m fine. Did you have a nice holiday?
+#Person1#: Yes, I did. My family and I went to Tahoe to ski and the weather was great. How about you?
+#Person2#: I stayed in L. A. and it was sunny the entire weekend. We spent most of the time at home but we did go see King Kong on Christmas day.
+#Person1#: How did you like it?
+#Person2#: It was better than I expected. But, you know, I think I would have enjoyed skiing in Tahoe even better. Do you go there often?
+#Person1#: No, not much. My wife doesn''t like to ski. She prefers vacationing where it''s warmer, like Hawaii.
+#Person2#: I don''t blame her. I really enjoyed it there when we went a few years ago. I''d like to go back sometime soon.
+#Person1#: Yes, me too. Oh, here''s Susan now. Let me introduce you."
+35,9fcafaa0-6c09-4f19-85ce-eb73147529d0,sanjana,test_282,GPT4,,,,"Person1 asked if home video players could replace movie theatres, to which Person2 responds that the rise of the DVD industry indeed presents a challenge. However, Person2 believes that movie theatres should evolve to become meeting places for people, not just places to watch films.","#Person1#: Do you think home video players will replace movie theatres and force them out of the entertainment business?
+#Person2#: We''re certainly faced with the grave challenge from the DVD industry. That''s why I think we have to revolutionize our concept of movie showing. As I see it, the movie theatre should not just be a place to watch a film, but a place to meet people."
+36,e768cab6-0d9e-4faf-a57e-36c944c6cd14,sanjana,test_284,GPT4,weekly allowance of $13,"#Person2#: : Thirteen dollars!? Why do I owe you that much? Just seems like I paid you the other day.
+#Person1#: : No. You forget every Saturday, and it has been piling up.",Intrinsic_Error,"Person1, presumably a child, asks Person2, their father, for their weekly allowance of $13, which has been accumulating as their father keeps forgetting to pay. Initially hesitant and suggesting he might not have enough cash on hand, Person2 is reminded of a secret money jar he could use. Person1 plans to use the allowance money for savings, charity, and purchasing books.","#Person1#: Dad. Allowance day. Can I have my allowance?
+#Person2#: Oh. I forgot about that.
+#Person1#: You ALWAYS forget.
+#Person2#: I guess I do. How much do I owe you?
+#Person1#: Just $13.
+#Person2#: Thirteen dollars!? Why do I owe you that much? Just seems like I paid you the other day.
+#Person1#: No. You forget every Saturday, and it has been piling up.
+#Person2#: Well, I''m not sure if I have that much.
+#Person1#: Go to the bank. You have lots of money.
+#Person2#: Lots of money, uh? Uh, well, I think the bank is closed.
+#Person1#: Then, what about your secret money jar under your bed?
+#Person2#: Oh, I guess I could do that. So, what are you going to do with the money?
+#Person1#: I''m going to put some in savings, give some to the poor people, and use the rest to buy books.
+#Person2#: Well, that''s sounds great, Joshua."
+37,fe5e91b5-93ec-4d62-9c23-af77285d7aed,sanjana,test_287,GPT4,,,,"Person1 and Person2 discuss the impact of natural disasters, specifically typhoons and earthquakes. They agree that earthquakes are more devastating, with Person2 revealing that China often experiences earthquakes due to its location on the Eurasia plate. Person2 mentions the devastating 8.0 magnitude earthquake in Wenchuan specifically. They reflect on the collective response to such disasters, emphasizing the importance of assistance and acknowledging that life is priceless. Person1 points out that human kindness in these situations transcends geographical boundaries.","#Person1#: Terrible. How about people''s lives? 
+#Person2#: Fortunately, there is no person died. 
+#Person1#: That''s great. It seems that Typhoon is not as bad as earthquake. 
+#Person2#: Yeah. Earthquake is one of the most badly natural disasters in the world. 
+#Person1#: That''s why many people died in the earthquake. 
+#Person2#: Well, China is located on the Eurasia plate, where earthquakes happen frequently due to the earth''s plates knocking against each other. 
+#Person1#: Oh, China does have been plagued by numerous destructive earthquakes during its long history. 
+#Person2#: Yeah, we''ve experienced the 8. 0 magnitude earthquake in Wenchuan. 
+#Person1#: We''re all familiar with natural disasters. but we still feel weak when we face Wenchuan earthquake. 
+#Person2#: Right. But people at that time only know two words, ''save'' and ''assistance'', they will never don''t lift a finger. Life is the most important compared with anything else. 
+#Person1#: That''s the point. Love among human beings is not limited by geography. "
+38,9787c13d-7008-4e64-87c7-a7dd9e884337,sanjana,test_29,GPT4,,,,"Person1 inquires if Person2 is a social person, to which they reply affirmatively, stating they enjoy being amongst friends. When asked about their communication strategy with colleagues, Person2 emphasizes the importance of sincerity.","#Person1#: Are you a social person?
+#Person2#: Yes, I am an outgoing person who likes to be with a lot of friends.
+#Person1#: What is your strategy in communicating with colleagues?
+#Person2#: Well, the most important thing in communication is your sincerity."
+39,acea386c-e657-4ec7-9017-b5b7cacdf630,sanjana,test_299,GPT4,,,,"Person1 invites Person2, Peter, for tea but he declines saying he needs to water the garden due to its dry conditions, referencing the previous summer when he had to water it everyday. Person1 decides to have tea alone. Soon, it starts raining which means Peter no longer needs to water the garden. So, he agrees to join Person1 for tea.","#Person1#: Can '' t you come in and have tea now, Peter?
+#Person2#: Not yet, I must water the garden first.
+#Person1#: Do you have to water it now?
+#Person2#: I '' m afraid I must. Look at it! It '' s terribly dry.
+#Person1#: What a nuisance!
+#Person2#: Last summer it was very dry, too. Don '' t you remember? I had to water it every day.
+#Person1#: Well, I '' ll have tea by myself. That was quick! Have you finished already?
+#Person2#: Yes, Look out of the window.
+#Person1#: It '' s raining. That means you needn '' t water the garden.
+#Person2#: That was a pleasant surprise. It means I can have tea, instead."
+40,e8fb870b-9a79-4788-aaf8-26861e7f8c1c,sanjana,test_300,GPT4,,,,"Person1 requested an emergency meeting about a critical issue, mandating that it takes place in the afternoon. Despite realizing that Ken won''t be able to attend, they decided to proceed with the meeting. The discussion seemed to revolve around an important order that they cannot afford to lose. Person2 understood the urgency and agreed to arrange the meeting.","#Person1#: We need to call an emergency meeting as soon as possible about this.
+#Person2#: OK. Let me send a memo around.
+#Person1#: Schedule it for this afternoon, when Ken gets back.
+#Person2#: I don '' t think he '' s back today.
+#Person1#: Oh, that '' s right. Go ahead anyways. I '' ll fill him in. We can '' t lose this order under any circumstances!
+#Person2#: I know, it '' s a big one."
+41,7f8d8aa6-8b12-40b9-a78f-594b3763f30d,sanjana,test_300,GPT4,,,,"Person1 requested an emergency meeting about a critical issue, mandating that it takes place in the afternoon. Despite realizing that Ken won''t be able to attend, they decided to proceed with the meeting. The discussion seemed to revolve around an important order that they cannot afford to lose. Person2 understood the urgency and agreed to arrange the meeting.","#Person1#: We need to call an emergency meeting as soon as possible about this.
+#Person2#: OK. Let me send a memo around.
+#Person1#: Schedule it for this afternoon, when Ken gets back.
+#Person2#: I don '' t think he '' s back today.
+#Person1#: Oh, that '' s right. Go ahead anyways. I '' ll fill him in. We can '' t lose this order under any circumstances!
+#Person2#: I know, it '' s a big one."
+42,3c0a9701-cf4a-46d6-bc54-26ddd5308bd3,sanjana,test_309,GPT4,,,,"Person1 and Person2 are discussing various historical sites and figures in London. They mention Nelson''s Column, Westminster Abbey, the statue of Boadicea, the role of women in British history, including Queen Elizabeth I and Margaret Thatcher, and the Tower of London. They also mention the likely visit to Madame Tussaud''s waxworks museum where they can see waxworks of British leaders, entertainers, criminals, and royalty.","#Person1#: London is such a historic city! There''s history everywhere you look. There''s nelson''s column, built as a monument to one of the Britain''s great admirals and his important victory. He won the battle of
+#Person2#: I''m looking forward to seeing Westminster abbey, where many historic figures are buried, like Isaac Newton, the great mathematician and Winston Churchill, the great wartime leader.
+#Person1#: Nearby, on the banks of the thames, there''s the statue of Boadicea. She fought the Romans when they invaded Britain.
+#Person2#: Women have often played an important role in british history. Queen Elizabeth I built a navy strong enough to fight off the Spanish armada in 1588. more recently, Margaret thatcher transformed british
+#Person1#: She was a very controversial leader. Are we going to visit the famous tower of London later?
+#Person2#: There''s a lot to see there. Perhaps we should go tomorrow.
+#Person1#: I''m looking forward to seeing the famous castle and prison. Many historic figures were imprisoned there in the past. I really want to see the crown jewels too.
+#Person2#: I''Ve seen them before. They''re quite incredible. If you want to see historical figures in London, there''s one place you have to go.
+#Person1#: Where''s that? Oh, I know! Madame Tussaud''s the waxworks museum.
+#Person2#: There you can see british leaders, entertainers, criminals, and royalty.
+#Person1#: Sometimes, it''s hard to know who belongs in each section of the museum!"
+43,2d980629-0d29-4290-9be5-716d6926c781,sanjana,test_310,GPT4,,,,"The school has introduced several new courses this semester, leading to an increase in homework for Person1, whose name is Daniel. Of all the courses, Daniel finds Science to be his favorite, which comes as a surprise to Person2 who thought Physical Education would be his favorite. Daniel''s interest in science stems from his desire to understand the world more clearly. Person2 commented that Daniel''s parents would be happy about this interest, as Daniel normally comes off as naughty, an observation Daniel counters by clarifying that he just pursues what interests him.","#Person1#: School has added several new courses to our grade this semester. I have more homework to do now.
+#Person2#: What''s your favorite course, Daniel?
+#Person1#: I like science most.
+#Person2#: Science? That''s a surprise.
+#Person1#: Surprise?
+#Person2#: I thought you would like PE.
+#Person1#: I do like PE, but I am interested in science.
+#Person2#: Are you interested in science? I can''t believe it.
+#Person1#: Through this course, I can learn more about the world around us clearly.
+#Person2#: Your parents would be happy if they knew that. Because you are always a naughty boy.
+#Person1#: Naughty? I''m naughty? I''m just clever. So I only do the things I am interested in.
+#Person2#: Hope so."
+44,6d447310-fc2f-4d9f-965a-5f1dbd6174bf,sanjana,test_311,GPT4,,,,"Person1 is having a baby shower and is delighted by the gifts received, including a baby bib, stroller, highchair, car seat, playpen, and crib. The gifts are from various friends, including Betty and Carla. After all the gifts are opened, an attempt to play a game pertaining to the baby''s due date is interrupted as Person1 announces her water just broke, signaling the start of labor.","#Person1#: Thank you for organizing this great baby shower for me! I''Ve always been to baby showers but never actually had one held for me! Let''s get started!
+#Person2#: Ok, let''s start opening some presents!
+#Person1#: Oh look! What a great little bib for the baby! This will definitely come in handy! Oh wow, you also got me a stroller! That''s so great! Thank you!
+#Person2#: This next one is from Betty.
+#Person1#: A highchair and car seat! Wow Betty, thank you so much! I really appreciate it!
+#Person2#: One more from Carla.
+#Person1#: A playpen and crib! Thanks Carla! This is just what I needed!
+#Person2#: OK, that''s all of them. No more gifts. Now who wants to guess when the baby is due?
+#Person1#: Umm. I think my water just broke! Get me to a hospital!"
+45,fd07d91b-5dd1-4753-bd1b-6d977cd82e00,sanjana,test_312,GPT4,,,,"Person1 expressed their desire to go sight-seeing in China and asked their mother, Person2, for her opinion. Person2 agreed that China is a great choice for a visit. However, when Person1 asked if she would accompany them, Person2 declined, stating she was too busy.","#Person1#: I want to go to china for sight-seeing. What do you think of it, Mum?
+#Person2#: Why not? China is a wonderful country.
+#Person1#: Will you go with me, too?
+#Person2#: No, I''m afraid not now. I''m too busy."
+46,1464fef3-a336-4866-8072-fe5e3fa9352d,sanjana,test_306,GPT4,,,,"Person1 accuses Person2 of not paying attention to their conversation, likening Person2''s state to being ""like a cat on hot bricks"". Person2 admits to being preoccupied out of worry for a third person who is late. Person1 assures them that the person in question is grown up and can look after himself. Despite this, Person2 is still concerned about the fact that he hasn''t returned yet. Person1 suggests that he might be on his way home.","#Person1#: Like a cat on hot bricks, as you might say. I don '' t believe you are listening at all.
+#Person2#: Sorry, I just worried about him. You know, he should be here an hour ago.
+#Person1#: Don '' t worry him, he has been grown up and I think he can take himself very well.
+#Person2#: But he still does not come back.
+#Person1#: Maybe he is on the way home now."
+47,1fa180c8-0b94-47b0-807a-495ca6c300a6,sanjana,test_315,GPT4,,,,"Person1 asked Person2 about their language skills. Person2 revealed that, in addition to their native language of Chinese, they can speak English and French, but can only hold simple conversations in French. They are more proficient in speaking English than reading and writing it, but believe that their level of English is competent enough for general desk work in an American firm, as they were previously an interpreter.","#Person1#: How many languages can you speak?
+#Person2#: Besides Chinese, I can speak English and French.
+#Person1#: You mean you can read and write both of them?
+#Person2#: No, I can only carry on a simple conversation in French.
+#Person1#: Can you read and write English well?
+#Person2#: I can speak the language better than I read and write.
+#Person1#: Do you speak the language well enough to communicate with people of English-speaking countries?
+#Person2#: I think so. I used to be an interpreter.
+#Person1#: Do you think your English is good enough to do desk work?
+#Person2#: The amount of English I know enables me to do general desk work. I believe what I know is sufficient to work in an American firm."
+48,fff19e0f-da61-4e80-add7-510acf36910e,sanjana,test_320,GPT4,,,,"Person1 complained about having a dry throat and being parched, and initially wanted a soda to drink. Person2, however, informed person1 that soda is bad for quenching thirst. Person2 recommended drinking water for dehydration, to which person1 agreed.","#Person1#: My throat is really dry.
+#Person2#: Do you want to go get something to drink?
+#Person1#: Yes, I''m parched.
+#Person2#: What did you want to drink?
+#Person1#: I was thinking about getting a soda.
+#Person2#: Do you know that soda doesn''t quench your thirst?
+#Person1#: Why not?
+#Person2#: Soda is really bad for you.
+#Person1#: I don''t know what else to drink.
+#Person2#: You''re supposed to drink water when you''re dehydrated.
+#Person1#: I would like some water.
+#Person2#: That''s what will keep you from being thirsty."
+49,8d156f3f-3249-4b88-9c69-e015e391893f,sanjana,test_317,GPT4,,,,"Person1 arrived for flight 513 to New York, but found it was canceled. Person2 confirmed the cancellation and suggested booking for tomorrow''s flight or trying another airline. Person1 initially refused to book for the next day and asked about other airlines but upon seeing the long line of people also looking to rebook, decided to accept the offer for tomorrow''s flight. Person2 confirmed the rebooking and offered a 50% discount as an apology for the inconvenience.","#Person1#: Hi. I''m here for flight 513 to New York but I thought I heard the paging system announce that it is canceled. Is that true?
+#Person2#: I''m terribly sorry, sir, but I''m afraid it is true. That flight has been canceled. Would you like to try to book tomorrow''s flight?
+#Person1#: No way! I worked very hard so that I could leave on today''s flight. Are there seats on another airline?
+#Person2#: It''s possible. If you would like to book with another airline the line is right over there.
+#Person1#: You mean the line over there of about 200 people? !
+#Person2#: That''s the one. It seems that everyone is anxious to get to New York tonight.
+#Person1#: This is a rotten way to start a vacation. I HATE lines! Can you book me on tomorrow''s flight?
+#Person2#: Certainly. You will also be receiving a 50 % discount as our way of apologizing for the inconvenience."
+50,cb90cba0-67a3-4b84-98d3-5c97a5596764,sanjana,test_318,GPT4,,,,"Person1 suggests going to Burger Queen for lunch, praising their popular cheeseburgers. Person2 agrees, mentioning they enjoy the creamy and tasty milkshakes on offer. They discuss the long line at the restaurant, with Person1 saying it''s worth the wait. Person1 also recommends the French fries served with mayonnaise, which Person2 notes they might try. Despite reservations about the unhealthy nature of fast food, both are eager to eat, with Person1 encouraging patience in waiting for their meal.","#Person1#: Let''s go to Burger Queen for lunch. They have good cheese burgers.
+#Person2#: OK. I am hungry, too. I like their milkshake. They''re very creamy and tasty.
+#Person1#: Look at the long line, there are always a lot of people waiting in lines just for the cheese burger. It must be very delicious.
+#Person2#: Yup. But, this also means we have to wait to order our food.
+#Person1#: Come on. It is worth waiting. Their cheese burgers are really popular. Once you have it, you will love it.
+#Person2#: Well, sounds very attractive. I just tried their vanilla milkshake last time, and it was really delicious.
+#Person1#: Yup, they have good French fries as well. Not very thick, but crispy enough. You should try them with some mayonnaise sauce. That is the Belgium style. You will love it.
+#Person2#: OK, I think I know what to order for my lunch now. But, eating too much fried food really makes me fat.
+#Person1#: Come on. You just have it once in a while, not every day. It will not harm you.
+#Person2#: That''s true. You can hear my tummy grumbling. I am really hungry!
+#Person1#: Be patient. Good food never comes fast.
+#Person2#: Ok!"
+51,72f38c55-e3ac-463f-84dc-3e9c4b3ea3ba,sanjana,test_323,GPT4,,,,"Person1 asked Person2 (Benjamin) if he has finished his project report, to which Benjamin admitted he has not and doesn''t know how to compose one since he has only ever created research reports. Person1 then told Benjamin that the report must include a final conclusion, a plan for the next year, details about his experiences, and needs to adhere to a proper format. Benjamin expressed that the task seems too complex, revealing that he doesn''t know how to use Microsoft Word. Person1 agreed to help Benjamin this time, but insisted that Benjamin must learn to do it himself in the future.","#Person1#: Hey, Benjamin, have you finished your report on the project?
+#Person2#: Not yet. To tell you the truth, I don''t know how to write it. I''ve considered it for several days.
+#Person1#: What? Man, you don''t know how to write a project report? That''s sounds a little bit ridiculous.
+#Person2#: Don''t laugh at me, please. I''m serious. I''ve never been required to write this kind of report before, I only do the research reports.
+#Person1#: Oh, sorry, I''ve totally forgotten that you are a workaholic.
+#Person2#: So what items must be involved in this report?
+#Person1#: First is your final conclusion on your work of this year, and then comes your plan for the next year.
+#Person2#: Yeah, is that all?
+#Person1#: Let me see, no, you have to include more details about your final conclusion, for example, your experiences in dealing with some emergent events.
+#Person2#: That''s too complicated.
+#Person1#: And only that doesn''t make a perfect one, you also have to pay attention to the format of the report.
+#Person2#: Oh, my God, is there any fixed for mat for it-the one that I just need to fix my information in?
+#Person1#: I''m sorry. There isn''t. Because different people have to write different kinds of reports.
+#Person2#: But I don''t know how to work the Microsoft Words. Could you please give me a hand?
+#Person1#: OK, no problem. But you have to learn it and then do it yourself next time."
+52,3ddb7aba-08d8-4b95-b19d-3a960940b5a8,sanjana,test_327,GPT4,,,,"Person2 visited a shop to complain about a personal stereo they bought there three days prior. They were dissatisfied with a large scratch on the product and the noise it produced which could be heard by others, contrary to what was advertised. Initially, Person1 implied that it was Person2''s responsibility to check the product before purchase and suggested the noise issue may be due to how they were wearing the headphones. On insistence, Person1 proposed to exchange the product but asked for the receipt, which Person2 mentioned could be a problem.","#Person1#: Yes. Can I help you?
+#Person2#: Yes. You see, I''ve bought this personal stereo at your shop 3 days ago. And I''m afraid it hasn''t really matched up to what I was told about.
+#Person1#: I see, what exactly is the matter?
+#Person2#: Well, first of all, there is this large scratch across the front of it.
+#Person1#: But you should have noticed that when you bought it.
+#Person2#: But it was in the box and all sealed up.
+#Person1#: Well. I''m sorry, but it really is your responsibility to check the goods when you buy them. How are we to know that it wasn''t you who made the scratch?
+#Person2#: But that''s ridiculous. But anyway, it''s not the most important thing. I really am not happy about this other thing.
+#Person1#: And what is that?
+#Person2#: Look. It says here that the noise from it should be undetectable by other people.
+#Person1#: Yes, that''s right.
+#Person2#: But people can hear it, and it''s really embarrassing on the bus and underground.
+#Person1#: Well, I''m sorry, but it must be the way you are wearing the headphones.
+#Person2#: Look. I know how to put earphones in my ears. Thank you very much. But what I want to know is, what you are going to do about it at all?
+#Person1#: Well, I suppose we could exchange it for another model, if you really aren''t happy with it.
+#Person2#: No, I certainly am not.
+#Person1#: Well, if I could just have the receipt.
+#Person2#: Oh yes. Well, there is a slight problem about the receipt."
+53,7c80725c-0ae8-4050-8e2d-04914e7e0a0c,sanjana,test_328,GPT4,,,,"Person1 told Person2 about the long line at the housing office for dormitory deposits, urging them to make their deposit soon before the May 1 deadline. However, Person2 is contemplating living off campus despite the additional expenses due to the noisy dorm environment. Person1 suggested studying in the library to save money. Nonetheless, Person2 decided to further consider their options as two weeks remain before the deposit deadline.","#Person1#: You should have seen the line at the housing office. It took me an hour to make my dormitory deposit for next year. Have you made yours yet?
+#Person2#: No, I''m not sure I''m going to.
+#Person1#: There''s not much time left. The deadline''s May 1. That is just two weeks from now. Are you short of cash?
+#Person2#: No, I''m Okay.
+#Person1#: You''d better hurry up if you want a dorm room next September. There aren''t enough rooms for every one, and first year students have priority.
+#Person2#: Well, I''ve been thinking about living off campus.
+#Person1#: Have you any idea of how much that would cost? There is the rent, utilities, and you''d probably need a car.
+#Person2#: I know it would be more expensive. I think I can handle it though. The dorm is just so noisy that I can''t get anything done. Maybe my grades would be better if I had some peace and quiet in a place of my own.
+#Person1#: You should study in the library the way I do. Think of the money you''d save.
+#Person2#: I''ve got to think it over some more. There''s still two weeks left in April."
+54,7528d97f-197f-4211-ac6e-dcf1944f933c,sanjana,test_33,GPT4,,,,"Person1 is directing a scene and asks for a retake due to Person2''s, Mike''s, emotive interpretation. Person1 wants Mike to show more anger, believing that his character would initially respond with anger in the given situation. Mike disagrees about the character''s reaction, arguing it might involve anger and sadness. Person1 proposes they try his interpretation first and make adjustments later if necessary.","#Person1#: OK, that''s a cut! Let''s start from the beginning, everyone.
+#Person2#: What was the problem that time?
+#Person1#: The feeling was all wrong, Mike. She is telling you that she doesn''t want to see you any more, but I want to get more anger from you. You''re acting hurt and sad, but that''s not how your character would act in this situation.
+#Person2#: But Jason and Laura have been together for three years. Don''t you think his reaction would be one of both anger and sadness?
+#Person1#: At this point, no. I think he would react the way most guys would, and then later on, we would see his real feelings.
+#Person2#: I''m not so sure about that.
+#Person1#: Let''s try it my way, and you can see how you feel when you''re saying your lines. After that, if it still doesn''t feel right, we can try something else."
+55,ae75dc58-90d4-43bc-84a9-10c29b3eaff1,sanjana,test_336,GPT4,,,,"Person2 enters the French Garden Restaurant and is welcomed by Person1 who leads him to his table. Person3, the waitress, arrives to take his order. After inquiring about the drink options, he decides on a bottle of water, along with a tuna fish sandwich and a bowl of vegetable soup for his meal.","#Person1#: Hello sir, welcome to the French Garden Restaurant. How many? 
+#Person2#: One. 
+#Person1#: Right this way. Please have a seat. Your waitress will be with you in a moment. 
+#Person3#: Hello sir, would you like to order now? 
+#Person2#: Yes please. 
+#Person3#: What would you like to drink? 
+#Person2#: What do you have? 
+#Person3#: We have bottled water, juice, and Coke. 
+#Person2#: I''ll have a bottle of water please. 
+#Person3#: What would you like to eat? 
+#Person2#: I''ll have a tuna fish sandwich and a bowl of vegetable soup. "
+56,d3224521-8f01-4cb8-b8c1-558994adebfe,sanjana,test_337,GPT4,,,,"Person1, possibly a server, offered to get Person2 a drink, to which they requested lemonade. Person2 also ordered barbeque wings as an appetizer and later, baby-back ribs for their main course. Person2 indicated they didn''t need anything else for the time being.","#Person1#: Hi, may I get you anything to drink? 
+#Person2#: Yes, please. May I get a glass of lemonade? 
+#Person1#: Would you like an appetizer? 
+#Person2#: May I get an order of barbeque wings? 
+#Person1#: Sure, would you like anything else? 
+#Person2#: That''ll be fine for now, thank you. 
+#Person1#: Okay, tell me when you want to order the rest of your food. 
+#Person2#: Excuse me. I''m ready to order. 
+#Person1#: What would you like? 
+#Person2#: Let me have the baby-back ribs. 
+#Person1#: Sure, will there be anything else that I can get you? 
+#Person2#: That will be it for now. "
+57,e2b02443-1981-4178-9703-4d4201408e9a,sanjana,test_339,GPT4,,,,"Person1 and Person2 are hypothetically discussing potential situations during their conversation. Person2 revealed that she would like to date Eric, who is popular at school. Person1 would use lottery winnings to travel around the world, and Person2 would like to join him. However, Person1 believes his father would not approve. Person1 also jests that his mother would faint if he announced his intention to get married.","#Person1#: Okay, next question. If Eric asked you out on a date, what would you say? 
+#Person2#: Duh! I would say yes! Eric is the most popular kid in school! Okay, my turn. What would you do if you won the lottery? 
+#Person1#: Let''s see. . . If I won the lottery, I would buy two tickets for a trip around the world. 
+#Person2#: If you buy me a ticket I will go with you for sure! 
+#Person1#: My dad will freak out if I even mention a trip like that! 
+#Person2#: Alright this is a good one. What would your mom say if you told her you are going to get married? 
+#Person1#: If I told her that, she would faint and have me committed! "
+58,b9de57e6-c334-41f8-a4f6-5d0d29704cf7,sanjana,test_343,GPT4,,,,"Person1 asks Person2 if their city, which 200 years ago was just a small village, is a historical place. Person2 explains that the city grew due to large coal deposits which attracted many industries. The city absorbed many villages, whose names now make up parts of the city. Person1 learns that several buildings from the villages, including inns and a castle, still exist, giving the city a historical aspect.","#Person1#: Is your city a historical place? 
+#Person2#: Not rally. 200 years ago, it was just a small insignificant village. 
+#Person1#: How did it grow into such a large place? 
+#Person2#: Large deposits of coal were found nearly and so many industries located themselves here. The village quickly grew into a key industrial centre. 
+#Person1#: As the city grew, it must have absorbed many village nearby. 
+#Person2#: Yes, it did. The names of those village survive as the names of parts of the city. 
+#Person1#: I see. Are there any building more than 200 years old in your city? 
+#Person2#: Oh, yes. Several of the buildings from the villages still survive. Many of them were inns for travelers and today survive as pubs. There was a castle near one village, so our city has a castle too. 
+#Person1#: Really? So your city does have some old history after all. "
+59,93d334fd-ce49-4bed-a0b4-bf491ffc4e86,sanjana,test_35,GPT4,,,,"Person1 notices that Person2, Bill, looks tired and learns that it is because he has been working late every night. Person1 advises him to go home on time and rest. Person2 also shares that his brother is on an extended business trip in the States. Before parting, Person1 ensures they have the correct time in order not to be late for a 5 o''clock meeting, which Person2 confirms with the time on his watch.","#Person1#: What''s the matter, Bill? You look kind of pale.
+#Person2#: Oh, I''m just tired.
+#Person1#: Why?
+#Person2#: Well, I''ve been working until around ten every night this week.
+#Person1#: You should go home at quitting time today and take it easy.
+#Person2#: Yes. I think I will.
+#Person1#: That''s good. Say, how''s your brother?
+#Person2#: He''s fine, but he is awfully busy. He went to the States on a business trip two weeks ago.
+#Person1#: Oh, really? Is he back yet?
+#Person2#: No, he won''t come back for several more weeks.
+#Person1#: Wow! He must have a lot to do there.
+#Person2#: Yes, he does.
+#Person1#: I want to be sure of the time because I''m going to meet a friend at five o''clock sharp.
+#Person2#: Well, my watch says 4:30, and that time should be right. I set it with the radio yesterday.
+#Person1#: Good."
+60,1e24ddb1-9830-4bc9-99b6-888f6091f485,sanjana,test_350,GPT4,,,,"Person1 inquired about their delayed flight CA216 to Chengdu, and Person2 confirmed the delay was due to heavy rain. However, further details about the extent of the delay were not given due to the unpredictability of the weather. Person2 suggested that Person1 continue to monitor for the latest announcements related to their flight.","#Person1#: Excuse me, Miss.
+#Person2#: What can I do for you?
+#Person1#: I''ve just heard an announcement that my flight has been delayed.
+#Person2#: What''s your flight number?
+#Person1#: Flight CA216 to Chengdu.
+#Person2#: Yes, it''s true. It has been delayed.
+#Person1#: Could you please tell me why?
+#Person2#: Yes, of course. The delay is due to heavy rain.
+#Person1#: How long will the delay be? Do you have any further information about it?
+#Person2#: I am sorry, we don''t know the extent of the delay at present. But according to the latest weather forecast, there will be a change in weather soon.
+#Person1#: We have to wait. Well, is it possible for the rain to stop before noon?
+#Person2#: It''s hard to say. Weather is so changeable in the summer. Please listen to the latest announcement about your flight.
+#Person1#: Yes, I will. Thanks a lot. Bye!
+#Person2#: Bye"
+61,b27ebf3d-62b2-4c48-9698-e6537955deeb,sanjana,test_353,GPT4,,,,"Person1 expresses a strong dislike for computer games due to their violent and sometimes disgusting nature, even suggesting that boys could be negatively influenced by them. Person2, however, defends computer games, acknowledging that while some are bad, many are good too. Person2 also points out that boys can develop computer skills through gaming.","#Person1#: I hate computer games.
+#Person2#: Why? They are fine.
+#Person1#: Because they are too violent. Some of them are even disgusting.
+#Person2#: Indeed there are bad games. But many of them are good.
+#Person1#: If boys grow up with computer games, they will surely become bad.
+#Person2#: Come on. Things are not so bad. Boys can learn to use the computer through games."
+62,a51ee96e-f68a-4895-a9dc-1387c6d54d71,sanjana,test_338,GPT4,,,,"Person1, likely a server, asked Person2 if they would like anything else. Person2 requested water and specified they would like their coffee with their dinner, telling the server to take their order for dessert later. Person1 confirmed this.","#Person1#: Would you like anything else, sir? 
+#Person2#: May I have some water, please? 
+#Person1#: Certainly. Would you like your coffee with your dinner or later? 
+#Person2#: With my dinner, please. And can you take my order for dessert later? 
+#Person1#: Of course. "
+63,96566db7-9e04-47ac-9e79-0c4b8680dff0,sanjana,test_341,GPT4,,,,"Person1 tells Person2 that their Aunt Jane bought a new bike for Tom, causing Tom to act superior. Person1 expresses envy over Tom''s bike compared to the one Person2 got them last year. Person2 observes that Tom is better behaved than Person1, which Person1 disputes. They then discuss the tardiness of their daily bus, with Person1 promising to buy a car and eventually a plane to avoid the traffic, which Person2 eagerly anticipates.","#Person1#: Mom, I''ve got something to tell you. 
+#Person2#: So, please! 
+#Person1#: Aunt Jane buys a new bike for Tom. He is putting on grand airs. 
+#Person2#: I bought you a new one last year. Isn''t it handsome? 
+#Person1#: It is great. But Tom''s bike is so much better than mine. 
+#Person2#: Frankly, he is more well-behaved than you. 
+#Person1#: Nothing of that sort! 
+#Person2#: Why hasn''t the bus come yet? Every morning we have to wait for so long. 
+#Person1#: Mom, it''s OK. I will buy a big car one day. It is faster than the bus. 
+#Person2#: Really? I am looking forward to that. What about the traffic? 
+#Person1#: Let me see. Yes. I will buy a plane for you. There is no traffic up there. "
+64,ef16b2e2-c83c-43d1-b440-5ccc35c00b02,sanjana,test_346,GPT4,,,,"Person1 is discussing with Person2, named Nathan, about his upcoming summer practice in Chicago at a large newspaper, the Chicago Tribune. Nathan expresses his excitement and a lack of fear for the work ahead, confident in his social skills and natural curiosity to effectively learn and perform. He also mentions that he knows the person with whom he will be working and his expected tasks, giving assurance that this practice is a valuable opportunity for experience, not just for company profit.","#Person1#: Well, you must be happy, Nathan you''re almost ready to go to Chicago for your practice. We''re sure going to miss you around here.
+#Person2#: I''ll miss you too, mom. But yeah, I''m excited about my summer. And don''t be too sad. I''ll be back in a few months, in time for the first day of school. By winter break, you''ll hardly remember I was even gone.
+#Person1#: So how do you think you''ll do in the big city? Are you worried about working for a big newspaper like the Chicago Tribune?
+#Person2#: Not really. I''m not afraid of hard work and I know how to organize my day. I think I''ll do a good job.
+#Person1#: But doing for practice isn''t just for the company to profit, is it? It''s also for you to get experience. Do you even know what you''ll be doing?
+#Person2#: I''m not worried about that. I''ve got a lot of natural curiosity. And I''m very social, I''m sure I''ll learn from all the other people there.
+#Person1#: What if they stick you in some backroom by yourself just copying papers or taking out the trash?
+#Person2#: I don''t think that will happen. They asked for someone who was good at editing, organizing computer files and keeping track of deadlines. And I already know who I''ll be working with, one of their regular writers.
+#Person1#: That''s good, so you will probably get some on the job training. This is such a great opportunity for you."
+65,f1cad88b-ea88-4ee0-bd2b-ef1d30b3ae45,sanjana,test_352,GPT4,,,,"Person1 and Person2 exchange morning greetings. Person1 enquires about the news, weather, a bank robbery, and sports scores from Person2. The main updates are: there is a lot of bad news, the weather is expected to be sunny and mild today but cloudy and rainy tomorrow, the bank robbers haven''t been found, and as for the sports scores, Person2 hands the paper to Person1 to read them personally.","#Person1#: Good morning.
+#Person2#: Good morning.
+#Person1#: What does the paper say?
+#Person2#: Nothing much , the same old stuff. A lot of bad news as usual.
+#Person1#: Well, what '' s the weather report?
+#Person2#: Sunny and mild today, cloudy and rainy tomorrow.
+#Person1#: Did they find those bank robbers?
+#Person2#: Not yet. They were holding two men in Ohio, but they let them go. They weren '' t the criminals after all.
+#Person1#: What about the sports page? What were the scores of last night '' s games?
+#Person2#: Here '' s the paper ; you can read them yourself."
+66,ae8f58bc-e483-44dd-b226-5a72340bce12,sanjana,test_363,GPT4,"Person1, the art lover, then invited Person2 to a Greek and Roman sculpture exhibition","#Person1#: : Art isn't for everyone. I'm going to an exhibition tomorrow at the national gallery. It's an exhibition of greek and roman sculpture.
+#Person2#: : I like sculpture, especially that form ancient rome or Greece. What time are you thinking of going? I'd love to go with you.",Intrinsic_Error,"Person1 asked Person2 about their interest in art, to which Person2 replied that they do not know much about it but enjoy the occasional exhibition. Person1, the art lover, then invited Person2 to a Greek and Roman sculpture exhibition at the national gallery, which Person2 accepted as they like sculpture. They decided to meet at 12:30 for an early lunch before going to the exhibition via Bus 51.","#Person1#: Are you an art aficionado?
+#Person2#: Not really. I like going to an art exhibition once or twice a year. I hardly know anything about art or sculpture. You are a true art lover, aren''t you?
+#Person1#: I love going to art galleries, particularly when one is holding an exhibition of abstract art.
+#Person2#: I never understand the meaning of those painting. They are too abstract for me. I didn''t pay much attention in art class at school.
+#Person1#: Art isn''t for everyone. I''m going to an exhibition tomorrow at the national gallery. It''s an exhibition of greek and roman sculpture.
+#Person2#: I like sculpture, especially that form ancient rome or Greece. What time are you thinking of going? I''d love to go with you.
+#Person1#: I thought I''d have an early lunch and go immediately afterwards. Does that sound ok to you? Bus 51 goes directly there.
+#Person2#: That sounds fine. What time shall we meet at the bus stop?
+#Person1#: Let''s meet at 12:30. it will probably take us there or four hours to see all of the exhibits."
+67,f20b4869-f461-4975-b2f6-eeb9e6658949,sanjana,test_371,GPT4,,,,"In the conversation, Person 1 invites Person 2 into their office, complimenting their impressive writing experience. Person 2 confirms their experience, stating they have written for several top newspapers and are currently working on a novel. Person 1 expresses curiosity about why Person 2 is interested in a position at their paper.","#Person1#: Good morning. Please come into my office.
+#Person2#: Good morning. Thank you.
+#Person1#: I see that you have some impressive writing experience.
+#Person2#: Yes. I have written for several top newspapers in the country. I''m also in the process of writing my first novel.
+#Person1#: Wonderful. I''d like to know why you''re interested in this position at our paper."
+68,f95771dc-aa78-4db4-b6b0-4818aaeb44dc,sanjana,test_354,GPT4,,,,"Person1 proposes going for beers after dinner, but Person2 declines because it''s not good for their fitness. After discussing alternative activities, they decide to go to the gym where they could potentially meet friends and engage in fun activities like playing singsong, pingpong or even dancing. They agree this sounds like fun and decide to go immediately.","#Person1#: Say, Jim, how about going for a few beers after dinner?
+#Person2#: You know that is tempting but is really not good for our fitness.
+#Person1#: What do you mean? It will help us to relax.
+#Person2#: Do you really think so? I don''t. It will just make us fat and act silly. Remember last time?
+#Person1#: I guess you are right. But what shall we do? I don''t feel like sitting at home.
+#Person2#: I suggest a walk over to the gym where we can play singsong and meet some of our friends.
+#Person1#: That''s a good idea. I hear Mary and Sally often go there to play pingpong. Perhaps we can make a foursome with them.
+#Person2#: Sounds great to me! If they are willing, we could ask them to go dancing with us. That is excellent exercise and fun, too.
+#Person1#: Good. Let''s go now.
+#Person2#: All right."
+69,543000b4-298f-4d23-acca-0f117d91b401,sanjana,test_367,GPT4,,,,"Person1 informs Person2 that he is checking out in 30 minutes, but wishes to explore the city before his departure. He needs a place to store his luggage. Person2 informs him that there is available storage for a small charge and a deposit, but Person1 hesitates about the need for a deposit in addition to leaving his luggage. Person2 suggests using his VISA to cover the deposit. Person1 needs some time to consider the proposal.","#Person1#: Do you know that I''m checking out in about 30 minutes?
+#Person2#: Just say the word, sir.
+#Person1#: Excellent! Now, as you know, the day has barely begun.
+#Person2#: I agree. The dew is still on the grass.
+#Person1#: I want to hit a few more places in the city, but I need a place to put my luggage.
+#Person2#: We do have a storage space for your bags. There''s a small charge, plus a deposit.
+#Person1#: Leave a deposit? Isn''t leaving the luggage enough of a deposit?
+#Person2#: Regrettably, no. But simply present your VISA to cover your deposit.
+#Person1#: Hmm. I''ll have to think about this for a second.
+#Person2#: Okay, sir, but don''t think too long. Your checkout is only 30 minutes away."
+70,e16a9555-6c3a-4bb0-baee-37139046e585,sanjana,test_376,GPT4,,,,"Person1 and Person2 discussed the possibility of their headmaster planning to construct a new lab building due to the increasing teaching needs that the current one can''t fulfill. However, they suspect funding may pose an issue. They hope that the headmaster will request assistance from the local government and that a decision will be made by the end of the term.","#Person1#: Do you think our headmaster is going to build a new lab building?
+#Person2#: I''ve no idea. He may have the plan. But he hasn''t spoken to us teachers about it.
+#Person1#: Do you think it possible that it will happen?
+#Person2#: Of course. Right now, our old lab building can''t satisfy the increasing need of teaching. It''s too small and not in proper condition.
+#Person1#: Why don''t we build a new one as soon as possible?
+#Person2#: There may be some problems with it.
+#Person1#: What''s the problem then?
+#Person2#: As far as I know, money is. It''s not likely to be solved soon, I guess.
+#Person1#: I believe our headmaster will ask the local government to help us build a new one.
+#Person2#: I think so. It''s quite likely that the decision will be made before the end of this term."
+71,eb5ba863-59fe-4ba7-bd01-866addbabb61,sanjana,test_360,GPT4,,,,Person1 came back to their seats with hot dogs and beer. Person2 updated them about Cal Ripen''s home run which led Baltimore to lead the scoring board with 5 to 4. Both enjoyed the baseball game and appreciated the ambiance of the stadium and the fans. They concluded that baseball is indeed America''s favorite pastime.,"#Person1#: Here''s your hot dog and beer. What happened? Did I miss anything?
+#Person2#: Yeah, Cal Ripen just hit a home run.
+#Person1#: What''s the score?
+#Person2#: Well it was 3 to 4, but Ripen''s home run made it 5 to 4 since another player was on first base.
+#Person1#: So Baltimore is winning?
+#Person2#: Right.
+#Person1#: This is a really great place to watch a baseball game.
+#Person2#: Yeah, there isn''t a bad seat in the place.
+#Person1#: The fans are great here, too. Not like in Philadelphia.
+#Person2#: It was a great idea to spend a day watching a game.
+#Person1#: Yeah, it reminds you why they say baseball is America''s favorite pastime."
+72,dde9a945-7665-4399-b2e5-2e67c885b8c5,sanjana,test_364,GPT4,,,,"Person2 approached Person1 to return a book and check out a video from a library. Person1 confirmed the requests and asked for Person2''s library card. Person1 then advised Person2 to take proper care of the video, warning about potential fines for any damage. Person2 assured that they would not damage the video.","#Person1#: How may I help you?
+#Person2#: I would like to return this book.
+#Person1#: Is that all you need?
+#Person2#: I also want to check out this video.
+#Person1#: Is that all you would like to check out?
+#Person2#: That''s all I need.
+#Person1#: Do you have your library card?
+#Person2#: Here it is.
+#Person1#: Make sure to take proper care of this video.
+#Person2#: That won''t be a problem.
+#Person1#: If you damage the video, you will be fined.
+#Person2#: I won''t damage it."
+73,6334afa6-8f3b-48c1-a85d-6b065d61315b,sanjana,test_372,GPT4,,,,"Person1 seeks advice from Person2 about inquiring about the results of an interview. They agree that Person1 should reach out and Person2 suggests sending an email, emphasizing the importance of politeness and conciseness. Person2 also reminds Person1 to monitor closely for any responses from the employer.","#Person1#: Jack, I think it''s best that I actively ask for the results of interview.
+#Person2#: That''s a good idea! So you don''t need to worry about it.
+#Person1#: I think so, too. What do you think about that I write a letter of inquiry to the company?
+#Person2#: It''s OK. You could send an email to the employer via the internet.
+#Person1#: Good idea. It is convenient and fast.
+#Person2#: You could inquire about the results directly, but should be politely.
+#Person1#: Certainly.
+#Person2#: I think the letter of inquiry should be written briefly. If it''s too long, I''m afraid the employer won''t have time to read it.
+#Person1#: I think that about one hundred words are enough.
+#Person2#: After you send the letter of inquiry, you should pay close attention not to miss any reply.
+#Person1#: OK, I know now."
+74,91174d8e-6d6e-4936-8862-53eecebbb311,sanjana,test_373,GPT4,,,,"Person1 and Person2 toured around Person2''s house. They noted the spaciousness of the courtyard, approximately 46 square meters in size. Person1 observed corn ears hanging from a tree and upon inquiry, learned that they were hung there to be peeled during winter leisure time, a visual representation of the house''s plenty.","#Person1#: We''d like to have a look around your house?
+#Person2#: Yes, of course, please follow me.
+#Person1#: Thank you.
+#Person2#: This is our courtyard.
+#Person1#: It''s so spacious, about 40 square metres, right?
+#Person2#: Yes, about 46 square metres.
+#Person1#: Are these corn ears hanging on the tree branch?
+#Person2#: Yes.
+#Person1#: Very beautiful and very interesting. But why do you hang them in the tree?
+#Person2#: They don''t have enough time to peel it after they harvested them, so they hung them in the tree. Then in winter, they can peel corn ears in their leisure time.
+#Person1#: Very good idea. Sometimes such pictures can show the house''s richness."

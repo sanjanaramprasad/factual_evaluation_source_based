@@ -1,0 +1,1965 @@
+,uuid,user_id,docid,model,nonfactual_spans,evidence,error_type,summary,dialogue
+16,3cc5013c-4080-413e-aa5f-aec0dc93e349,sanjana,13681870,gpt4-32k-0613,,,,"Miley expresses her fatigue and lack of desire to go to work the next day, stating she needs some rest. Aaron echoes her sentiments, wishing for a holiday. He encourages her to keep going.","Miley: don''t want to go to work tomorrow!
+Miley: wanna sleep!!!
+Miley: need some rest :(
+Aaron: know what u feelin
+Aaron: really want some holiday already
+Miley: :(
+Aaron: fighting girl!"
+27,c094b128-08b6-4187-91cf-c44d9ab25baa,sanjana,13681871,gpt4-32k-0613,,,,"Andy informs Sue that he will be working late until 4 and will arrive by 8, to which Sue responds with understanding and no issue.","Andy: Working late til 4 xx
+Sue: no worries xx
+Andy: be there by 8 xx
+Sue: No probs babes xx"
+32,149452c6-bf79-47b0-b0ee-ecfcf99caa7f,sanjana,13681429,gpt4-32k-0613,,,,"Cass confirmed with Jordan that he received his birthday card and money, which included £20. Jordan showed gratitude and apologized for not reaching out sooner. Cass selected a Thomas the Tank engine themed-card for Jordan because she believed he still liked it. Jordan confirmed his love for the character but requested a football-themed card next time since he''s 11. Both ended the conversation with expressions of love.","Cass: Hi darling, did you get your birthday card and money on time?
+Jordan: hello Nanna! Thanks for the £20. Sorry I didn''t ring you before.
+Cass: you still like Thomas the Tank engine don''t you? I picked it specially.
+Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I''m 11 now!
+Cass: I know, you are so grown up. Love you xxxxx
+Jordan: Love you, Nan xx"
+34,a8c98d99-c964-46d0-a51c-bca6569900c1,sanjana,13681439,gpt4-32k-0613,,,,"Phoebe can''t go out because her mother is angry with her for using and breaking her expensive perfume. The incident resulted in their whole house smelling strongly of the perfume, which Phil finds amusing but Phoebe doesn''t.","Phil: can you go out today?
+Phoebe: no
+Phoebe: my mum is still angry
+Phil: why?
+Phoebe: i used her perfume
+Phil: so what?
+Phoebe: i used it and broke it
+Phil: really?
+Phil: xd lol
+Phoebe: not funny
+Phoebe: it was very expensive
+Phoebe: besides, our whole house stinks
+Phil: so it was not so beautiful perfume?
+Phoebe: it was, but not 100 ml for 80 square meters"
+36,48d59334-9492-4cc1-a5ce-1b0378e34a1f,sanjana,13681441,gpt4-32k-0613,,,,"Joanna shares with Merve that their mutual acquaintance Lewandowska has been hospitalized due to measles. As a result, all those who have been in contact with her are urged to get vaccinated. Merve hasn''t seen her recently, but Joanna has since Lewandowska is her thesis mentor. Joanna plans to get vaccinated before work on the 18th, despite her busy schedule. Vaccinations are being organized in the main building from the 17th to the 19th.","Joanna: They are sending emails about Lewandowska.
+Merve: What happened?
+Joanna: <file_photo> 
+Merve: Wooow!
+Joanna: She is hospitalized because she has measles.
+Merve: She had what?
+Joanna: Anyone who had contact with her within the last couple of days must get vaccinated.
+Merve: Luckily I didn''t see her since the last semester...
+Joanna: I did, she is my thesis mentor :(
+Merve: What will you do?
+Joanna: They are organizing vaccinations in the main building from 17th until 19th.
+Merve: You have to go!
+Joanna: I know... And I just started working so I really don''t have a lot of time.
+Merve: Come on, this is really important.
+Joanna: I will try to do it before work on 18th, hopefully I won''t lose the entire day..."
+37,3db1d56f-7cb9-4b23-9c8c-3e1f401d42cd,sanjana,13681482,gpt4-32k-0613,Filip wasn't around,"Derek : McCarthy: Filip - are you around? Would you have an Android cable I could borrow for an hour? I'm almost out of charge and I have a power pack  but forgot my cable
+Tommy: : I am in Poland but can ring my wife and she will give you one",Intrinsic_Error,"Derek McCarthy asked if he could borrow an Android cable from Filip, as he had forgotten his and his phone was almost out of charge. However, Filip wasn''t around, but his friend Tommy offered to help. Tommy, who was in Poland, offered to ask his wife, Paulina, to provide a cable. He informed Derek that although she was at work, she would be home around 8:15 pm. Derek thanked Tommy for his help and agreed to the plan.","Derek McCarthy: Filip - are you around? Would you have an Android cable I could borrow for an hour? I''m almost out of charge and I have a power pack  but forgot my cable
+Tommy: I am in Poland but can ring my wife and she will give you one
+Tommy: Do you want me to?
+Tommy: 67 glenoaks close
+Derek McCarthy: That would be great if you could!! Otherwise I''m sitting here in the dark for an hour <emoticon_smile>
+Tommy: Put it in gps and start driving
+Derek McCarthy: <emoticon_thumbup>
+Tommy: She might be at work for next 15 min but will help you for sure
+Derek McCarthy: Thanks a lot mate
+Tommy: Sent her msg. She will give it to you. Approx time when she will be at home is 8:15 pm
+Derek McCarthy: Thanks again!! What''s your wife''s name  again??
+Tommy: Paulina"
+38,45c5ceec-5e80-46c0-acd5-e7e8a5209d9e,sanjana,13681509,gpt4-32k-0613,,,,"Abigail reminds Damien that it''s Sunday, which means they are going to church. She tells him to wear a coat and tie out of respect for God and others. Damien, while apprehensive, jokingly remarks about Sundays being only once a week. Abigail asks Damien to be ready on time.","Abigail: It''s Sundaay.
+Damien: So?..
+Abigail: You know what that means.
+Damien: Hmm no I don''t x)
+Abigail: Sunday means we go to church~.
+Damien: Oh, yeah..
+Abigail: Don''t forget to put on a coat and tie.
+Damien: A coat and tie?.. Why?
+Abigail: To show respect to God and others.
+Damien: Omg..I''m glad Sunday is only once a week.
+Abigail: I hope God didn''t hear that.
+Damien: He''ll forgive me 
+Abigail: Just be ready on time please."
+39,56d9e1bc-3cd8-4074-a9b2-4aad1679fb6e,sanjana,13681516,gpt4-32k-0613,,,,"Frank and Zoe are expressing their love and well wishes for each other, likely at the start of the day. Zoe also sends Frank a video file.","Zoe: <file_video>
+Frank: Love you!
+Zoe: :-*
+Frank: Have a good day, babe :-*"
+40,0cb3ad47-eccd-4ae8-b635-ade086b44598,sanjana,13681560,gpt4-32k-0613,,,,"Hayden is facing a dilemma about his future, primarily driven by his fear of not earning enough money. He is interested in African Studies, but is considering becoming a flight attendant due to his language and swimming skills. However, he is apprehensive about the risk of flight accidents. Margaret reassures him and highlights the travel opportunities the job would provide.","Hayden: Anyway I have 1 month to write my thesis. And then I need to decide what studies I should choose and I have a problem because I don''t know what I can do in the future to make good money
+Margaret: You''ll find something
+Hayden: And the only studies I''m interested in are African studies but I''m not sure I can make big money later on haha except for working in the embassy or something like that. I was thinking about working as a flight attendant. It would be easy for me to get that job since I can swim (and here it''s obligatory) I''m even a water rescuer. I know English italian and polish and a bit of german.
+Margaret: So go ahead for it
+Hayden: But to be honest , I don''t think so that job is so great. I can''t work there forever and I''m not that sure I wanna risk every time hahah since flight accidents happen
+Margaret: Hahahaha you shouldn''t think about that
+Hayden: But I don''t wanna die hhahahahah
+Margaret: It would be good you would get to travel a lot"
+41,6ad7267d-d27a-4600-9b3d-93f6f9037020,sanjana,13681886,gpt4-32k-0613,She is concerned about possibly spreading the disease to her students,"Stella: : I wanted to come and visit you but I didn't want to get infected by the disease that you've been carrying
+Stella: : You know... I'm a teacher, I could spread the disease",Intrinsic_Error,"Stella, a teacher, reaches out to her friend Sandra, who has been ill. She is concerned about possibly spreading the disease to her students. Sandra has started to feel better thanks to some effective medication. Stella offers to take Sandra to the cinema once she fully recovers, wanting to cheer her up. Sandra expresses her desire to watch an action movie, something contrasting her current, bedridden situation. They end their conversation optimistically, promising to reconnect soon.","Stella: Hi Sandra
+Stella: Did you recover finally?
+Stella: I wanted to come and visit you but I didn''t want to get infected by the disease that you''ve been carrying
+Stella: You know... I''m a teacher, I could spread the disease
+Sandra: Hello my dear
+Sandra: I''m getting better every day but there''s still something left
+Sandra: I have some effective medicines now
+Sandra: All the drugs that doctors have been prescribing to me so far were useless
+Sandra: Now the difference in my well-being is surprisingly considerable
+Stella: It''s very nice to here that, I''m so happy for you!
+Stella: Hope you''ll be in a perfect health soon
+Stella: I want to take you to the cinema
+Stella: They have a brilliant repertoire now
+Sandra: Oh, I dream of getting out of the house!
+Sandra: I used to love laying in the bed for hours, but now I hate it
+Stella: I understand
+Stella: Just tell me, what kind of movie would you like to watch?
+Stella: A romantic comedy, horror, fantasy or something else?
+Stella: I''ll do some research in my friends'' midst and try to choose the best option :)
+Sandra: I''m dreaming of watching some action movie
+Sandra: With all the special effects and dynamic action
+Sandra: Something that would be the opposite of my current situation :)
+Stella: You got it! :)
+Stella: I''ll find something special for you
+Stella: So I''m keeping my fingers crossed for your quick recovery
+Stella: Talk to you soon! :)
+Sandra: Thanks, Stella, my darling. You made my day :)
+Sandra: Bye bye"
+42,9ae77f56-8e7b-4e91-b5e5-a33e8e5bde40,sanjana,13682217,gpt4-32k-0613, programming language she's been learning for a month,Agata: : Sorry. After just one month of coding I would be like plain English to you :P,Intrinsic_Error,"Guido reaches out to Agata because he doesn''t understand her Facebook posts, which come from her Twitter and are often about JavaScript, a programming language she''s been learning for a month. Although Guido confuses it with Java and compares it to understanding Chinese, he recognizes Agata''s enjoyment in her new interest. Agata''s husband doesn''t mind her new job and there''s a joke about her speaking ""JavaScript"" to him.","Guido: Hi, Agata, are you OK?
+Agata: Hi, Guido. Sure, I''m OK :) And you?
+Guido: I just have trouble understanding your posts on Facebook. 
+Agata: Really?
+Guido: Maybe it''s because I don''t know anything about Java? :(
+Agata: Thanks for the concern :) All my Twitter posts go to my Facebook account. I think I might change that! 
+Guido: Don''t worry :)
+Agata: By the way, it''s JavaScript, not Java. Except for the name they really have not much in common :)
+Guido: Sounds like Chinese to me :(
+Agata: :)
+Guido: It''s hard to understand the concept :(
+Agata: Sorry. After just one month of coding I would be like plain English to you :P
+Guido: I can see that you enjoy it.
+Agata: I really do. Finally I found something interesting for me.
+Guido: And what about you husband? 
+Agata: What about him?
+Guido: Doesn''t he complain about your new job?
+Agata: Not at all! Why would he? 
+Guido: So you don''t speak to him in Chinese language? I mean in JavaScript language, hahahha"
+43,ea862550-ea15-4a04-8b7f-d5ac9460b542,sanjana,13681924,gpt4-32k-0613,,,,"Sophia apologizes to Mason, offering a hypothetical kiss as an apology if they were in person. Mason jokingly asks for a photo of this, to which Sophia agrees but wants to make herself look better before doing so. Mason insists that Sophia looks good all the time, regardless of make-up. Sophia, laughing, then sends a photo as requested.","Sophia: I''m sorry
+Mason: It''s fine
+Sophia: Ok...If u was there, I would give you a hot kiss for apologize
+Mason: Hahaha. You still send me a photo one
+Sophia: What photo?
+Mason: Kiss photo. Haha
+Sophia: Hehe I sent u already such a photo
+Mason: Another one wouldn''t hurt
+Sophia: Maybe later :) When I take a shower and look good
+Mason: And who says you don''t look good now ?
+Sophia: Me
+Mason: Let me be the judge of that
+Sophia: No
+Mason: I''ll still love you the same. Whether you have make up or not
+Sophia: Hehe but I don''t  want u to see me when I do not look good
+Mason: You must
+Sophia: I must what?
+Mason: Send me the kiss now
+Sophia: Haha
+Mason: Doesn''t matter how you look, you''ll still look good to me
+Sophia: Hahah
+Sophia: <file_photo>"
+44,cdd2434a-6ead-44b8-a5fb-0bef3c59f3d9,sanjana,13682118,gpt4-32k-0613,,,,Ben and Steven agreed to have pizza at Marco''s for dinner.,"Ben: pizza tonight?
+Steven: sure thing!
+Ben: at Marco''s?
+Steven: (y)"
+45,e8f387ac-0e05-4612-8e67-ad7d3a04e817,sanjana,13682134,gpt4-32k-0613,,,,"Javier asked Judie if she knows any tattoo parlors with English-speaking employees, and she suggested Warsaw ink. Although Judie hasn''t personally had a tattoo done there, her girlfriend has. After seeing a photo of the tattoo, Javier was impressed but surprised to hear it cost 1000. He decided it would be cheaper to get a tattoo back in Colombia.","Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+Judie: Oh there''s Warsaw ink
+Javier: the name sounds neat... have you had a tattoo done there?
+Judie: nope but my gf has
+Javier: got a pic?
+Judie: <file_photo>
+Javier: wow that looks amazing
+Javier: how much did she pay?
+Judie: it was a 1000
+Javier: fuck
+Javier: let me just get a tatttoo back in colombia then, thx"
+46,2961226a-4310-487e-9024-6546b06e6a1f,sanjana,13682269,gpt4-32k-0613,,,,"Sue has asked James to pick up the car after work tomorrow. James confirmed and inquired if he also needs to pay. Sue assured that she would transfer the money, to which James responded positively.","Sue: can you pick the car up after work tomorrow please
+James: yes and pay?
+Sue: yes I will transfer the money in 
+James: ok x"
+47,875dddc7-fcbc-402a-8544-89c1976b0937,sanjana,13682284,gpt4-32k-0613,,,,"Pete asks Adelle if she has cleaned the hamster cage, and upon her negative response, he reminds her that it is her turn. He insists that she should do it after school without any excuses, to which she begrudgingly agrees.","Pete: Did you clean the hamster cage?
+Adelle: No. Is it my turn?
+Pete: Yes. After school, no excuses.
+Adelle: Fine."
+48,0f5413eb-0c8d-4a2b-8bb8-496a4c12ac22,sanjana,13682408,gpt4-32k-0613,they decide through a card pack which animal they're drawn to,"Sophie: : you will have to tell me about the fox.. do you decide what your animal is or does someone tell you?
+Jenkin: : There is a pack of cards and you choose the one that you are drawn to 
+Sophie: : oh right I would choose the Fox
+Jenkin: : well I didn't know but I was drawn to the dolphin
+Sophie: : oh
+Sophie: : oh
+Sophie: : oh
+Jenkin: : I will bring them over tomorrow",Intrinsic_Error,"Jenkin and Sophie discuss their respective spirit animals, with Sophie identifying with a fox and Jenkin, a dolphin. Jenkin mentions that he''s been reading about spirit animals and they decide through a card pack which animal they''re drawn to. He agrees to bring the cards to show Sophie the next day.","Jenkin: hey what is your spirit animal?
+Sophie: what?
+Jenkin: go on?
+Sophie: I dont know a fox lol
+Jenkin: are you wiley?
+Sophie: sometimes
+Jenkin: I am a dolphin
+Sophie: I think you are a bit mad like the mad hatter
+Jenkin: I have been reading about animal spirits its quite good
+Sophie: you will have to tell me about the fox.. do you decide what your animal is or does someone tell you?
+Jenkin: There is a pack of cards and you choose the one that you are drawn to 
+Sophie: oh right I would choose the Fox
+Jenkin: well I didn''t know but I was drawn to the dolphin
+Sophie: oh
+Jenkin: I will bring them over tomorrow
+Sophie: oh yes please that will be great"
+49,05fc8ddf-284f-4ab7-83fb-b3d9ee737320,sanjana,13682578,gpt4-32k-0613,,,,"Frank and Hope express their love for each other, playfully incorporating their own names into their affectionate responses.","Frank: Hey
+Hope: Hi :)
+Frank: I love you
+Hope: I love you too <3
+Frank: Well, I HOPE so!
+Hope: FRANKly, I really do ;) <3"
+50,1236ba3c-888d-4363-a118-be25179b16e7,sanjana,13715824,gpt4-32k-0613,,,,"Nancy, Phil, and Vic are discussing different social platforms where they can consume news, trends, and interact with others. Phil prefers Twitter for its fast delivery of news and updates. Vic prefers Facebook and Instagram for their interactive features and visual content. Nancy asks about Tumblr, but both Phil and Vic don''t use it. They suggest that they lack the time to maintain a blog. They all have different preferences for social media platforms based on their individual interests and time constraints.","Nancy: Yeah, but u can also read the news online ;)
+Phil: I know, but imagine - ur keen on technology and u get all the news in one place. Then u can choose what to read and what not.
+Nancy: Sounds sensible. Does it have something 4 fashion?
+Phil: Probably so. Not sure, though.
+Nancy: How about u, Vic?
+Vic: I still prefer Facebook. Had Twitter once, but the interaction with others is nothing compared with Facebook.
+Phil: Well, it''s intended in a completely different way. 
+Vic: What do u mean?
+Phil: IMO, Twitter is not for interacting like on Facebook, but for getting news fast and from reliable, more or less, sources. U can follow anyone and anyone can follow u.
+Vic: Still, on Facebook I can share stuff with my friends, join groups and talk about things that interest me. And I don''t have to limit myself to 140 characters.
+Phil: 280. Still, a downside. OTOH, if ppl were able to write as much as they wanted, Twitted would get as cluttered as Facebook.
+Nancy: So no one uses 4 example Instagram?
+Vic: I do. 
+Phil: Not 4 me. I don''t post that many pictures online. 
+Nancy: But u can follow ppl and see what they''re doing or offering. There are also companies on Instagram.
+Phil: I know, but I''m more interested in news and gossip than seeing someone post a picture of their breakfast. 
+Vic: That''s not all ppl post on Instagram!
+Phil: So, what else?
+Vic: Depends on ur interest. I, for one, like to observe all the fitness accounts :)
+Phil: And does this motivate u to train?
+Vic: No, but it gives me hints what to do and what not. 
+Nancy: What do u think about Tumblr?
+Phil: What?
+Vic: Heard about it, but never had an account.
+Nancy: It''s a microblogging website. U can post blog entries, pictures and basically everything u want there. And ppl can observe u!
+Phil: Don''t have that much time to write a blog.
+Vic: Me neither. 
+Phil: Nancy, y do u ask these questions? ;)
+Nancy: I have my reasons ;)"
+51,51b6fcfc-09ee-4259-adc2-61763e84b773,sanjana,13715917,gpt4-32k-0613,,,,"Baron informs Gabriel and Gavin about a match scheduled for the following week. Gabriel suggests that their tutor should join them. Baron offers to sign on the calendar and provides a file link when Gavin asks for it. Gavin proposes to add more people from their group, which Gabriel agrees with.","Baron: What''s up.
+Baron: there is a match next week.
+Gabriel: Hey, our tutor wanted to join us
+Baron: Sign on the calendar
+Gavin: link please?
+Baron: <file_other>
+Gavin: let''s add people from our group
+Gabriel: good idea"
+52,58de0a99-3ab1-41df-9f47-e934c4958bb2,sanjana,13729256,gpt4-32k-0613,,,,"Harry is waiting for Ema outside for a movie that has already begun. Ema, who had previously told Harry she was ready, asks for an additional five minutes to get ready. Harry expresses frustration at Ema taking longer than expected.","Harry: Where are you? i am outside
+Ema: coming just 2 mins...
+Harry: You told me you were ready.. you know movie has already started
+Ema: i am sorry give me 5 minss
+Harry: Damn! take foreverrr"
+53,622d14d0-bba0-44cf-8acf-00e1b328bdf0,sanjana,13716119,gpt4-32k-0613,,,,"Dan, Tim, Chris, and Martin are planning to go out on Saturday. Tim proposes to start at 8. However, Dan and Martin will have to go home early. Tom cannot join due to a party at his in-laws. Tim and Chris tease Dan and Martin for acting old. Chris jested that he and Tim might be the last two standing at the end of the night.","Dan: Guys, so are we going out on Sat?
+Tim: I''m ready when you are
+Chris: I''m OK too, in the centre right?
+Tom: I''m out guys sorry. 
+Dan: come on Tom, what''s wring this time
+Tom: told ya before. party at in-laws
+Chris: always the same story right
+Martin: right guys, so what time?
+Tim: start @8? finish. 8 if we''re lucky
+Dan: yeah, i need to be home at 2 and ready to drive on Sunday noon
+Chris: so you takin it easy this time
+Martin: i guess i''d have to as well
+Tim: guys you sound like 60 yos
+Chris: Tim, are the last two standing or what?
+Tim: i gather
+Dan: you two will also grow up one day. "
+54,3e7d1bf1-1308-4a0c-b9f3-9312973d3e0e,sanjana,13716129,gpt4-32k-0613,,,,"Sawyer proposed to have a ball game that night and asked if it could start at either 5:30 or 6. He mentioned that they have the pitch booked until 8. Sutter said he couldn''t participate because he''s injured. Wheeler asked if it could be at a later time but eventually declined due to the game''s early start time. Lastly, Yardley commented that maybe next time would work out better.","Sawyer: ball game 2nite?
+Sutter: injured
+Wheeler: what time?
+Sawyer: 5.30? 6?
+Wheeler: anytime l8r?
+Sawyer: pitch booked at 8 so we need to start earlier
+Wheeler: so im out sry
+Yardley: i guess next time be better"
+55,e56dfbf5-fbdc-432e-9e83-81c4f9ba81c4,sanjana,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+56,311d0e9f-e63e-4d31-ab89-2e4025456d80,sanjana,13716170,gpt4-32k-0613,,,,"Lorenna informs her friends that she won''t be able to attend a party as she needs to care for her sick daughter, Emma, who has a fever. Emma is currently sleeping and isn''t feeling too bad, but Lorenna plans to stay home with her for a few days. Her friends, Ann and Shirley, express their sympathy and send virtual kisses for Emma.","Lorenna: Girls, Im sorry, I cant come to the party tomorrow :(
+Lorenna: Emma has a fever and I need to take her to the doctor.
+Ann: Oh Im so sorry about her:(
+Shirley: :( 
+Shirley: how''s she feeling?
+Lorenna: not too bad, but I need to stay at home with her for a few days.
+Lorenna: she''s sleeping now. 
+Ann: give her a kiss from auntie Anna! :*
+Shirley: and from me too! :*
+Lorenna: thanks! :*"
+57,258ab7da-a41c-45ea-98a6-dbc148bd96a8,sanjana,13716404,gpt4-32k-0613,or long ago,Not found,,"The friends, Jess, Lynn, and Charlie, discuss dreams and their potential meanings after Jess shares a dream about being a lion tamer. While Jess initially jokes about the dream hinting at potential future events, such as visiting Africa, Lynn suggests dreams could reflect our subconscious. Additionally, Charlie shares the theory that even strangers in dreams are based on real people we''ve encountered. The friends conclude that it''s fascinating how the brain can store and recall people''s faces, even those seen briefly or long ago.","Jess: Guys, last night I dreamt I was a lion tamer, does it mean I should go to Africa this summer? XD
+Lynn: Or maybe you''ll meet a handsome zookeeper? :D
+Charlie: Or you''ll get attacked by a stray cat?
+Lynn: You''ve just spoiled all the fun! :P
+Jess: Knowing my luck, Charlie might be the closest to the truth.
+Charlie: Do you really believe that dreams can mean something?
+Jess: No, of course not! I was just joking. It was such a surreal dream that I had to share it with you ;)
+Lynn: Well...
+Jess: Do you believe in dreams, Lynn?
+Lynn: I''m not saying I believe, but I think that sometimes it is possible that our dreams are telling us something. Not like they can show us our future or anything like that, it''s just that dreams reflect our subconsciousness, don''t you think?
+Jess: I guess? 
+Charlie: I''ve read somewhere that when we see strangers in our dreams, in fact we must have seen them somewhere before. Our brain is not able to create such images on its own, it must have registered some random people''s faces, and it uses them when we dream.
+Jess: So you''re telling me the circus owner from my dream can really be some gentleman who lives in my neighbourhood?
+Charlie: Exactly! You don''t even remember his face, but after you saw it just once, your brain keeps it somewhere in storage.
+Lynn: WOW, it sounds really cool!"
+58,947a7901-a419-4664-b0c6-e107e116a5b2,sanjana,13716518,gpt4-32k-0613, Laura initially mentions she received no replies,"Sarah: : omg Laura! sorry you didn't get any replies!!! Did you manage?
+Laura: : hahaha! Awksssss... no worries, I solved it",Intrinsic_Error,"The dialogue features Sarah, Laura, and Raf. Laura initially mentions she received no replies, but resolved an issue. Raf apologizes to Laura for forgetting to text her back due to busy hours. Sarah, who is in an island called Linate, is joined by Laura, prompting Laura to ask which hotel Sarah is staying in.","Sarah: omg Laura! sorry you didn''t get any replies!!! Did you manage?
+Laura: hahaha! Awksssss... no worries, I solved it
+Sarah: awkward silence <crickets>
+Laura: hahaha no it''s all good really!!
+Raf: Laura, I''m so sorry!!! been so swamped, totally forgot to text you back! where are you??
+Sarah: Exotic little island called Linate :D 
+Laura: Sarah which hotel are you at??? I''m here too!!!"
+59,1a651db9-5b03-4836-b577-950898acb1f3,sanjana,13716588,gpt4-32k-0613,,,,Ann congratulates Sue and Julie on their accomplishment and suggests a celebration. Both Sue and Julie accept Ann''s proposal to celebrate.,"Ann: Congratulations!!
+Ann: You did great, both of you!
+Sue: Thanks, Ann
+Julie: I''m glad it''s over!
+Julie: That''s co cute of you, girl!
+Ann: Let''s have a little celebration tonight! 
+Sue: I''m in
+Julie: me too!!! aww"
+62,e1bae834-c764-44ac-be23-a4d77be2c776,sanjana,13716595,gpt4-32k-0613,urging participants to take it easy,"Atnee: : Ed, take it easy",Intrinsic_Error,"Ed, Valerie, and Jessica emphasized traditional beliefs, suggesting that sex is only appropriate for individuals who are married, only in the missionary style, and exclusively for procreation. Chris, Lor, and Matt, however, challenged these traditional views. Chris suggested that those expressing these traditional beliefs should get married and leave others alone, while Lor jokingly warned of the potential eternal consequences of living a ''sin-free'' life. Matt responded humorously to Ed''s moralizing and teases Ed in response, to which Ed reaffirms his commitment to his beliefs. Atnee played peacekeeper, urging participants to take it easy.","Ed: Sinners!! Sex is for married people
+Valerie:  double sin if its anything but missionary style!
+Chris: Then you go get married & leave us all alone
+Lor: You better hope all non sin living is worth it or your consciousness after death is going to be butt hurt for eternity lol
+Atnee: Ed, take it easy
+Jessica: And the only purpose for sex is to make babies! !! That''s it, hahaha 
+Atnee: Lol
+Ed: Valerie , triple sin if you enjoy it!
+Jessica: And only for procreation. :-))) And not to be enjoyed. :-)))
+Matt: Ed, Ok. See you in hell !! 
+Ed: Matt , No you wont. I dont even look on the direction of another man"
+63,86b33373-2120-4cc8-80dc-66e3a247f481,sanjana,13716726,gpt4-32k-0613,"Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired","Shanon: : Yeah. So what bout him?
+Victor: : He's no longer our teacher :)
+Shanon: : Bt y?
+Sid: : He got fired 2day and thrown out of school?
+Shanon: : What?!",Intrinsic_Error,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''s no longer our teacher :)
+Oliver: I''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+64,8b156cd8-0cbd-4ee1-a158-6ec559c720b5,sanjana,13716964,gpt4-32k-0613,,,,"The group discuss who will take the keys, with Hilary currently holding them. Benjamin decides to meet Hilary at lunchtime to get the keys so he can go for a nap. Hilary informs him that they will be having lunch with some French people at a restaurant called La Cantina at 2 pm, after meeting at the entrance of the conference hall. Benjamin jokingly laments the obstacles in his way to getting his nap. Hilary encourages him to join them for the lunch, so he can still get the keys as planned. Eliot also agrees to the plan.","Benjamin: Hey guys, what are we doing with the keys today?
+Hilary: I''ve got them. Whoever wants them can meet me at lunchtime or after
+Elliot: I''m ok. We''re meeting for the drinks in the evening anyway and I guess we''ll be going back to the apartment together?
+Hilary: Yeah, I guess so
+Daniel: I''m with Hilary atm and won''t let go of her for the rest of the day, so any option you guys choose is good for me
+Benjamin: Hmm I might actually pass by at lunchtime, take the keys and go take a nap. I''m sooo tired after yesterday
+Hilary: Sounds good. We''ll be having lunch with some French people (the ones who work on the history of food in colonial Mexico - I already see you yawning your head off)
+Benjamin: YAAAAWN 🙊 Where and where are you meeting?
+Hilary: So I''m meeting them at the entrance to the conference hall at 2 pm and then we''ll head to this place called La Cantina. Italian cuisine, which is quite funny, but that''s what they''ve chosen
+Benjamin: Interesting 😱 To be honest, Hilary, I almost feel like changing my mind. Wanting to take this nap might end up costing me to dear
+Hilary: Oh come on 😂
+Benjamin: All these terrible obstacles on mu way to bed might just prove to much to take
+Hilary: We''ll try to avoid talking about their subject of research. Oh wait, no, I''m actually meeting them because I wanted to chat about their research lol
+Elliot: 🙉
+Hilary: Do join us, we''re going to have fun. And then you''ll take the keys and take this most deserved of naps
+Elliot: Sounds like a plan 😂
+Hilary: 😎
+Elliot: See you at 2 then xx"
+65,8a6c0afb-7913-4f0e-b184-980a07867d5b,sanjana,13717052,gpt4-32k-0613,,,,"Mark, Anna, George, and Julia are planning a trip. They discuss whether to choose a package tour or self-organized trip, eventually deciding on a package tour for convenience but opting for a cheaper hotel option to save money. They agree to individually search different sites for the best options and discuss it later.","Mark: So, we''ve got our where and when. Package tour or self-organised?
+Anna: Package. More convenient.
+George: Self-organised. Cheaper.
+Julia: Do we need a 5* hotel? MAybe let''s choose one of the cheaper options from a tour operator?
+Mark: Actually, not a bad idea. That''ll be both cheap and convenient.
+Anna: I''m in!
+George: So, let''s start digging and we''ll talk about it l8r?
+Mark: SLAP
+Julia: Ok. But maybe let''s divide ourselves so that we don''t check the same websites?
+George: Ur right!
+Anna: Sure. XOXOXOX
+Mark: Let''s do this asap!"
+66,8b617613-cdbe-4161-afea-f37037d1a945,sanjana,13717284,gpt4-32k-0613,"Terry, who ended up quitting due to stress-related health problems","Tim: : Quit eventually, but he had trouble sleeping, constantly tired, and turned out to have an ulcer",Intrinsic_Error,"Joe expresses feeling overwhelmed by his job, to which his friends, Tim and Sam, advise him to avoid burning out. They cite the example of their friend, Terry, who ended up quitting due to stress-related health problems. Hearing this, Joe agrees that he needs to slow down.","Joe: This job is wearing me up
+Tim: Oh no! I thought you love it
+Joe: I do, but because of it they give me more work
+Sam: Shit, this sucks man, don''t let it burn you out
+Tim: Exactly, like my friend Terry
+Joe: What did he do?
+Tim: Quit eventually, but he had trouble sleeping, constantly tired, and turned out to have an ulcer
+Joe: Fuck! I gotta slow down"
+68,3581735a-0cf4-484b-a3e8-152c14f8d306,sanjana,13716777,gpt4-32k-0613,,,,"Ethan shares a photo presumably making fun of Scott. Toby and Marshall agree with the sentiment of the photo, stating that it accurately represents Scott. Scott retorts that they also share the same traits as shown in the photo, but Toby and Marshall reveal they enjoy teasing Scott specifically. There is a continuous banter between the group, ending with Scott playfully cursing at them and Toby responding with a GIF.","Ethan: somethin for Scott <file_photo>
+Toby: haha, totally
+Marshall: pretty much sums it up
+Scott: you know you''re exactly fuckin the same
+Toby: oh we know honey bunny
+Marshall: we just enjoy making fun of YOU
+Ethan: xD
+Scott: oh fuck y''all
+Toby: <file_gif>"
+69,068b0656-0913-4e41-81a1-4efc1e89fe98,sanjana,13716897,gpt4-32k-0613,,,,"The group decides on a location for lunch. Initially, Ronnie suggests sushi, but due to Karen''s comment about needing something cheaper, they reconsider. Linda proposes a pasta place near their apartment with the option for take out, which everyone agrees upon. They decide to wait for Amanda''s response before finalising. Amanda confirms she''s open to any choice.","Linda: hey have we decided on a lunch place yet?
+Ronnie: thought we were going for sushi
+Linda: Karen said she hates raw fish or something
+Karen: nah I''m ok with sushi, just thought we would go for smth cheaper this time ;p 
+Karen: hard times are a-coming xd
+Ronnie: been craving sushi all week long :( but i sooo get, K, maybe we should dial it down with the fancy places
+Linda: hey there is this pasta joint right next to our apartement
+Linda: you get it in like takeout boxes. we could take these out to the park
+Ronnie: so down with that!
+Karen: same here! let''s wait for Amanda tho
+Linda: @Amanda are you ok with pasta for lunch?
+Ronnie: let''s hope she checks her fb this time haha
+Amanda: hey guys, yes! whatever works for me :)"
+70,8bcab26d-78e0-46ae-89dd-3c4a7ac52039,sanjana,13716905,gpt4-32k-0613,family photo taken during a cousin's wedding,"Chiara: : It's us in Chicago 2 weeks ago.
+Lucy: : Wow, you looked stunning!
+Yvonne: : Thanks, it was at our cousins wedding.",Intrinsic_Error,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''s okay. The two girls express their concern for their uncle''s health, receiving reassurances from their aunt. There''s a brief mention of a family photo taken during a cousin''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''s uncle Sam?
+Lucy: He''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''s nothing serious, don''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+71,c92d4217-78ed-4a1b-ac3f-9ea33e385f99,sanjana,13717117,gpt4-32k-0613,,,,"Mark, Clint, and Phil plan to see ''Batman. New Beginning'' on Saturday at 7. Mark offers to get the tickets for everyone.","Mark: who wants to go and see ''Batman. New Beginning'' this Sat at 7?
+Clint: me!
+Phil: me too! 
+Mark: cool. I can get tickets for us all.
+Clint: thats great"
+72,213ef5f0-a94b-452a-aecd-1b9b093ac502,sanjana,13717358,gpt4-32k-0613,,,,"Ethan, Noah, Archie, and Leo are discussing a concert by Solstafir on 21.11. Leo and Ethan are planning to attend, while Archie is not interested. Noah might not be able to go due to potential work commitments.","Ethan: who''s going to see solstafir?
+Noah: solstafir! when?
+Noah: i had no idea they were playing
+Archie: I''m not :D.
+Leo: i''m going ofc!
+Ethan: 21.11
+Noah: that''s a wednesday... ehh...
+Noah: i''ll have to see, might have to stay late at work...
+Leo: nooo you have to come
+Ethan: yeah you have to!
+Archie: There are better concerts :P.
+Noah: i know, i would really like to see them, but yeah
+Leo: archie... :P
+Ethan: don''t mind him :P
+Noah: i''ll see and let you know, it would really suck to miss them
+Leo: yup!
+Ethan: yup! x2"
+73,5879985a-4d0d-4a1c-894e-8b31db40b0ab,ann_epbi,13611370,gpt4-32k-0613,,,,"Derek asked Judy if she could feed his animals on Friday and Saturday as she''s not leaving for the weekend. Judy agreed and Derek planned to hand over his keys to her on Thursday. He also told her that he would provide further details later, to which she agreed.","Derek: Judy, r you leaving for the weekend?
+Judy: Nah
+Derek: So can you feed my animals on Friday and Saturday?
+Judy: sure, no problem
+Derek: Thank you :) Maybe on Thursday I would give you my keys?
+Judy: Ok
+Derek: Thanks :) Later I will tell you the details :)
+Judy: surely"
+74,9af47c56-0d1e-4f98-8efa-3e7fcc431477,ann_epbi,13611426,gpt4-32k-0613,,,,"Poppy and Harry both share a preference for Lisbon, especially the nightlife. However, while Harry enjoys parties, Poppy doesn''t enjoy crowds or intoxicated individuals. Instead, she prefers more tranquil activities such as travelling and sightseeing, which Harry also enjoys.","Poppy: Yeah. I definitely prefer Lisbon
+Harry: Yeah me too, principally the night
+Poppy: To party?
+Harry: Yup
+Poppy: I don''t like parties. They make me tired
+Harry: Really?!
+Poppy: I don''t like crowd, drunk people
+Harry: Oh OK. It makes sense. That''s the worst part of it. What you like to do for having fun?
+Poppy: Travelling. Sightseeing
+Harry: For sure that''s on the top of my list too"
+76,b172b8bf-be44-45a2-b4de-421f7a535efc,ann_epbi,13611508,gpt4-32k-0613,,,,"Martha, who does not know Ophelia, reaches out to ask about the lenses Ophelia wears in her profile picture. Ophelia tells Martha the lenses are from Crazy Lenses, a company with reasonable prices and fast shipping. Martha thanks Ophelia for the information.","Martha: Hey, can I ask you a question?
+Ophelia: Do we know each other?
+Martha: We don''t, but do you mind if I ask you about the lenses from your profile picture? they are awesome and I would like to buy the similar ones
+Ophelia: it''s from Crazy Lenses. They have quite reasonable prices and very fast shipping.
+Martha: Thanks!!! I''ll check them :)
+Ophelia: No problem :)"
+77,af2f4c84-1813-4288-bbf0-ce4fe2e2f81c,ann_epbi,13680802,gpt4-32k-0613,,,,"Laura is waiting for Paul and becomes frustrated about his tardiness. Paul informs her that he will arrive in 15 minutes and pleads for her to wait, but Laura refuses as she had already been waiting for 30 minutes. She decides to leave, expressing her frustration, while Paul apologizes.","Laura: Where are you?
+Paul: Almost there.
+Laura: Which is?
+Paul: Close to the Mac.
+Laura: That''s so far away!
+Paul: 15 mins
+Laura: I am not waiting any more, see you some other time.
+Paul: Please, wait!
+Laura: I''ve waited 30 minutes, 15 minutes ago you wrote you were almost here. This is too much.
+Paul: I am so sorry.
+Laura: I am not. "
+78,45024f92-ca20-401b-82af-edf81c52693f,ann_epbi,13611559,gpt4-32k-0613,,,,"Rashi is confused about choosing a career due to the many options available. Her teacher encourages her to select a career based on her interests and passion, and reminds her of the importance of balancing duties and success. She suggests choosing a career that interests Rashi, gaining experience, and then progressing and expanding her scope. Rashi appreciates this advice and thanks her teacher.","Teacher: Rashi, why are you so low? 
+Rashi: Ma’am I’m a bit confused about my career. 
+Teacher: What is your confusion?
+Rashi: I was discussing with my friends about the career options. 
+Teacher: Hmm.
+Rashi: There are too many to choose from.
+Teacher: Choose a career based on what truly interests you. 
+Rashi: I have many that interests me. How does it determine the career?
+Teacher: The passion you have for what you do drives you to success. 
+Rashi: But what about earnings?
+Teacher: Remember at some point of time one should learn to balance  between duties and success.
+Rashi: How do I do that?
+Teacher: Choose a career which interests you, get experienced and try to progress and widen the scope after a while.
+Rashi: Hmm, ok.
+Teacher: Something like earn and learn sort of..
+Rashi: You are so right. I will remember this.
+Teacher: So hope I managed to answer your questions.
+Rashi: Yes mam! Thank you very much! 
+Teacher : You are most welcome, Rashi."
+79,7f3093d7-44a4-45e1-a6d1-9f166fdb1b4d,ann_epbi,13611640,gpt4-32k-0613,,,,"Ann is seeking advice from Fiona on what to prepare for her dad''s 50th birthday. Her dad is not a fan of surprise parties or heights, but enjoys military movies. Fiona suggests a family activity like racing or horse riding, while taking into account his interests, and proposes something like paintball as a fun, team-oriented activity. Despite hesitations about how her mom might react, Ann considers this a good idea for the occasion.","Ann: What should I prepare 4 my dad''s birthday?
+Fiona: How old is he?
+Ann: turning 50
+Fiona: wow, a round birthay, it must be sth big
+Ann: I know, but I don''t have any idea
+Fiona: surprise party?
+Ann: My dad hates dose
+Fiona: ok, so what does he like?
+Ann: I don''t know, he watch a lot of military movie
+Fiona: well, a movie ticket is probably not what you thought of
+Ann: not even close
+Fiona: Maybe some event. U know like bungee jumping or parachute jump
+Ann: that would be nice but he''s afraid of heights
+Fiona: damn, maybe sth you can do together
+Ann: well I was plannig dinner with the whole family, but that''s not enough
+Fiona: yes, there should be sth special also
+Ann:  I know, but I''m out of 
+Fiona: Let me think. Nothing with heights but maybe sth on the ground? Racing? Horse riding?
+Ann: ok, it''s a good direction. Maybe some team play, we could go with the whole family
+Fiona: u said he likes military... maybe paintball? 
+Ann: I don''t know how my mum will react but I like it :D
+Fiona: I guess she''s not into military
+Ann: not really, no. But it''s dad''s birthday so she has to accept it. Thx for the help
+Fiona: no problem"
+80,e733206b-bda3-439a-8059-52200e1479db,ann_epbi,13611832,gpt4-32k-0613,,,,"Sam is worried that a certain individual doesn''t like her because he doesn''t talk to her. Cathy reassures her, attributing his silence to shyness and mentioning that he looks at Sam when she isn''t looking. Cathy also mentions that someone named Kate has also noticed this. Encouraged, Sam plans to talk to the individual the following day.","Sam: I don''t think he likes me.
+Cathy: Of course he likes you.
+Sam: How do u know. He''s not talking with me at all ;(
+Cathy: He''s shy. He''s looking at u when u don''t see
+Sam: Really? U sure?
+Cathy: yes, even Kate noticed.
+Sam: Hope u r right. I''ll talk with him tomorrow then.
+Cathy: Go ahead, girl :D"
+81,e09fc27a-be6a-40a3-b61d-133678f5fb2f,ann_epbi,13612049,gpt4-32k-0613,,,,"Rory and Mitch discuss plans for Bill and Sammy to attend an International camp. Mitch agrees to transport both boys, and Rory promises to chip in for gas. They agree on a date, Sunday the 29th, and Rory warns Mitch about the long drive. Rory plans to have Bill take a Flixbus, arriving around 10 am on Sunday, and Joanna will likely be picking him up. Rory expresses gratitude to Mitch for his help in getting Bill to the camp in Croatia.","Rory: Hey Mitch, how are you? I hope you''re doing ok. We are thinking of signing up Bill for that International camp. Sammy will be going too. Do you think it would be possible for you to take Bill and Sammy if you go down?
+Mitch: I''m doing well - pretty tired. Yes, I do think that''s possible :)
+Rory: Great, that would mean a lot to us. Thanks a lot. 
+Mitch: That''d be wonderful! July, I''ll be at a few camps ;)
+Rory: Of course, we''ll chip in for gas. Ok, no problem :)
+Mitch: Thx, no worries. I hope you''re all doing well. Time is flying by ;)
+Rory: Ok, great. I know, it''s crazy.
+Rory: Do you know exactly which date you''ll be leaving?
+Mitch: Sunday, the 29th
+Rory: Ok, cool. It''s such a long drive.
+Mitch: Yeah, around 1000 km, but I''ll try to get there early Mon morning.
+Rory: That''s a pretty ambitious undertaking :)
+Mitch: I have to, camp starts Mon 9.
+Rory: Just be careful, and take lots of breaks, don''t fall asleep at the wheel, etc.
+Mitch: I''ll have the boys to keep me awake, and lots of snacks :)
+Rory: Ok. We will probably put Bill on a Flixbus, so he''ll arrive around 10 am Sun
+Mitch: Cool, just make sure he has his phone on him.
+Rory: Ok, no problem. We''ll give him your number, but most likely Joanna will be picking him up.
+Mitch: Oh, ok. That makes things easier. I''ll meet him after.
+Rory: Great, thanks a lot for doing this, I don''t know how else we would get him down to Croatia.
+Mitch: No problem. Talk to you later.
+Rory: Ok, bye."
+82,314741e4-6e70-42a2-a8fc-dce3619ed16a,ann_epbi,13612147,gpt4-32k-0613,,,,"Celia and Mike are discussing holiday destinations. Mike initially suggests Egypt, but Celia thinks it''s too hot. She then proposes Croatia, which Mike agrees to as he hasn''t visited before.","Celia: Where do you want to go for Holiday ?
+Mike: I was thinking about Egypt
+Celia: Too hot. What about Croatia ?
+Mike: Good idea, I''ve never been there"
+83,93e3efdc-ffc0-4a14-8bd8-85614373e111,ann_epbi,13680387,gpt4-32k-0613,,,,"Joanna asks Ethel for advice on removing coffee stains from her ecru, soft fabric dress. Ethel, cautioning her against attempting it herself to avoid damaging the dress, recommends leaving it to a professional dry-cleaner. She suggests a cheap one at Jagiellonska 3, where they successfully cleaned her favorite dress. Joanna agrees to try it out.","Joanna: I need to get the coffie stains out of my dress
+Joanna: Do you know any effective methods?
+Ethel: What color is this dress?
+Joanna: It''s ecru and the fabric is very soft
+Ethel: Well, in such a case I wouldn''t recommend fixing it by yourself because you can ruin the dress...
+Ethel: Better leave it at the dry-cleaner''s
+Joanna: You might be right, just hope it won''t cost me an arm and a leg...
+Ethel: There''s a cheap one at Jagiellonska 3, they cleaned up all the stains from my favourite dress :)
+Joanna: Alright then, I''ll give it a try, thanks Ethel! :)"
+84,0191dfae-c882-43c4-b2d5-cb3d63345ae5,ann_epbi,13681241,gpt4-32k-0613,,,,"Jair asks Callum if he is still busy, to which Callum confirms that he is. Jair acknowledges this.","Jair: Still busy?
+Callum: Yes a little sorry
+Jair: ok"
+85,3fdfb2e5-cd52-4fbc-b022-e201cbf71edf,ann_epbi,13611734,gpt4-32k-0613,soccer player named Pogba,Not found,Extrinsic_Error,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+86,7d3bf301-5c44-482c-af9c-cf7e8a36b4b4,ann_epbi,13611740,gpt4-32k-0613,,,,"Nadia and Jannet are catching up after a party at Jannet''s place the previous night. Both have just woken up and are planning to have breakfast. They enjoyed the gathering and plan to do it again. Jannet suggests they should probably wait for their neighbors to forget about the loud noise from the party before they host another one. Nadia agrees and mentions she is still in a mood for dancing, prompting Jannet to suggest they go to a disco next time.","Nadia: heeeeey how are you?
+Jannet: hey, I''m cool, we just got up and now we''re doing some breakfast :D how are you guys?
+Nadia: cool, we just woke up like 20min ago and will eat something too
+Jannet: nice :D thank you guys for coming yesterday, it was really nice to have you here, I hope you had fun
+Nadia: of course we had, I hope we will repeat it soon :)
+Jannet: sure, we just have to wait for the neighbours to forget about us, cause it was fuckin loud yesterday xD
+Nadia: hahahah yeah it was
+Nadia: but it was really cool, I''m still in a very dancing mood
+Jannet: perfect, the next time we''re going to the disco then :D
+Nadia: sounds cool ;)"
+87,84a2f2bb-c719-4982-9b28-e357a85c2af0,ann_epbi,13611884-1,gpt4-32k-0613,,,,"Nathan and Deborah are planning a family trip and decide to pack everything a day ahead. They''re considering the space required in the car for their daughters'' items, including boots and warm jackets. They plan to bring bicycles for some alone time while the rest of the family hikes. Nathan has a dentist appointment after work the next day and will pick up travel sickness syrup while Deborah picks up their daughters from school. They plan to leave for their trip after a quick meal at home.","Nathan: Hey Honey, what are our plans for tomorrow then?
+Deborah: So I''ve been thinking that we should pack everything today, we won''t have time tomorrow
+Nathan: Totally true, I started packing my stuff in the bedroom, I also told the girls to start packing too
+Deborah: If Sofie wants to take the unicorn we won''t have much space in the car XD
+Nathan: No, I explained to her that he''ll be fine without her these few days, I hope it worked :D
+Deborah: We need to take boots and those warm jackets for the girls, my parents promised them to take them on a trip to the forest
+Nathan: I remember, Lucy was really excited about that. Are we taking the bicycles?
+Deborah: Yeah, don''t you think we could use some alone time while the rest of the family is hiking? XD
+Nathan: Now you''re talking! We could have a ride to this beautiful cliff where we were last year!
+Deborah: Why not, it''s a wonderful idea! :*
+Nathan: So tomorrow I''m seeing the dentist after work, you go to pick up the girls from school
+Deborah: Yeah, then we meet at home, have a quick bite (you probably won''t, haha!)
+Nathan: Thanks Honey, so nice of you to remind me of this! After the quick bite you girls have, we are off!
+Deborah: Damn, I forgot to buy this syrup for travel sickness. Will you have time today to do it?
+Nathan: Yes, it''s feasible :) I''ll do it on my way from work
+Deborah: Wonderful! So see you in the evening then?
+Nathan: I should be home around 6, if nothing happens
+Deborah: Dinner will be waiting for you in the oven, bye :*"
+88,84fa7f33-9b96-4923-bca5-1f88717ff25a,ann_epbi,13680442,gpt4-32k-0613,,,,"Mika offers Linda some perennial plants for her garden to prevent them from being composted. Linda declines, explaining that she won''t be able to tend to the gardening before she departs. Mika expresses disappointment.","Mika: Dear  Linda, would you like a few plants For your garden? All perennials.It would be a shame to throw them onto the compost heap.
+Linda: Hello Mika: A nice offer, thank you, but I won''t manage to do any gardening before leaving.
+Mika: What a pity!"
+89,ca0fd59b-680a-4861-bd5f-c27aa64f1bbc,ann_epbi,13680611,gpt4-32k-0613,,,,"Steve informs Gulab that the USA won their recent game, and shares that England will be playing against Croatia tomorrow at 2:00 PM. Gulab acknowledges the information but had forgotten to check the results for the USA''s game.","Steve: BTW, USA won last night!
+Gulab: I forgot to check!
+Steve: England playing tomorrow at 2:00!
+Gulab: That''s right, Croatia?
+Steve: Yep."
+90,cd656015-6d2a-4bec-9f6f-b3a43f50b260,ann_epbi,13680757,gpt4-32k-0613,,,,"Greg informs Betsy he has to stay late at work and asks if she can pick up their child, Johnny, from kindergarten. Betsy is also working late and reminds Greg that Tuesdays are his responsibility. Greg says he will try to figure something out.","Greg: Hi, honey. I need to stay after hours :-(
+Betsy: Again?
+Greg: I''m sorry!
+Betsy: What about Johnny?
+Greg: Well, could you pick him up? 
+Betsy: What if I can''t?
+Greg: Betsy?
+Betsy: What if I can''t?
+Greg: Can''t you, really?
+Betsy: I can''t. Today I need to work long hours as well. Tuesdays are your days in the kindergarten.
+Greg: Talk to you later. I''ll see what I can do.
+Betsy: You''d better think of something.
+Greg: Oh. Just stop it now."
+91,ed997c73-63a5-4ea8-8c1a-fede592d0fe7,ann_epbi,13680782,gpt4-32k-0613,,,,"Maya asks Boris to bring in the clothes hanging outside as they are likely dry and it might rain soon. Boris, who is not at home, promises to inform Brian to handle the task. Maya is thankful for his response.","Maya: Bring home the clothes that are hanging outside
+Maya: All of them should be dry already and it looks like it''s going to rain
+Boris:  I''m not home right now
+Boris: I''ll tell Brian to take care of that
+Maya: Fine, thanks"
+92,bc05e0e4-40fd-44c3-92d0-d84ce5571b54,ann_epbi,13611442,gpt4-32k-0613,,,,"Helen reached out to Simon, let him know she had been trying to call him, and then requested him to bring some toilet paper as it had run out. Simon, who missed her call due to being on the phone, agreed to fetch the tissue paper, laughing off the awkward situation.","Helen: Hey, Simo, are you there?
+Simon: Yep babe, what''s up?
+Helen: I was calling you before...
+Simon: Sorry I was on the phone, I didn''t hear you... Tell me.
+Helen: It''s a bit embarrassing... The toilet paper is finished, could you fetch me some tissues, please?
+Simon: Hahaha sure, no worries!"
+93,24562d72-3af9-409c-af32-4d85ff0addf9,ann_epbi,13680874,gpt4-32k-0613,,,,"Tiffany asks Railey to buy her a burger on her way home, to which Railey agrees.","Tiffany: buy me a burger on your way home
+Railey: ok
+Tiffany: thx, sis :)"
+94,943178cf-b22f-4c5b-9d99-41405938caa3,ann_epbi,13680992,gpt4-32k-0613,,,,"Mr. Williams asks Ms. Blair to join him for a coffee, and she happily agrees. After discussing preferences, they decide to meet at her favourite coffee place near the square in a side alley at 2 p.m.","Mr. Williams: Ms. Blair, would you like to go for a coffee?
+Ms. Blair: I thought you''d never ask.
+Mr. Williams: That''s outstanding. Do you have a favourite coffee place?
+Ms. Blair: I actually do. It''s near the square in a side alley.
+Mr. Williams: I think I know which one. Let''s say 2 p.m.?
+Ms. Blair: Sounds great. See you there :)"
+95,024a95c5-03f7-416e-af77-decee16f29fe,ann_epbi,13681079,gpt4-32k-0613,,,,"Dinny asks Terry to remove his dog before she arrives due to a slight fear of dogs, and Terry agrees.","Dinny: can you take your dog away before i come?
+Terry: are you afraid?
+Dinny: a little
+Terry: ok than"
+96,e82695b5-1dde-454e-a9ea-9c523a652ea1,ann_epbi,13680873,gpt4-32k-0613,,,,"Darcy asked Adam if he had ever been to Egypt due to his extensive travel history. The reason behind her question was that their mutual acquaintance, Aaron, has a connecting flight in Cairo and was contemplating leaving the airport to sightsee for a few hours. Adam advised that it could be a worthwhile visit, as long as Aaron is cautious.","Darcy: have you ever been to Egypt?
+Adam: why would you think Ive been to Egypt?
+Darcy: you travel a lot
+Adam: if you say so, ive only been to a few countries. why do you ask?
+Darcy: Aaron has a connecting flight in Cairo and might leave the airport for a few hours to pass the time.
+Adam: I see. Should be worthwhile as long as hes careful.
+Darcy: thats what im thinking"
+97,f6764cd7-4cff-4e98-a416-d6c11d52ad28,ann_epbi,13680968,gpt4-32k-0613,Boris reminds her to initial the change,"Sarah: : Do I need to initial the change?
+Boris: : Yes, please come see my assistant at your earliest convenience.",Intrinsic_Error,"Sarah''s request for PTO was denied due to many requests and her relatively low seniority. However, Boris offers her first choice of dates for the following week and promises to consider her if there are any cancellations. Sarah agrees to this compromise, planning for a long weekend the following week. Boris reminds her to initial the change with his assistant and thanks her for her understanding and flexibility.","Boris: Due to the number of PTO requests this week, we had to decide who will be allowed to take off based on seniority. 
+Sarah: I understand.
+Boris: Unfortunately, you are too low on the totem pole and we will have to deny your request.
+Sarah: Oh, that''s too bad! Is there any compromise? I really wanted to have some time with my family.
+Boris: I can give you first choice of dates the week after, but that''s the best I can do.
+Sarah: What if someone cancels?
+Boris: That is a rare, but yes, I will come to you first.
+Sarah: Thank you.
+Boris: Again, I''m very sorry.
+Sarah: Could you amend my request for the following week, Monday through Wednesday?
+Boris: Certainly. That should be no problem.
+Sarah: That''s great, at least I''ll have a long weekend!
+Boris: Very true. No problems from my side.
+Sarah: Do I need to initial the change?
+Boris: Yes, please come see my assistant at your earliest convenience.
+Sarah: Certainly, no problem.
+Boris: Thank you for being so flexible.
+Sarah: Sure, I understand we can''t all be off. You are just trying to be fair.
+Boris: That''s it exactly.
+Sarah: Thank you again for explaining it so well.
+Boris: My pleasure. Have a nice holiday and enjoy your time off.
+Sarah: Thank you!"
+98,c44eecf1-32ce-472a-8663-24426cdbe632,ann_epbi,13680972,gpt4-32k-0613,,,,"George has been trying to talk to Donna about a sensitive matter. Initially, they discuss meeting in a coffee shop to discuss it, which Donna questions due to the delicacy of the situation. George agrees, and then invites Donna to his place for the discussion instead.","George: Hi Donna. I''ve been trying to catch you.
+Donna: What about?
+George: A rather delicate matter.
+Donna: Did you catch AIDS?
+George: Very funny!
+Donna: It is, isn''t it?
+George: I don''t think so.
+Donna: Too bad. So what do you want?
+George: Could we meet and discuss it somewhere?
+Donna: Like where?
+George: Like in a coffee shop or somewhere.
+Donna: You sure a coffee shop is better to discuss delicate matters.
+George: Come to think of it, you are right. It''s not.
+Donna: See? So what''s up?
+George: Couldn''t you come to my place tonight?"
+99,451c4329-6bbe-4dc5-9366-45dff0ee6f98,ann_epbi,13681165-1,gpt4-32k-0613,,,,"Alyssa and Derek discuss Fergie''s rendition of the national anthem, indicating they both found it lacking in quality. Derek humorously exaggerates his criticism, and they both find humor in Fergie''s confidence in her performance.","Alyssa: Have you seen Fergies national anthem? Illuminati does a great job.
+Derek: This is not normal. I saw it last week
+Alyssa: What do you think about it?
+Derek: I can fart bright stripes and bright stars better then she sings.
+Alyssa: The best part is that she acts like she nailed it. But at least it''s funny in a good way.
+Derek: It is"
+100,5f7e43c3-2088-44e7-aa37-1103caec1d33,ann_epbi,13681171,gpt4-32k-0613,,,,"Tanya checks on Rosie''s condition which has improved, but she''s still not fully recovered. Tanya expresses relief and concern.","Tanya: are you better today?
+Rosie: better, but not good
+Tanya: it''s great to hear that
+Tanya: i was worried"
+101,dcbc7546-7a40-4177-942a-b83243dc7ee6,sanjana,13727579,gpt4-32k-0613,agreeing to prepare some food,Mum: : I'll wrap something up for you.,Intrinsic_Error,"Steve expressed to his Mum that he was very hungry, to which she responded by agreeing to prepare some food for him. Steve thanked her and expressed gratitude for her help.","Mum: hungry?
+Steve: starving...
+Mum: I''ll wrap something up for you.
+Steve: You''re the best, thank you!"
+102,b7f644a7-3417-4ea7-ac3c-9fd5e2045be2,sanjana,13727716,gpt4-32k-0613,,,,"Aude and Susie discuss how Ted is doing, and Susie confirms that Ted kept his plasters on until that morning after his shower. They both joke about Ted''s appearance with them, and Susie relates it to a memory from Poland.","Aude: Hi Susie, how is Ted this morning? Did you find plasters?
+Susie: yes. He kept them till this morning after his shower.
+Aude: he must look sexy whith them... lol
+Susie: a  memory from  Poland!"
+103,b9c2cf5a-6905-45d4-986c-bcb00cecdc73,sanjana,13727809,gpt4-32k-0613,They plan to remind each other,"Thomas: : Remind me before 
+Thomas: : Like the day before k?
+Matt: : For sure ",Intrinsic_Error,"Matt reveals to Thomas that he has gotten a ticket to see Dawid Podsiadlo, expressing his excitement. Thomas is equally thrilled and plans to join Matt. They plan to remind each other the day before the concert. Thomas mentions he''s attending alone at the moment, though Maria might also be interested in going.","Matt: Hey
+Matt: I got my ticket for Dawid Podsiadlo!!!
+Matt: So stoked!
+Thomas: Whooaa that''s great!!
+Matt: I will see you there then! 
+Thomas: Yes for sure
+Thomas: Remind me before 
+Thomas: Like the day before k? 
+Matt: For sure 
+Matt: Who you''re going with 
+Thomas: by myself for now
+Thomas: I meant until now haha
+Matt: Right on 
+Matt: I am so stoked tho
+Thomas: Me too 
+Matt: I might ask a few more people if they''re coming ;) 
+Thomas: Maria was interested I think 
+Thomas: But I am not too sure
+Thomas: i will ask her"
+104,98c7b5d4-797e-44c2-a0cf-75c725d0c89c,sanjana,13728397,gpt4-32k-0613,,,,Karine and Jessie are watching a video file that features them when they were in kindergarten.,"Karine: <file_video>
+Jessie: That was us at kindergarten!
+Karine: yes!!"
+105,ae518e7e-39b0-47b9-b449-0dc2bd515d92,sanjana,13728535,gpt4-32k-0613,,,,"Laura asks Kas if they could tidy up her messy dreadlocks over the weekend. Kas responds that they might be able to, but they need to confirm with their work schedule first. They assure Laura that if they can, it would take a few days to sort out her dreads. Kas will let Laura know by that night.","Laura: Do you think you can tidy up my dreads for me this weekend?
+Kas: Probably. Have to check my schedule with work first and let you know.
+Laura: <file_photo>
+Laura: <file_photo>
+Laura: <file_photo>
+Laura: They''re really messy.
+Kas: It''ll take a couple of days to sort out the mess. I''ll let you know tonight if I can do it."
+106,f0d70e64-1e18-4711-a251-c6dae3d55b8d,sanjana,13727853,gpt4-32k-0613,,,,"Jen is considering ending her relationship with a man who is abusive, exploitative, and refuses to pay her back the money he owes her. Her friend, Jane, supports her decision, pointing out that she had warned Jen from the beginning about this man. Jen admits she''s scared of the confrontation that will ensue when she asks him to leave, but Jane encourages her to cut her losses and move on. Jane reassures Jen that she can lean on her for support.","Jen: I think I''m through with the dickhead. He''s being a pain again. I''m going to tell him to move out.
+Jane: Did he at least give you back the money he owes you?
+Jen: No. He''s freeloading and said he has no intention of giving back my money because I don''t deserve it with the way I act.
+Jane: He has a nerve doesn''t he? How dare he?!!!
+Jen: I''ve learnt to hate him with a passion. He''s like vermin that you can''t cull.
+Jen: Abusive, nasty, annoying, irresponsible. He disgusts me.
+Jane: Get rid of him! I told you right from the beginning that he''s no good.
+Jen: Yeah you were absolutely right.. as always.
+Jane: I hate to say it but I can smell a fucktard a mile away.
+Jen: I seem to pick them, don''t I?
+Jen: Sometimes I think it is my fault. If only I could be a better person, if only, if only....
+Jane: You know that way of thinking will get you nowhere fast. It''s self defeating. That''s what the abusers want you think that you''re bad and you deserve every bit of abuse that they dish out.
+Jen: What if he doesn''t leave? I''m afraid of asking him to leave ''cause it will only cause another fight.
+Jane: You can''t spend your whole life walking on eggshells.
+Jen: Yeah, you''re right... but how do I get out of this mess?
+Jane: I think you''ve got to cut your losses and just move on.
+Jen: Easier said than done.
+Jane: I know. You''ve gotta do it Hon. If you don''t things will only get worse. Think of how much worse they''ve already got since you met him.
+Jen: Yeah you''re right. Sometimes I just don''t have the strength. 
+Jane: I believe in you. Please do it! Remember I''m always there for you."
+107,6adfb283-8c36-4797-b689-34b49d41014f,sanjana,13727934,gpt4-32k-0613,,,,Patricia asked George to call her in an hour as she was unavailable to talk at the moment. George agreed to do so.,"Patricia: Hey, could you give me a call in an hour or so, I can''t talk now.
+George: Yeah, of course.
+Patricia: Thanks. "
+108,36606f7e-d07f-4178-8380-8dc72dc7c0eb,sanjana,13728101,gpt4-32k-0613,,,,"Michael and Kai catch up on their recent activities. Michael has been traveling to Argentina, Brazil, and Chile for two weeks and is returning home, with plans to visit Boston soon because he found a cheap ticket. He''s considering resigning from his job in London because he''s lost motivation after three years. He''s considering moving from London, possibly back to the Netherlands to recharge, despite knowing it''s not ideal to quit without an alternative lined up. He plans to talk to his manager before making any decisions. Meanwhile, Kai is overwhelmed with work but hopes to rest after a conference in December. Michael advises Kai to rest to avoid burnout, similar to his own experience before his holiday.","Michael: hey, how are you
+Kai: hey! I am fine, just working too much. what about you? you travel so much!
+Michael: haha yes. At airport on my way back. looong trip
+Kai: where have you been now?
+Michael: argentina brazil and chile
+Kai: wow! how long?
+Michael: 2 weeks, lots of flights to make it work. I''m in Boston next weekend!
+Kai: really??! how come?
+Michael: just because I found a cheap ticket 😋
+Kai: nice:) but it''s cold
+Michael: hmm well.. I can deal with the cold now
+Kai: are you not tired of all this travelling?
+Michael: hmm, a little bit but not really. I’m more scared to stay in London and do nothing, because I’m so bored of it
+Kai: I see, a man full of energy :)
+Michael: well sort of, for fun stuff, but tired of work. 
+Kai: yes, I remember quite well 😋
+Michael: Hahah. Thinking of resigning earlier than I was planning
+Kai: and then?
+Michael: I don’t have an answer to that one yet, and it’s not really a solution because I’d need to work 2 months notice period anyway, but I’ve just lost motivation after 3 years
+Kai: Would you like to leave London?
+Michael: yes asap
+Kai: for the Netherlands?
+Michael: maybe to recharge and look for jobs abroad, but I don''t want to stay there. I know it’s not smart to quit without an alternative
+Kai: depends on the field. I don''t know yours and your experience. But it can be a bit stressful also
+Michael: true, in my field it wouldn’t be good. Anyway I need to speak to my manager and discuss because I’m not happy in my job now. How’s everything on your side? too much work?
+Kai: yes, I basically never rest these days
+Michael: that’s not good, you need rest to avoid a burnout, which I had just before I went on holiday
+Kai: Probably, I have a conference 8th of Dec, then I''ll rest a bit, I hope."
+109,8245a84d-a9fb-4bc6-8cac-7ecbb7a66e42,sanjana,13728122,gpt4-32k-0613,,,,"Daniel informs his sister Kate that he has passed his driving license exam, and she congratulates him, expressing that their father will be proud.","Daniel: Hi sis. 
+Daniel: Just wanted to let you know that I passed driving license exam
+Daniel: It went well :D
+Kate: Congratulations!!!!
+Kate: :) :) :)
+Kate: Dad will be proud!"
+110,f98becfb-d769-4506-aac2-d800c5a3b9f8,sanjana,13728117,gpt4-32k-0613,,,,"Sam is interested in purchasing white earphones and inquires if they are available. Lia confirms the availability and mentions that they can be delivered through courier at an additional cost. The company is located in Garstang for personal collection, which is not convenient for Sam. The earphones are new and also available in grey and pink. Sam attempts to negotiate the price, but Lia states it''s against company policy. The usual delivery period is the next day.","Sam: <file_gif>
+Sam: Good afternoon, is this available?
+Lia: Hi, how can I help you?
+Sam: I''m interested in this product. Are the earphones available?
+Lia: Yes, they are.
+Sam: where can I collect them?
+Lia: Well, you can have them delivered to you through courrier - this costs 4 (pay on delivery)
+Lia: I''m afraid collecting them personally is a little difficult, as the product can only be collected in Garstang (where the company is located)
+Sam: Okay.
+Sam: Are they new? Do you have any other colors that white?
+Lia: Completely new - we also offer grey and pink.
+Sam: Then I would like the white ones please.
+Lia: Okay, so I just need your address and telephone
+Sam: The total costs 187 - can I lower the price to 180??
+Lia: fraid not - company policy.
+Sam: Oh, okay.
+Sam: How long does it take for the product to arrive?
+Lia: It generally arrives the next day, in rare instances it''s longer."
+111,958dd598-5e1b-40a6-b2f5-58ebbaf96a1e,sanjana,13728157,gpt4-32k-0613,,,,"Callan is experiencing issues with his Samsung S8 device, specifically a persistent black screen which he believes is a result of overheating. This is not the first time Callan has encountered this problem. Despite warnings from Wade about the potential dangers of a faulty battery, Callan intends to take the phone to the store as it is still under warranty. He assured Wade that he won''t lose any of his files as he regularly backs up his data.","Callan: Something''s wrong with my Samsung S8.
+Wade: What, exactly?
+Callan: All I get is a black screen.
+Wade: Did you drop it or something?
+Callan: I think I know, this has happened before.
+Wade:  It did? What happened before?
+Callan: It overheats and then it takes a while for it to restart again..
+Wade: That sucks.. Be carefull with the battery, it can be dangerous.
+Callan: It sure can, but I''m going to the store and let them see it. It''s still under warranty.
+Wade: Will you lose all your stuff?
+Callan: No, I always back up my files."
+112,8d43f0a2-4845-49e3-ac35-2221a6abd6a3,sanjana,13728300,gpt4-32k-0613,discuss their daily plans,"Jake: : What are your plans for the day?
+Olivia: : I haven't really got anything planned. There are some things I should do which I haven't looked at for a while",Intrinsic_Error,"Jake and Olivia discuss their daily plans, with Olivia mentioning she needs to sort her accounts and upload videos to YouTube. They then discuss the intricacies of post-production, with Olivia noting her issues with copyright strikes when she includes music. Jake shares a story about a time when he faced a copyright challenge from Sony Music for using his own music piece.","Jake: What are your plans for the day?
+Olivia: I haven''t really got anything planned. There are some things I should do which I haven''t looked at for a while
+Jake: Like what?
+Olivia: I ought to do my accounts. At least get all the incoming and outgoing invoices sorted by months.
+Jake: Tax filing is a long way off.
+Olivia: I know, but doing it all at the last minute is a dreadful headache.
+Jake: Anything else?
+Olivia: I also have a few videos I need to upload to YouTube.
+Jake: Already ready or you still need to do post-production?
+Olivia: I don''t really do much by way of post-production. I''m not exactly Steven Spielberg.
+Jake: I do, but I dont always have time to do much.
+Olivia: If I put in any music I always get a copyright strike and someone else is taking the ad revenue
+Jake: Yeah. And some of those claims are purely speculative. One time I put on one of my own pieces and it was challenged by Sony Music
+Olivia: No way!
+Jake: It''s true. On the form you fill in to counter the claim I said if Sony want to make me one of their signed artists, that''s fine. Otherwise to get they paws off of my music."
+113,5f5ed075-53bc-49fa-bb03-75fcf2d4552d,sanjana,13728313,gpt4-32k-0613,,,,"Kim is trying to locate fresh ramal fish in Warsaw but has had no luck so far, even after trying the marketplace at Polna street and searching online. Margot suggests that Kim should look at restaurant menus and inquire about their source, even though they might not disclose that information. Kim seems excited about the idea and reveals that she is planning to grill the fish for a special, surprise occasion. Margot expresses curiosity and excitement for Kim''s plans.","Kim: Hey, listen, have you got any idea where I can get some fresh ramal fish in Warsaw?
+Margot: Hi, I don''t know about ""fresh"", but you could try the marketplace at Polna street. 
+Margot: Other than that, I haven''t got a clue...
+Kim: Already tried Polna :(
+Margot: Ah!
+Margot: Hm...
+Margot: And did you check Internet for fish market in Warsaw?
+Kim: Yeah, there''s none.
+Kim: Or I didn''t find it. 
+Margot: You could have a look at restaurants'' menus. And if you find it there, you could ask about their source. 
+Margot: Although I''m not sure they''d eager to give you such infromation. But you can always try..
+Kim: Great idea, I haven''t though about this! Thx!
+Kim: I''ll try. After all, I have nothing to loose. 
+Margot: Btw, is there a special occasion you want to cook it for?
+Kim: Yes! Acctually I''ll grill it ;)
+Kim: And it''s a surprise, so I''m not giving away any details!
+Margot: I''m so curious!
+Margot: I understant it''s sth good, so I''m happy for you girl :)
+Kim: Indeed, it''s good. But you won''t get any more infromation from me now.
+Kim: All in good time :)
+Margot: Cruel you! Find that fish!!! ;)
+Kim: :D"
+114,c79a9f2e-9e06-48bc-8a11-30bfe7461217,sanjana,13728369-1,gpt4-32k-0613,,,,"Nestor is considering buying a new laptop and thinks that Black Friday is the perfect time to do so. Olaf, however, believes that Black Friday is a sales pitch and that often prices are the same or higher than usual. He suggests that Nestor compare prices before and after the promotion. Olaf also offers to help Nestor by connecting him with a person who sells nearly new computers at reasonable prices. Nestor agrees to this, with the plan to compare prices during the sale and if the deal isn''t better, consider purchasing from Olaf''s contact.","Nestor: I''m thinking of buying a new laptop
+Nestor: And it seems that now is a perfect time for it as Black Friday is coming
+Olaf: Hahaha
+Nestor: I haven''t said anything funny, what''s wrong with you
+Olaf: Everything''s fine with me, you''re just being silly
+Nestor: Why, cuz I want to save some money buying what I need when it''s cheaper?
+Nestor: Do you actually know what Blak Friday is about?
+Olaf: Of course I know
+Olaf: It''s a cunningly contrived sales pitch
+Olaf: Prices are thought to be reduced but in fact they''re the same or even higher...
+Nestor: You''re just repeating a stupid theory some people made up and try to convince others that it''s based on facts
+Olaf: You''re really naive...
+Olaf: <file_other>
+Olaf: Click on this link and see for yourself
+Olaf: This is one of the sites where people upload photos of the same product and its price 2 weeks before Black Friday and during the promotion
+Nestor: And how do I know whether it''s a reliable source or not?
+Olaf: Carry out your own investigation
+Olaf: Go and check prices of the chosen products when the promotion is still on and check them again when the promotion is over
+Olaf: Simple
+Nestor: What if the laptop I want has been really cheaper and I''ll miss a perfect deal?
+Olaf: Then I''ll help you
+Olaf: I know a dude who sells almost new computers at very reasonable prices
+Nestor: So ask him to send the offer of what he has in stock to me first
+Nestor: If he can offer me a good deal, I''m going to the mall and starting investigation tomorrow
+Nestor: Deal?
+Olaf: Deal!
+Olaf: I''ll call or text him and ask to contact you.
+Olaf: I''m sure he''ll help you and you''ll appreciate my advice :-)
+Nestor: We''ll see about that"
+115,7bc5efdc-90e9-44be-a83c-c3ea0ea001f7,sanjana,13728767-1,gpt4-32k-0613,"originally assigned to their colleague, Joe","Karen: : I thought Joe was going to finish that?
+Peter: : Not until 6 at the earliest, got to finish this presentation for the repairs team tomorrow
+Peter: : No Eileen wanted me to do it...",Intrinsic_Error,"Karen informs Peter about a road blockage near the swimming pool due to an abundance of work vans, and suggests he should avoid it. Peter, who won''t be leaving until 6, assumes it may be due to some repairs. They also discuss a presentation Peter is working on for the repairs team, which was originally assigned to their colleague, Joe. However, due to Joe''s poor performance last time, Eileen decided to give the job to Peter. Karen offered to help, but Peter declined as he was almost finished.","Karen: you know that road from the swimming pool to Waitrose?
+Peter: yeah?
+Karen: What is happening there?
+Peter: Dunno. What do you mean?
+Karen: It''s all blocked of and vans everywhere
+Peter: Is it ambulances and stuff?
+Karen: Don''t think so, I didn''t see any lights or anything
+Peter: what kind of vans then?
+Karen: I don''t know, those big white ones, like work vans
+Peter: maybe repairs to something?
+Karen: yeah I guess so
+Karen: either way I would avoid it if I were you, I got pretty stuck after yoga
+Karen: what time are you leaving anyway?
+Peter: Not until 6 at the earliest, got to finish this presentation for the repairs team tomorrow
+Karen: I thought Joe was going to finish that?
+Peter: No Eileen wanted me to do it...
+Karen: Cause she knows you won''t say no?
+Peter: Or because Joe did a pretty crappie job last time
+Karen: True. let me know if you need any help.
+Peter: I''m almost done, thanks though. 
+Karen: see you in a bit"
+116,c9421fa2-7569-4f08-b3be-c9967a9d9844,sanjana,13728835,gpt4-32k-0613,,,,"Ludo''s mum has arrived at school and confirmed that Ludo will be in room 112 with Hugo and Charles, in class 3. She wasn''t able to see the room, but described the building as big with a large garden. She has a meeting to attend and tells Ludo not to wait for her.","Ludo: hi mum, did you arrive at school?
+Mum: yes , i''m in front of the door: you ''re room 112 with Hugo and Charles.
+Ludo: and do you know my class number?
+Mum: yes class 3, as Hugo and Charles
+Ludo: good, so cool
+Mum: I''ll show you the picture of the listing, but i couldn''t manage to see the room.
+Ludo: Ok no problem
+Mum: the building is quite big and there is also a huge garden, you''ll have room enough
+Ludo: Yes i saw
+Mum: i have to go, meeting is starting
+Ludo: ok thanks
+Mum: don''t wait for me"
+117,6c3b81e0-9951-4ded-b320-93290de0d93d,sanjana,13728942,gpt4-32k-0613,,,,Dolph reminds Ziggler to bring his passport tomorrow and Ziggler acknowledges and agrees to it.,"Dolph: hey
+Dolph: remember to bring your passport tomorrow
+Ziggler: Cool, i will"
+118,41aebf1d-e02f-4158-80d5-b0c4981366be,sanjana,13728981,gpt4-32k-0613,,,,"Calum and Bethany are discussing a job ad for a computer investigator position that pays around 80 thousand dollars. They both express skepticism about the reality of the job, considering it highly specialized and possibly difficult to find. They also joke about the possibility of ending up in less glamourous positions such as a help desk or a fast food restaurant. Both show a dislike for having to deal with difficult customers in those roles.","Calum: Oh, please. There''s an ad coming up to be a computer investigator and you can earn almost 80 thou.
+Bethany: Riiiiight! Where?
+Calum: Exactly. 
+Bethany: I mean, that''s pretty specialized. Could be true.
+Calum: Doubtful.
+Bethany: At any rate, specialized so that equals hard to find a job in.
+Calum: Yep. You''d be on the help desk in no time! LOL!
+Bethany: Better than asking if they want fries with that!
+Calum: Only slightly!
+Bethany: I can''t imagine talking to stupid users all day.
+Calum: Nightmare of epic proportions.
+Bethany: No shit!
+Calum: Putting it delicately!
+Bethany: LOL!"
+119,5d429991-c162-4437-a059-2d1c285e04fc,sanjana,13729057,gpt4-32k-0613,,,,Biwott asked Chloe if she has watched the series he recommended. Chloe responded that she has been too busy but plans to watch it over the weekend.,"Biwott: Did you watch the series I told you
+Chloe: No not yet.
+Chloe: I have been busy this week but I will watch it during the weekend
+Biwott:"
+120,d367c67e-413b-4b48-8c85-b972422647f5,sanjana,13729103,gpt4-32k-0613,,,,"Will is frustrated about standing in a long line at the post office just to send a letter, commenting on the irony of this situation in the 21st century. He also complains about the lack of digitalisation among the elderly who still pay their bills by cash at the post office. Chris sympathizes with him, acknowledging that lines are a part of city life and suggesting Will consider digital alternatives next time.","Will: I hate ques.
+Will: I''m standing in a line longer than the post office itself.
+Will: In order to just send a damn letter in XXI century.
+Will: Damn
+Chris: What a time to be alive :D
+Chris: Lines are the part of everday life of any person living in a big city.
+Chris: There is nothing special in it, but I hope you''ll think twice next time you decide to send a traditional letter.
+Will: The best think about my XXI century comment is that the line consists almost entirely of elderly people who don''t have bank account and pay their bills via post office paying cash. 
+Will: Where is digitalisation when you need it?
+Chris: Haha. Hang on there. "
+121,fd01dda6-78cd-478f-8312-83fe7835a94c,sanjana,13729106-1,gpt4-32k-0613,,,,"Jill is expressing her boredom and her need to find a job to Nate, who is currently at work. She''s also commented on having watched everything on YouTube. Nate, in a joking manner, doubts the validity of her statement and promises to call her after his work.","Jill: So bored!
+Nate: Well... can''t help you there
+Nate: Still at work
+Jill: ugh I need to find a job
+Jill: I''ve watched everything on youtube already
+Nate: Doubt it :P I''ll call you when I get off work"
+122,862eb3ff-e9e8-4ad2-a1d5-a0bfdd45cc38,sanjana,13729178,gpt4-32k-0613,,,,"Susan went on a date with a man who picked her up looking elegant, and instead of going to a traditional dinner at a restaurant, he took her to a roller skating disco. Susan found the date entertaining and original, while her friend Jill expressed some skepticism. Susan accuses Jill of being jealous of her date.","Jill: so how was your date anyway? :)
+Susan: it was perfect, he was so sweet!! <3
+Jill: tell me everything!!
+Susan: so first he picked me up from home, all dressed up and everything
+Jill: suit on? :D
+Susan: nooo, not like that, but he had a really nice black shirt, elegant shoes, looked like Brad Pitt hahaha
+Jill: hahahahaha
+Susan: <file_gif>
+Jill: so where did he take you?
+Susan: that''s the best part! We went to rollerskating disco!!!
+Jill: rollerskating what? are you serious? :/
+Susan: no no, listen - it was so awesome, I am tired of all this dull restaurant dates and stuff, it was actually something original
+Jill: if you say so...
+Susan: you are just jealous Jill :D
+Jill: I am not!!!!!!!
+Susan: yes you are :*"
+123,eae1df24-067c-410c-a2b7-6556b3775389,sanjana,13729197,gpt4-32k-0613,,,,Daria shared with Kelsey that she got a new job at a law firm. Kelsey was impressed with how quickly Daria secured a position given that she is a recent graduate. Kelsey congratulated Daria on her accomplishment.,"Daria: I got a new job
+Kelsey: wooow where?
+Daria: For a law firm! 
+Kelsey: You go girl! 
+Kelsey: So fast for a new graduate 
+Kelsey: Well done!! 
+Daria: Yeah!! 
+Kelsey: Congrats!  
+Daria: Thx"
+124,28fe8dcd-3864-45be-84f1-ae4264cc4d54,sanjana,13729285,gpt4-32k-0613,,,,"Timmy had a bad day at work because his boss yelled at him. Gemma tried to cheer him up by inviting him to a BBQ over the weekend. She asked him to bring some wine, and mentioned that other friends will also be present at the BBQ event. Timmy jokingly thought it was a date, but Gemma reminded him that she has a boyfriend. The final guest count for the BBQ event is yet to be determined.","Gemma: How''s it going?
+Timmy: A bit down 2day.
+Gemma: Y?
+Timmy: Oh, bad day at work. Can u imagine? Boss snapped at me!
+Gemma: That bitch! What did u do?
+Timmy: Nothing. Minding my own business, doing work stuff and suddenly starts shouting and screaming. Doesn''t matter. How about u?
+Gemma: Well, I think this might cheer u up a bit :)
+Timmy: What is it?
+Gemma: I''m organising a bbq at the weekend :) wanna come?
+Timmy: Love to! What do I bring?
+Gemma: Some wine will be fine.
+Timmy: What about food?
+Gemma: Others and I will cover it.
+Timmy: Others? I thought it was a date :P
+Gemma: U remember I have a bf, right?
+Timmy: Yeah. Just messing around ;) how many ppl?
+Gemma: Don''t know yet."
+125,7bbe7ee5-3427-4775-a9d2-7fa23f80b2da,sanjana,13729525,gpt4-32k-0613,,,,Rose and Jake are excited about their forthcoming payday and are planning to discuss potential Christmas gifts for their loved ones when Jake gets home. Both of them enjoy the process of selecting and giving gifts to others.,"Rose: Payday''s tomorrow :D
+Rose: Can I start thinking about Christmas gifts now? 
+Jake: Hahaha. Sure. When I get home, we''ll talk about what should we buy for everybody.
+Rose: I can''t wait.
+Rose: I love making gifts for people!
+Jake: Yup. Me too."
+126,ec5c17c0-f27a-4bb3-9dde-373e308a12d0,sanjana,13729697,gpt4-32k-0613,,,,"Murphy is planning to go to Poanań on Tuesday and return the same day in the afternoon, though he is unsure of the exact time.","Sophie: When r u going to Poanań?
+Murphy: On Tuesday. 
+Sophie: And you''re coming back the same day?
+Murphy: Yes, in the afternoon, but I don''t know the exact hour. "
+127,ed46dffd-e0eb-4464-9fbb-42f17ef0bbe0,sanjana,13730403,gpt4-32k-0613,,,,"Tom suggests to Camilla that they should visit Dublin, Ireland for the weekend. Camilla is excited about the plan, and Tom proceeds to buy the tickets.","Tom: Have you ever been to Dublin?
+Camilla: Never in Ireland!
+Tom: So let''s go there this weekend!
+Camilla: for 2 days?
+Tom: Yes, the weather forecast is great!
+Camilla: I love your crazy ideas!
+Tom: ok, so I''m buying the tickets
+Camilla: <3"
+128,19e692ea-1fc3-43f6-8f67-902b9f9d2b30,sanjana,13730432,gpt4-32k-0613,,,,Charlie invites Frank to celebrate his sister''s completion of her last exam at the university. Frank agrees and asks Charlie to update him when the plans are clearer.,"Charlie: My sister has just passed her last exam on her Uni
+Charlie: Got something to celebrate
+Charlie: Wanna go out with us tonight?
+Frank: Sure why not.
+Frank: Let me know later when the plan clarifies.
+Charlie: Kk."
+129,83650849-d987-4a08-88da-722bdaf6dd6f,sanjana,13730529,gpt4-32k-0613,,,,"Mark told his sister that Mary is working an online job, hoping to make his sister jealous. However, this backfired as his sister started contacting people Mary works with, prompting Mary to ask Mark to be more careful in the future. Despite the misunderstanding, they ended their conversation with expressions of love for each other.","Mary: Did you tell your sister I am doing online job?
+Mark: yes !
+Mary: why
+Mark: because she keep saying your good for nothing?
+Mary: dint I tell you I dont care?
+Mark: what happened?
+Mary: see I dont want to prove anything to anyone..
+Mark: I know but I was just feeling proud so it was kind of show off
+Mary: she is asking everyone and trying to get to the people I am working for
+Mark: really!! I am sorry for that
+Mary: dont be! I understand your feelings  but u know how she is
+Mark: I know!! :? 
+Mary: dont be sad now its ok.. she cant do much about it chill its ok but just be careful
+Mark: I will be ..
+Mary: btw it feels good that she is so jealous :P
+Mark: lol my aim was to make her feel jealous
+Mary: but i dont like it that she tries to contact the people i am working for ... what does she want?
+Mark: may be she wants to confirm if its true... because its not easy to digest that your working from home and earning well!!!
+Mary: whatever i just hate her
+Mark: chill now .... :) love you
+Mary: i am chilled :cool: ... love you too honey"
+130,30bb8ba5-9539-4e3a-b173-4febd2acbe5f,sanjana,13730560,gpt4-32k-0613,,,,Oscar and Payne plan to meet at Tristano''s for coffee in half an hour.,"Oscar: A coffee at Tristano''s?
+Payne: Why not. in 15 mins?
+Oscar: let''s make it half an hour ok?
+Payne: great, i''ll be there
+Oscar: see you there"
+131,5ec388dc-4615-4a08-a96d-30f88f48b670,sanjana,13730597,gpt4-32k-0613,,,,"Amelia asks Emily about her favorite color, which Emily reveals to be blue. Amelia appears to be holding a secret related to Emily''s favorite color but refuses to reveal it, which piques Emily''s curiosity.","Amelia: What is your favourite colour?
+Emily: Blue, why?
+Amelia: I can''t tell you
+Emily: A surprise? =)
+Amelia: Sort of... Can''t tell you anything more
+Amelia: Sorry 
+Emily: I''m super curious"
+132,205b941c-d24a-442d-be88-4dd5f1f2f169,sanjana,13730730,gpt4-32k-0613,she's open to a phone call,"Christine: : Yeah. Don't call in because I'll feel bad if you catch this cold off me.
+Annie: : I think I probably had it already, but you might be sleeping.
+Christine: : If the light in my room is on, call if you want.",Intrinsic_Error,"Christine won''t be attending school because she thinks she has the flu, but doesn''t have a high temperature. Her symptoms include a blocked nose and a sore throat, and she is feeling tired. She is eating fine and would appreciate some Theraflu. Annie offers to drop some off, but Christine warns her not to come in case she catches the cold. If she''s awake, evidenced by her room light being on, she''s open to a phone call.","Annie: Are you going to be at school?
+Christine: Not tomorrow. I am not well.
+Annie: Oh noes! What happened?
+Christine: Got the flu, I think.
+Annie: what''s your temperature?
+Christine: Not high, I''m not running a fever or anything
+Annie: Are you eating ok?
+Christine: Yeah. Just blocked nose, sore throat. Tired.
+Annie: Sounds like you''ve got a cold. You need anything?
+Christine: I could do with some Theraflu.
+Annie: OK, I think we''ve still got some sachets, should be in date. I''ll drop them through your letterbox later on.
+Christine: Yeah. Don''t call in because I''ll feel bad if you catch this cold off me.
+Annie: I think I probably had it already, but you might be sleeping.
+Christine: If the light in my room is on, call if you want."
+133,abeb16d5-7fae-40ba-b14e-a7a5644dae73,sanjana,13730863,gpt4-32k-0613,,,,"Taylor invites Harry to a party at her house tomorrow at 8 PM while her parents are away. She informs him that 10 people are already confirmed to attend, and Harry responds positively, excited to join. Taylor insists it''s going to be the party of the year.","Taylor: Tomorrow, 8 PM, my house
+Harry: Lol, whats up?
+Taylor: My parents are away, 10 people confirmed already :D
+Harry: Im sooo in
+Taylor: You better, youd miss the party of the year!"
+134,49228d97-ba5c-4099-98f0-ebe85fec1a8c,sanjana,13730868,gpt4-32k-0613,,,,"Tom and Ben have agreed to meet in the Oval Room at 2pm for an intense discussion or negotiation, which Tom implies will be a difficult battle. But they are confident in their victory, believing that justice is on their side.","Tom: Ben. We''ve decided. 2pm in the Oval Room.
+Ben: Ok, I''ll be there
+Tom: Take all your papers, it''s going to be a fight! And remember: take no prisoners, shoot to kill!
+Ben: hahaha, we have to win this battle.
+Tom: We will, the justice is on our side."
+135,951397b4-69e7-410e-be85-2384d32f5d9f,sanjana,13729306,gpt4-32k-0613,,,,"Jules shares a meme with Derek, who admits he doesn''t understand it. Jules then asks Derek if they have class tomorrow, to which Derek confirms that they do since it is Friday. Jules expresses confusion about this, having apparently been misinformed. Derek reacts sympathetically.","Jules: What does it mean?
+Jules: <file_gif>
+Derek: Sorry, I was never good at memes
+Jules: what a shame...
+Jules: by the way, do we have class tomorrow?
+Derek: surely, it''s friday after all
+Jules: oops, someone misled me
+Derek: that''s not nice"
+136,81e90316-e9d7-439f-a0e0-ae8972354730,sanjana,13729565,gpt4-32k-0613,character referred to as MACHINE,Not found,Extrinsic_Error,"Eric and Rob are discussing a stand-up comedy routine they both enjoyed, particularly a segment involving a train and a character referred to as MACHINE. They find humor in the exaggerated portrayal of a Russian character and decide to look up more of the comedian''s work on Youtube. They affirm their enjoyment by repeating the phrase ""MACHINE!"" before signing off.","Eric: MACHINE!
+Rob: That''s so gr8!
+Eric: I know! And shows how Americans see Russian ;)
+Rob: And it''s really funny!
+Eric: I know! I especially like the train part!
+Rob: Hahaha! No one talks to the machine like that!
+Eric: Is this his only stand-up?
+Rob: Idk. I''ll check.
+Eric: Sure.
+Rob: Turns out no! There are some of his stand-ups on youtube.
+Eric: Gr8! I''ll watch them now!
+Rob: Me too!
+Eric: MACHINE!
+Rob: MACHINE!
+Eric: TTYL?
+Rob: Sure :)"
+137,dd281c23-f453-4495-908d-af9f68e23c5d,sanjana,13729618,gpt4-32k-0613,,,,"Freddie asks his grandmother, Winnie, if she''s planning on visiting, to which she responds that she can''t due to a broken leg. She suggests Freddie and his parents visit her instead. Freddie expresses his concern for his grandmother and hopes for her quick recovery. Winnie requests Freddie to ask his mother to call her.","Freddie: Nanna, are you coming to visit us soon?
+Winnie: Oh darling, Nanna has broken her leg, you''ll have to visit me instead.
+Freddie: I forgott. Well come soon.
+Winnie: Good, ask Mummy and Daddy and they will come when they can.
+Freddie: Yes love you. Leg better soon?
+Winnie: Yes, quite soon. Tell mummy to ring me. Bye darling xxxxx"
+138,e58c60b4-a597-4d82-b9f9-6fdbb0c72259,sanjana,13729704,gpt4-32k-0613,"humorously repeating his uncle's playful misspelling of ""graduated""","Uncle : Jayson: My nephew gradumacated! 
+Ewan: : Haha thanks! Gradiated! ",Intrinsic_Error,"Ewan informs his Uncle Jayson that he has graduated. His uncle congratulates him and remarks on how quickly time passes. Ewan thanks his uncle for his congratulations, humorously repeating his uncle''s playful misspelling of ""graduated"".","Ewan: Uncle I graduated!
+Uncle Jayson: My nephew gradumacated! 
+Uncle Jayson: How time flies congrats!
+Ewan: Haha thanks! Gradiated! 
+Uncle Jayson:"
+139,65a61db6-e4f0-4c27-8ff5-a42ebfd793d1,sanjana,13730094,gpt4-32k-0613,,,,"Pam lost her iPhone while out shopping and was unable to locate it when she returned to the stores she had visited. Her friend Dot suggests using the Apple account to remotely display a message on the screen, possibly offering a reward for the return of the phone. Pam appreciates the advice and intends to follow it.","Pam: Hey I lost my phone so if you need something message me here
+Dot: Oh now how??
+Pam: I went shopping and when I was paying I must have left my phone on the counter
+Dot: Did you come back to check if they found it?
+Pam: I talked to every single store I visited and nothing :(
+Dot: It was an iphone right?
+Pam: Yeah, I''ve only had it for half a year
+Dot: But there''s an option where you can display something on the screen
+Pam: How?
+Dot: You have to log into your apple account and there is an instruction
+Pam: Cool!! I have to check it out
+Dot: You could promise a reward and post someone''s phone number
+Pam: I''ll do that!! Thanks!!
+Dot: I hope you find it :*"
+140,cceaab96-7ef5-43c1-abb2-0f81b953a6a0,sanjana,13730105,gpt4-32k-0613,,,,"Anna is explaining to Peter the value of an app that allows users to add the clothes they own and then gives advice on what to wear. Initially, Peter doesn''t see the need for the app, as he is used to selecting his clothes without any help. But Anna demonstrates how the app could save time and stress for someone with a larger wardrobe, making Peter begin to understand its potential usefulness.","Anna: Still, great app! And it''s for men too! U choose ur sex and then add photos of clothes :)
+Peter: Is there a minimum number of clothes I should add?
+Anna: No! And there is no maximum! You can add as many as u want!
+Peter: So if I only add 3 items, I will always get the same results?
+Anna: Ur still making fun of me!
+Peter: I just don''t get it. Every morning I approach my wardrobe, open it, choose the clothes I want to wear or prepare them the previous day and that''s it. I don''t need an app to tell me what to wear with what.
+Anna: Okay... Let''s play a game. 
+Peter: You''re not going to make me cut my fingers off?
+Anna: No ;) how many pairs of trousers do u have?
+Peter: 5 or 6.
+Anna: How many shirts do you have?
+Peter: T-shirts or regular shirts?
+Anna: Shirts. Let''s focus on ur work look.
+Peter: 3 or 4.
+Anna: What about jackets?
+Peter: 2.
+Anna: Great! Now imagine I have 12 shirts, 10 pairs of trousers, and 6 jackets. And I have to decide what to wear in a split second.
+Peter: All right. It''s slowly dawning on me."
+141,3883863b-f15f-42c9-a2c0-8554c3b41cd5,sanjana,13730145,gpt4-32k-0613,,,,"Michelle expresses her fondness for her friend Kelly, which Jared echoes and reveals that he wants to ask Kelly out. Despite their past relationship, Michelle gives Jared her blessing to pursue a relationship with Kelly.","Michelle: i love kelly, she''s so sweet
+Jared: i like her too, i like her a lot
+Jared: do you mind if i ask her out?
+Michelle: of course not! why would i?
+Jared: well... you and i used to go out, and she''s your bestfriend
+Michelle: nonsense, you should ask her out! :-D"
+142,c0c4e75e-a8ad-482e-994b-35903d8aa0ac,sanjana,13730167,gpt4-32k-0613,,,,"Erin and Ashley planned to meet for an interview at the camp where Ashley is currently located. They decided to have the meeting at the restaurant area because the wifi connection is more stable there. Ashley is already there and waiting for Erin, who is on her way.
+","Erin: hey what''s up. what you''re doing today? Would you find some time to do the interview? :)
+Ashley: Hi! I’m free whenever
+Erin: Great, are you at the camp?
+Ashley: Yep, I’m here now.
+Erin: Ok I can come over there
+Ashley: Sounds good. Just shoot me a message and we can meet at the pool or restaurant
+Erin: Alright!
+Erin: Is the wifi good today?
+Ashley: Yeah pretty decent, but usually it''s less spotty in the restaurant area
+Erin: Ok I see, so the restaurant it is
+Ashley: Alright
+Erin: I''m on my way!
+Ashley: I''m sitting in the back"
+143,b322e63d-fd05-4714-935f-ca6f617904da,sanjana,13730484,gpt4-32k-0613,presumably due to the holiday season,Not found,Extrinsic_Error,"Molly is feeling stressed and overwhelmed, presumably due to the holiday season. Luca responds with humor, trying to lighten the mood, but also encourages Molly to not let the stress get to her. Molly agrees with Luca''s advice, but also teases him about his self-assurance.","Molly: D'':
+Luca: What???
+Molly: I can''t think anymore today!
+Luca: LOL!
+Molly: Seriously!
+Luca: Deep breath...
+Molly: It''s the silly season, isn''t it?
+Luca: Yep. Just hang in there.
+Molly: Trying...
+Luca: Try harder! LOL!
+Molly: Driving me nuts!
+Luca: I know, but you can''t let it get you down!
+Molly: Yeah, you''re right.
+Luca: Of course I am! LOL!
+Molly: Modest, too."
+144,02598887-aab3-4d3c-8bca-b18de15f13ac,sanjana,13730771,gpt4-32k-0613,involving a diamond,"Jay: : Bro. Have you heard that diamond is in Kenya?
+Joe: : Yeah man. I know what you are thinking",Intrinsic_Error,"Jay and Joe are planning to attend an event in Kenya, involving a diamond. Initially, Joe was unable to purchase the tickets due to a lack of funds, but Jay offered to lend him the money. Jay also revealed that he had arranged for two girls, Ruth and Paulette, to join them at the event. Joe jokingly admonished Jay for always being the one to arrange their social connections and promised to handle it next time.","Jay: Bro. Have you heard that diamond is in Kenya? 
+Joe: Yeah man. I know what you are thinking
+Jay:   
+Joe: Bro. I dont have some cash to buy some tickets for the event.
+Jay: Come on! Stop worrying about cash.
+Jay: I will lend you then you can refund later.
+Joe: Okay.
+Jay: And guess what?
+Joe: What
+Jay: I have convinced Ruth and Paulette to accompany us
+Joe: Really?
+Jay: Do i look like i am joking
+Joe: It''s game on bro!!!!!!
+Jay: Yeah. You know me.
+Jay: But it is time you start paying me.
+Jay: I can''t be hooking up you with new girls every time we have a concert.
+Joe:  cut the crap
+Joe: Just wait next time. I''ll be the one doing the connections.
+Jay: Okay. Can''t wait."
+145,251c9dcf-b643-4661-b26d-1e518485a169,sanjana,13730778,gpt4-32k-0613,Aggie asked Peter about his starting time for work,"Aggie: : When do you start work?
+Peter: : at 8
+Peter: : why?
+                        
+Aggie: : no when do you start the new job?",Intrinsic_Error,"Aggie asked Peter about his starting time for work, which is at 8. Aggie then clarified about the start date for Peter''s new job, which is on the 6th. Upon learning this, Aggie mentioned that she will arrange a babysitter. Peter jokingly comments about Aggie trying to use him as a babysitter and she admits it in a playful manner.","Aggie: When do you start work?
+Peter: at 8 
+Peter: why?
+Aggie: no when do you start the new job?
+Peter: oh on the 6th
+Aggie: Ok I''ll get a babysitter then
+Peter: lol wanted a free babysitter
+Aggie: yeah sorry :P"
+146,540459cc-aa9a-4ecf-a022-ce4f2e68a8d8,sanjana,13730929,gpt4-32k-0613,,,,"Cara wanted to visit Celine, but Celine wasn''t at home. Celine offered to meet Cara in the evening instead, and Cara agreed to it, asking Celine to call her in case she decides to come over.","Cara: hey
+Cara: are you at home
+Celine: hey Cara
+Celine: No i''m not
+Cara: okay then, i just wanted to pass by
+Celine: im sorry, i can drop by in the evening if you dont mind
+Cara: its fine, call me then if you decide to come
+Celine: ok"
+147,0c56ada6-d669-49b3-8759-0ac2ce9ec967,sanjana,13731055,gpt4-32k-0613,Tim finds his excitement amusing,"Sam: : champions league for instance 
+Sam: : CHAMPIONS LEAGUE BABYY XD
+Tim: : cool xD",Intrinsic_Error,"Sam started playing the career mode in FIFA 19 and finds it different from FIFA 18, especially with the addition of the Champions League. Tim finds his excitement amusing.","Sam: so i started the career mode in fifa
+Tim: 19?
+Sam: yea
+Sam: its so different from the one in 18 maaan
+Tim: yeah?
+Tim: whats different
+Sam: alot of things
+Sam: champions league for instance 
+Sam: CHAMPIONS LEAGUE BABYY XD
+Tim: cool xD"
+148,9584a770-e067-4358-8720-ea02e09fa951,sanjana,13731225,gpt4-32k-0613,,,,Julia is asking Bert about his arrival time to determine if they should wait for him for dinner. Bert says he should be home around 8 and appreciates if they could wait for him. Julia tells Bert to let her know if he will be late.,"Julia: Hey, what time are you getting home?
+Bert: 8-ish. Why?
+Julia: I was wondering if we should wait for you with the dinner?
+Bert: Yeah, that would be nice of you. I''ll try to get there on time
+Julia: Ok. Call me if you''re running late
+Bert: I will. xx"
+149,8fc4f4dc-62a8-48e4-acbf-d033253a59c9,sanjana,13731240,gpt4-32k-0613,,,,"Ken shares with Ellen that he is not doing well, feeling depressed, frustrated, and stressed due to a bad day. Ellen expresses concern and offers help, but Ken assures her he''ll be fine while apologizing for his mood. Ellen reassures him that he didn''t bring her down but she is worried about him.","Ken: Hey, how are you doing today?
+Ellen: Fine. How are you?
+Ken: Not doing well at all today. Really depressed. Frustrated. Stressed out.
+Ellen: Oh no!
+Ken: Really bad day yesterday carrying over to today.
+Ellen: Can I do anything?
+Ken: I''ll be fine. Just overwhelmed and burned out.
+Ellen: Sorry!
+Ken: Sorry, don''t mean to bring you down.
+Ellen: You didn''t, just worried about you!"
+150,41992a30-26f1-4c9a-a966-ec4c7ded4e0a,sanjana,13731477,gpt4-32k-0613,,,,Gene sent a package to Jack on Friday and gave him the tracking number 12345678900 for him to check why it has not arrived yet.,"Gene: Did you get the package I sent you
+Jack: No, when did you send it?
+Gene: on Friday
+Jack: shit I should have gotten it by now
+Jack: send me the tracking umber I;ll check whats up
+Gene: 12345678900"
+151,1b915c1d-55d5-405c-8064-460807582dbe,sanjana,13809941,gpt4-32k-0613,,,,"Thelma expresses concern over not having anything to wear, despite having a full wardrobe. She insists she needs to look wonderful. Louisa then offers to lend Thelma her red velvet dress, which Thelma appreciates.","Thelma: i dont have anything to wear
+Louisa: your wardrobe is full of clothes
+Thelma: but i have to look wonderful
+Louisa: ok i can bring you my red velvet dress
+Thelma: really? :O
+Thelma: it would be great!
+Louisa: no problem ;)"
+152,d97afba0-6014-4020-98ae-b24178fb98ee,sanjana,13810177,gpt4-32k-0613,,,,"Emily accidentally broke one of Linda''s green tea cups while cleaning the cupboards. Linda, however, was not upset and mentioned that she didn''t care much for the set. To Emily''s surprise, Linda even offered her the entire green set as she liked it. Emily expressed her gratitude and they both planned to meet in the evening.","Emily: Oh Linda...Something horrible has happened. I''m so sorry. I have broken one of your green tea cups. Just looked away and brushed it off the table with my skirt. SORRY!
+Linda: No worries babe! It''s nothing. Really.
+Emily: I''m feeling so bad about it. So clumsy of me.
+Linda: Look. I never really liked the set, so one cup makes no difference. I hardly use it anyway. How come it was on the table BTW?
+Emily: I was cleaning the cupboards in the dining room.
+Linda: You did what? Whatever for? The crockery there is more for decoration.
+Emily: Exactly. I thought they''re so pretty, especially the green ones, and then noticed how dusty they are. So I thought I''d be a helpful guest and wash them. I did. And then I made myself a cuppa in the green one. And it happened.
+Linda: Ya golden! Really! Look, calm down. You are a fantastic guest.
+Emily: Ya. Smashing. As we say in GB.
+Linda: You know what? Take out the whole green set. If you like it so much - it is yours.
+Emily: But Linda! I''m speechless.
+Linda: Precious! See you in the evening!
+Emily: CU
+Emily: And THANK YOU"
+153,eeae1caa-668e-4395-9369-69155cda29c5,sanjana,13810947,gpt4-32k-0613,,,,Ron tells Josh to check his email because he has sent something that Josh would want.,"Ron: check your email :P
+Josh: what did u send me?
+Ron: sth you want to have.  
+Ron: Check :D :D"
+154,278f2ee3-71be-4fae-9ebe-807a92aac2b2,sanjana,13731085,gpt4-32k-0613,,,,"Matt expressed concerns about his homestay parents not treating him well, expressing that they favor another individual named Carlos. He speculated if his staying at home too much has caused a strain due to electricity costs. Jorge tried to reassure him, suggesting he might be overthinking it. He advised Matt to not care too much since he''s only there for another month.","Matt: I feel like my homestay parents don''t treat me that well
+Jorge: Why u think so?
+Matt: They take Carlos for subway
+Matt: And I feel like they prefer talking to Carlos
+Jorge: Do they feed you well tho 
+Matt: Yea I guess
+Jorge: Maybe you''re just overthinking
+Matt: I don''t know
+Matt: It feels like a negative vibe
+Matt: is it because I stay at home too much 
+Matt: And so They have to pay more for electricity 
+Jorge: I doubt it but hmm 
+Jorge: I would give a fuck
+Jorge: You''re there one more month and go 
+Matt: True"
+155,3d85efaa-b3cc-4b69-93a5-0e4acc8edf49,sanjana,13731212,gpt4-32k-0613,,,,"Chandler asks Phoebe for money to pay for a delivery and requests her to handle it as the delivery person is outside his door. Phoebe agrees, albeit calling Chandler an idiot.","Chandler: Phoebe!! Do you have money?? 
+Phoebe: Yes I have .. But why do you need it..
+Chandler: Open your door.. And pay the delivery guy standing outside my door..
+Phoebe: Oh chandler !! you idiot... On my way.."
+156,f95b7e82-e33f-45cc-82c2-15ba1924f4e1,sanjana,13731261,gpt4-32k-0613,,,,"Alec and Alexa discuss the latest episode of America''s Got Talent. Alec shares a link for Alexa to watch, who is impressed by a girl''s performance. Alec believes she might win the competition, having seen all the candidates, and Alexa also expresses her support for the girl.","Alec: Have you seen the last America''s got talent?
+Alexa: No. 
+Alexa: Interesting? 
+Alec: <file_other>
+Alexa: The link doesn''t work. 
+Alec: Give me a sec.
+Alec: <file _other>
+Alexa: Now it''s working!
+Alec: good, watch it, u''ll like it
+Alexa: you''re right, I like it :)
+Alexa: The girl is amazing!
+Alec: :)
+Alexa: I wish I have had half her skills when I was her age! 
+Alec: She''s very good, that''s true. 
+Alec: I even thik she might win the edition.
+Alexa: Did you see all candidates?
+Alec: yes
+Alec: And there''re a few good, but I personally think she''s the best!
+Alexa: I''d be glad if she wins :)"
+157,c3046c1d-2ac0-4de3-9096-d06b776a77e8,sanjana,13731361,gpt4-32k-0613,,,,"Julia shares with Ronald that her weekend has been soured by her parents arguing over where to eat. She no longer wants to eat with them. Ronald comforts Julia and promises to chat with her when she gets back, hinting he has good news that would make her very happy. Julia responds lightheartedly to Ronald''s attempt to cheer her up.","Ronald: How''s your weekend?
+Julia: Fine I guess...
+Ronald: Doesn''t sound like you''re enjoying it
+Julia: Ehh. My parents are having a fight over where should we eat
+Julia: And honestly I don''t event want to eat with them anymore
+Ronald: I''m sorry
+Julia: Yup. Me too.
+Ronald: Call me when you get back.
+Ronald: I''ve got something to tell you, and I''m sure you''re gonna piss rainbows
+Julia: Hahaha. I can see the giraffe from Skittles comercial :D
+Ronald: Sth like that"
+158,66636e22-1fc2-4e39-b028-ee00684dd156,sanjana,13731481,gpt4-32k-0613,,,,"Iris is excited about her husband Pete''s interview, saying it has made him famous. Despite Pete''s understated reaction, Iris mentions her parents'' pleasure that she married a respectable man. Pete, flattered by the comments, plans to return home in one hour.","Iris: <file_other>
+Iris: My husband is famous!!!
+Pete: Oh come on! I''ve got this 1 interview and it really doesn''t make me famous...
+Iris: Haha. You don''t even realize what this ""1 inteview"" means for my parents.
+Iris: They''re just like: ""We''re glad that you found yourself a decent man""
+Pete: Hahaha. I''m flattered :) I''ll be home in 1 hour."
+159,7d5075c9-fe7d-4f1a-8ee7-c2026cf86199,sanjana,13809978,gpt4-32k-0613,,,,Tobias invites Trevor to grab a beer after work at his place at 9. Trevor agrees to the plan.,"Tobias: What do you say, we grab a beer after work or something?
+Trevor: You read my mind :P
+Tobias: 9 at my place?
+Trevor: sounds like a plan"
+160,de5b151d-066e-4f20-9316-11f8ab773daf,sanjana,13810006,gpt4-32k-0613,,,,"Carol offers Jacob some fruit from her garden because she has too much. Jacob suggests she make preserves, but she claims she doesn''t have time. After a bit of banter, Carol tells Jacob he can pick up the fruit on Wednesday at 6pm.","Carol: I got some more fruit from my garden you want some?
+Jacob: Yess! always? but aren''t you gonna eat it?
+Carol: I have so much I don''t know what to do with it
+Jacob: make some preserves with it
+Carol: ugh so don''t have the time for that
+Jacob: oh come on
+Carol: really? thats your argument?
+Jacob: well... come on
+Carol: same argument ass
+Jacob: you aren''t one of those super busy people
+Carol: ?
+Jacob: you know... a person that does everything, goes to every new place
+Carol: does everything? what hte hell are you on?
+Jacob: fine nevermind, when can I come?
+Carol: You can pick up the fruits Wednesday at 6pm
+Jacob: ok"
+161,b872dcdc-d71e-4e0a-8f88-4e06f3389cf4,sanjana,13810165,gpt4-32k-0613,,,,"Mae is inquiring about the readiness of a dress, to which Cael responds it''s not ready yet. Mae expresses hope to get it soon.","Mae: Is the dress ready?
+Cael: Not yet
+Mae: Hope to have it soon"
+163,02d1ce3e-42c5-4cd9-8ab2-ce98fa376a23,sanjana,13810193,gpt4-32k-0613,"Lindsay affirms that her child, Finlay",Not found,Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+164,20400429-e2fa-4299-8479-94fcc300bc71,sanjana,13813011,gpt4-32k-0613,actor Timothe Chalamet,Not found,Extrinsic_Error,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''re so right! :D he looks as if he read Rimbaud''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''s so accurate"
+165,dc9c6e5c-41a3-4218-b9b2-d1fbe2011db0,sanjana,13810245,gpt4-32k-0613,,,,"Adele told Lola she got a new dog, a 4-month-old biscuit lab named Bones. Her other pets, Poppy, Lulu, and Speedy, accepted him well, especially because puppies are easier to introduce to a family of animals than older dogs. They also joked about how females, including dogs, can often be more confrontational. Lola is looking forward to meeting the new puppy.","Lola: hey girlfriend, what''s up?
+Adele: Oh, hi Lols, not much.
+Adele: got a new dog.
+Lola: another one?
+Adele: Yup. a pup biscuit lab. 4 months. Chewy.
+Lola: how did the others react?
+Adele: the cats keep their distance, Poppy and Lulu seem to mother him. Speedy wants to play.
+Lola: no fighting? that''s new.
+Adele: they say puppies are accepted by other animals more easily than older dogs
+Lola: especially girl dogs, probably
+Adele: with the other ones I had to wean them because I took them in as adult dogs. And girls like to fight. like crazy.
+Lola: doggies, right/.
+Adele: that too :P
+Lola: haha. true though.
+Adele: I know, right. Anyway, called him Bones. He''s so plump it kinda fit.
+Lola: cute. can''t wait to see him."
+166,430cb696-e44d-48e0-861e-eb1e534625d2,sanjana,13811007,gpt4-32k-0613,,,,"Jake invites Holly to an event, but Holly cannot attend because she is not feeling well, suspecting she has caught the flu. Jake expresses disappointment as he was hoping everyone would be present.","Jake: Holly ru coming tonight?
+Holly: tbh I don''t feel well
+Holly: I think I caught flu
+Jake: oh no, I was so excited that everyone would be here
+Holly: I know, sorry
+Holly: but I srsly feel shitty.."
+167,c7d9854c-d9bc-40ad-b9ee-ad48c775616e,sanjana,13811296,gpt4-32k-0613,,,,"Harry is going to Ikea and asks Sarah if she needs anything. Sarah requests a few items including a white table cloth, two medium wardrobe organisers, a wooden spatula, and three bottle cleaners. She also asks Harry to pick up a Daim''s frozen cake and a bag of meatballs from the food section, if possible. Sarah also provides her Ikea Family card number for Harry to use. Harry sends a photo asking about which table cloth to buy, to which Sarah prefers the first one.","Harry: Going to Ikea, need anything?
+Sarah: Oh yes! :D
+Harry: perfect XD
+Sarah: So could you please buy for me: white table cloth 120 cm x 140 cm, as simple as it gets, two medium size wardrobe organisers (the ones with grey flowers), one wooden spatula and three bottle cleaners.
+Sarah: If you happen to go the food section, I wouldn''t mind a Daim''s frozen cake and a bag of meatballs ;)
+Harry: Ok, got it. Will do my best.
+Sarah: You can use my Ikea Family card, just give them the number and my last name and tell them you forgot to bring it ;) 17927192.
+Harry: Thanks! Stay online, I may need your help.
+Harry: <file_photo>
+Harry: Is this table cloth ok? Or that one?
+Harry: <file_photo>
+Sarah: First one''s perfect ;)"
+168,38212f64-1054-4144-9bd3-2504f467e1b7,sanjana,13811786,gpt4-32k-0613,"pet for World of Warcraft, decals for Starcraft 2",Not found,Extrinsic_Error,"Lee discusses his surprise at seeing a normally casual-dressed colleague wearing a dress shirt and suit jacket to work, jokingly suggesting that the strange occurrence could signal ""The Russians are coming."" Andy teasingly suggests the individual might have a date later, or a client presentation. Lee then mentions pre-purchasing a digital copy of RoS CE, which resulted in bonus features such as a pet for World of Warcraft, decals for Starcraft 2, and a hero in an unreleased game. Lee and Andy briefly argue about the value of pre-order bonuses with Andy suggesting that Lee would get the same bonuses if he bought the game closer to the release date.","Lee: I''m scared and confused. The digital wizard client manager who normally wears only hoodies, just put on a proper dress shirt and a suit jacket.
+Lee: The Russians are coming!
+Andy: Maybe he has a date after work?
+Andy: Possibly with a Russian soldier ;)
+Lee: If I''m not mistaken, he has some sort of a client related presentation.
+Lee: But it''s still weird.
+Lee: I''ve been here for almost 5 months and this is the first time I see something like this. :D
+Andy: Take pictures and make fun of him in a couple of weeks :P
+Lee: I should.
+Lee: Quick picture and post to FB.
+Andy: The corporate one!
+Lee: Yeah!
+Lee: But on a more interesting topic, I went and pre-purchased RoS CE in a temporal break of my brains.
+Andy: Digital or the ""real"" one?
+Lee: Digital.
+Andy: Did it unlock any features already?
+Lee: Pet for WoW, some decals for SC2.
+Lee: Pre-ordering opened up a hero in a game not yet released. :D
+Andy: So basically you got some goodies that you would get anyway by buying it closer to launch date? :P
+Lee: Yeah, preorder...
+Lee: Wait, wait! Wings! Wings and a Demon Hunter for Heroes of the Storm.
+Lee: Although wings not applied yet and I prefer the look of the wings from the original CE.
+Lee: <file_other>
+Andy: ""or anyone who redeems a Reaper of Souls retail game key on or before March 31"" - so basically what I said :P
+Lee: Well yeah but I just took a quick bullet when I still had some money on my account."
+169,0d87ec59-ed7b-4e84-b1f1-465f86c301aa,sanjana,13813019,gpt4-32k-0613,,,,"Evan discussed the function with Ethan, who is uncertain about attending. Allison asked Evan if he could influence Ethan''s decision, and Evan confirmed he would try to ensure Ethan''s attendance.","Allison: You talked to Ethan about the function? 
+Evan: Yeah I did
+Allison: What did he say?
+Evan: He might not come
+Allison: Can you do something about that?
+Evan: I will try to make him come
+Allison: K"
+170,a449455a-b083-443c-aced-f30723219f79,sanjana,13813401,gpt4-32k-0613,,,,"Piper inquires about a payment, and Bryan confirms that his manager will send it to her that night. Bryan also mentions that the client liked Piper''s work. Piper expresses hope in continuing to work with them long term.","Piper: When is the payment expected?
+Bryan: I have asked my manager to send the payment
+Piper: When would he send it to me?
+Bryan: He will send you tonight
+Piper: I would be waiting
+Bryan: Sure, Client liked your work
+Piper: Hope to work with you long term"
+171,e9cd15fa-19d8-4cf2-b361-b01efd44ed49,sanjana,13813429,gpt4-32k-0613,,,,"Peyton is asking Cameron to bring a video game home, but Cameron is unable to because they will be out of town for another week. Peyton suggests that Cameron could send the game via courier, which leads to a playful exchange between them. Peyton ends the conversation by urging Cameron to complete their work quickly so they can return home.","Peyton: I have been asking you to bring that video game for me
+Cameron: Honey, I am not having enough time to come home
+Peyton: When would you come home?
+Cameron: I will have to stay out of town for another week i guess
+Peyton: Cant you just deliver that game through the courier? :P
+Cameron: Dont be mean :/
+Peyton: Get the job done and come to home then. ASAP :P"
+172,336f7e10-66a7-429b-8bf6-215d0a104b78,sanjana,13813575,gpt4-32k-0613,,,,Fiona is preparing a dinner for Chris and wants to make Tina''s tart. She has the crust but needs help with the filling because her previous attempt resulted in lemony scrambled eggs. Tina explains that it''s important to keep mixing once the eggs are added to avoid scrambling them.,"Fiona: Are you free?
+Tina: Yes, what''s up?
+Fiona: I''m trying to prepare a nice dinner for Chris and I thought that maybe I could prepare this tart of yours :)
+Tina: I''m flattered!
+Fiona: Well, it IS delicious :) Could help me do it?
+Tina: Sure! It''s not difficult. Do you have anything ready?
+Fiona: I must admit I bought the crust...
+Tina: Oh, ok :P Pity, but well, it''s too late now.
+Fiona: I tried making the filling once, but I finished with lemony scrambled eggs...
+Tina: It happens, don''t worry. The thing is that once you start adding eggs you can''t stop mixing it, otherwise you''ll end up with scrambled eggs."
+173,eb5259e2-48e4-4057-8563-e859fa5f338c,sanjana,13813827,gpt4-32k-0613,,,,Abigail was upset that Ethan did not attend a party and didn''t inform her that he was out of town in Los Angeles. Ethan reassures her that he will be back in 2-3 days and will meet up with her once he returns.,"Abigail: Why didn''t you attend the part last night? :/
+Ethan: I am currently in Los Angeles dat''s why it was impossible for me
+Abigail: When did you leave for LA? :o  You didnt even tell me
+Ethan: Why did you wanted know about it ?
+Abigail: Well! you are my friend and I dont even know that you are outta town. Dont seems good
+Ethan: Don''t worry. I would be back after 3 or 2 days
+Abigail: Let me know when you reach back
+Ethan: Sure. Will meet soon"
+174,bec2c66a-391e-4151-8238-4bd580c6a4d5,sanjana,13813794,gpt4-32k-0613,,,,"Hannah and Brooklyn are discussing their New Year''s resolutions. Hannah shares her goals of losing weight, learning how to cook, meal prepping, and finding a future husband. However, Brooklyn is pessimistic about the idea of New Year''s resolutions, stating they don''t believe a new year means a fresh start. Hannah argues in favor of the idea, saying she likes to think that people get numerous second chances to improve their lives. Brooklyn, unconvinced, wishes Hannah luck with her resolutions.","Hannah: HAPPY NEW YEAR!!! :))) 
+Brooklyn: Same to you! Have you made any New Year''s resolutions? ;>
+Hannah: A whole list ^^
+Hannah: New year, new me :D
+Brooklyn: Really? :D So how you''re going to change your life this year?
+Hannah: First, I''m gonna lose weight and exercise everyday (or at least 3 times a week).
+Hannah: Second, I want to learn how to cook and start meal prepping
+Hannah: Finally, I''m gonna find my future husband (or at least start using dating apps):D
+Hannah: And you? Have you set any goals for 2019?
+Brooklyn: Hmm, interesting :D especially the last point ^^
+Brooklyn: Yeah, just one - not to make any resolutions.
+Hannah: Whyyyy??
+Brooklyn: I just don''t believe that a new year means a fresh start.
+Brooklyn: Every past year I told myself I would lose weight, quit smoking, start going to the gym etc. And I''m still a fatty, who smokes like a chimney and rarely leaves their couch.
+Hannah: You''re a little ray of sunshine, aren''t you? ;)
+Brooklyn: :p And you''re an undaunted optimist. What makes you believe that everything is going to change for the better?
+Hannah: I don''t know, I just like to think that we get numerous second chances to change our lives, to make right what''s wrong.
+Hannah: That''s it, I don''t have any better explanation.
+Brooklyn: Well, you haven''t convinced me. :) Nevertheless good luck with all your resolutions. ;)
+Hannah: Thanks! :*"
+175,90e177f4-6b10-4b15-9c0b-f1dfd3f0ceee,sanjana,13814079,gpt4-32k-0613,,,,"Violet is seeking advice on a good waxing salon in their area as she is about to go on a vacation and needs hair removal. Paisley, however, does not have a positive experience with waxing, detailing the pain and bleeding she endured, especially from bikini waxing. She advises Violet to start with leg waxing or sugaring instead, or consider shaving with the grain to prevent ingrown hairs. Violet is determined to proceed with waxing due to her persistent shave-related skin issues.","Violet: hi! :)
+Violet: do you know any good waxing salon in the neighbourhood?
+Violet: i''m going on vacation and i''m as hairy as a gorilla :o XD
+Paisley: waxing? wow, girl, you''re brave :p
+Paisley: i''ve been in a waxing salon once and i''m not going back
+Paisley: waxing is painful af
+Violet: was it that bad?
+Paisley: leg waxing was ok-ish, but bikini... jesus
+Paisley: i was bleeding so fckin hard
+Paisley: blood was EVERYWHERE
+Violet: !!!
+Violet: i was going to get brazilian waxing, but now i''m scared
+Paisley: that''s extreme :o
+Paisley: if i were you, i''d start from leg waxing or sugaring
+Paisley: but why won''t you just shave down there?
+Paisley: ingrown hairs?
+Violet: yup
+Violet: i use scrubs and moisturize my skin almost every day but it''s still bad
+Violet: i mean REALLY BAD, i look like a freaking chicken with all these razor bumps
+Paisley: try shaving with the grain
+Paisley: it helped with my ingrows
+Violet: i''ve tried everything
+Violet: i just need to man up and make an appointment
+Paisley: good luck, then ;)
+Violet: thanks"
+176,c89454f0-9780-4cac-9fba-8096ccf1ec11,sanjana,13814648,gpt4-32k-0613,,,,"Alexa confesses to Hunter that she asked Ethan to insult him out of jealousy, the reason being Hunter''s interaction with Ethan. Hunter, taken aback, suggests that Alexa could have spoken to him directly about her concerns. Alexa delays further discussion to the next day.","Alexa: I want to confess something
+Hunter: What is it?
+Alexa: I asked Ethan to Insult you :(
+Hunter: But why did you do that?
+Alexa: I was too jealous to see you with Ethan that day, dats why :(
+Hunter: But you could just ask me not to do something if you dont want me to?
+Alexa: We would talk about it tomorrow"
+177,2badd7b7-366d-48ca-af1a-fc68345d18ab,sanjana,13814769,gpt4-32k-0613,,,,"Anastasia and Darrell are discussing school photos. Anastasia shares her new photo, commenting on how it reflects her skeptical mood. Darrell, meanwhile, suggests that she looks like she''s questioning her presence in the photo. They discuss the fast and careless way school photos are taken, and Darrell mentions his experience with group photos during his middle and high school years. Anastasia shares that she needed a new photo for her school ID. Despite the outcome, Anastasia is not worried about her photo, finding humor in the situation.","Anastasia: Our new school photos
+Anastasia: <file_photo>
+Anastasia: Look how happy I am
+Darrell: You don''t look unhappy to me but it''s like you''re, uh
+Darrell: What was the word
+Darrell: Sceptical of something
+Darrell: ""what am I doing here""
+Anastasia: Ahahaha
+Anastasia: That''s my mood everywhere I step in
+Darrell: Hahaha
+Anastasia: Well
+Anastasia: They took the photo in less than a minute actually
+Darrell: Oh wow... well, I guess there were a lot of people?
+Anastasia: Yeah
+Anastasia: School photos always suck
+Anastasia: They take them so fast and carelessly
+Darrell: They would only really take group photos of us in middle and high school
+Darrell: If someone wanted a portrait photo, I guess it was possible
+Darrell: But not obligatory
+Anastasia: Well, I needed a new one for my school ID
+Anastasia: So I had no choice here
+Darrell: Luckily no one really has to look at your school ID most of the time, haha
+Darrell: Don''t worry about it
+Anastasia: Ah no, I''m not worried, I actually find it kind of funny, it''s fine"
+178,6b26bcfe-a1d5-4f8e-ba2e-e4c727cb83ee,sanjana,13819021,gpt4-32k-0613,President,Not found,Extrinsic_Error,"The participants of the conversation are expressing their dissatisfaction with President Donald Trump, referring to him as a coward and criticising his decision to miss a certain event. They also made remarks about his physical appearance, specifically mocking his hair. The overall tone of the dialogue is negative towards Trump.","Janet: I am ashamed. Who voted for this pussy? It''s your fault.
+Alison: Remember the Wizard of Oz? He might have melted.
+Nicole: He’s a sissy boy.
+Cheryl:  RAIN omfg thats so shameful and disrespectful 😡
+Buff: Pussy in Chief.
+Linda: Trump is selfish and inconsiderate.
+Janet: What an embarrassment to our nation and the world!!!
+Roz: Where is Elsie? I miss you vomit 😊
+Cheryl: WTF EVER trumpola didnt want to mess up his pity full comb over.....
+Janet: Trump = snowflake
+Linda: Baby. He’s a spoiled brat baby. Nothing about Donald Trump to be proud of or want to defend.
+Arlene: HIs hair and makeup would have been ruined!
+Roz: Exactly 😊
+Leslie: Which adviser, who he doesn''t listen to anyway, thought missing this ceremony was a good idea? Shameful!
+Eric: What a pussy. We should grab him and kick him to the curb.
+Sue: All the other leaders managed to make it, so there is no excuse, for me.
+Roz:  It''s all about the hair.
+Sue: afraid the colour of his orange hair would run????
+Linda: Never heard of an umbrella :)"
+179,a2f8ab83-e310-4166-8934-c5db1d55cfa3,sanjana,13814886,gpt4-32k-0613,,,,"Emma and Josh discuss how they spent New Year''s Eve. Josh spent it indoors, hosting a small gathering with close friends, drinking wine and playing board games. Emma, on the other hand, had a more active celebration, visiting different clubs as well as ending up on the beach at midnight despite the cold. As a result, she has a cold now. They joke about the differences in their celebrations indicating perhaps their differing attitudes towards age.","Emma: How was New Year''s Eve? :)
+Josh: nice, just a bunch of close friends at my place
+Emma: sounds cosy
+Josh: yeah we had some wine and played board games
+Emma: sounds lame :P
+Josh: haha nope just getting older
+Josh: huge parties and dance clubs are not that exciting anymore
+Emma: oh come on you are not 70
+Josh: not 20 either ;)
+Emma: haha
+Josh: how was yours?
+Josh: I saw some pictures on fb, did you go away?
+Emma: yeah we drove to the seaside, visited bunch of clubs
+Emma: ended up on the beach for midnight
+Josh: wasn''t it freezing?
+Emma: had my beer jacket on :D
+Josh: lol
+Emma: I have a cold now
+Josh: that''s the risk of a beer jacket!"
+180,439c2d50-0a57-436a-b162-90ad7251a6b1,sanjana,13815679,gpt4-32k-0613,,,,Aimee is searching for Maryam but hasn''t been able to locate her. Neither Aimee nor Soren know where Maryam is. Aimee tried calling Maryam and even visited her home. Soren suggests that Maryam could be somewhere with her father.,"Aimee: Do you know where Maryam is?
+Soren: Nope
+Soren: You tried his number?
+Aimee: Yes
+Aimee: I even went to her home
+Soren: She might have gone somewhere with his father
+Aimee: Maybe"
+181,bbadb22a-3089-40e2-aeb2-75cfe08c061d,sanjana,13816899,gpt4-32k-0613,,,,"Kaya is searching for Clay in the library, but Clay informs her that he is in the classroom. Kaya then heads to the classroom to meet him.","Kaya: We have been looking for you in Library
+Clay: I am the class room
+Kaya: Be right there"
+182,115b0582-f02e-4b3b-b2d1-ef5e044628b2,sanjana,13817976,gpt4-32k-0613,,,,"Jane and Steven discuss their upcoming travel plans. According to Google Maps, the distance of the journey could take up to 3 hours to complete due to the distance of nearly 300km. Steven, however, believes they could complete it faster as the road is new. To avoid any potential stress, Jane suggests they meet at 4:30 instead of 5, to which Steven agrees. They decide to meet at the main entrance.","Jane: google maps says it is at least 3h <file_other>
+Steven: I used to make it in 2, trust me :D
+Jane: but it''s almost 300km..
+Steven: the road is new , we will make it ^^
+Jane: I don''t want  to stress out , let''s meet at 4:30 instead of 5, ok?
+Steven: ok, if u reaaly want, we can meet at 4:30
+Jane: thx! 
+Jane: I will wait at the main entrance or where?
+Steven: main entrance is good for me;-) 
+Steven: cu"
+183,e91c8cfd-ffec-44e8-9475-f2da7b3d7b36,sanjana,13818511,gpt4-32k-0613,,,,"Evelyn plans to stay home and rest over the holidays after a hectic period, while Joanne is planning to return to France, despite not wanting to due to her parents'' recent separation. It was revealed that Joanne''s father left her mother for his secretary, which left her mother devastated and dealing with depression. Even though the situation is hard for Joanne as well, she plans to go home to cheer up her mother. Evelyn kindly offered to spend Christmas together with Joanne and her depressed mother, but Joanne doesn''t think her mother is in a state to do so.","Joanne: What are your plans for the holidays?
+Evelyn: Nothing. Ill stay at home and rest.
+Joanne: You must be exhausted after the past few weeks
+Evelyn: Its been hectic
+Joanne: Im going back home.
+Evelyn: To France?
+Joanne: Yes. Not that I want to go
+Evelyn: Why? You always liked spending Christmas with your family.
+Joanne: I did. But my parents separated a few months ago
+Joanne: It is still pretty tense
+Evelyn: Im sorry to hear that
+Joanne: My dad left my mum for his secretary
+Joanne: Such a clich 
+Joanne: My mum is devastated
+Joanne: So Im basically going to cheer her up 
+Joanne: Its really hard for her now
+Joanne: For me its also not easy
+Evelyn: I can imagine!
+Evelyn: If you want to bring your mum over here we could spend Christmas together.
+Joanne: Thanks, thats really sweet. But I dont think shes in a condition for that. Shes been very depressive lately."
+184,456902ba-71ff-4568-9938-90b8a06d9aef,sanjana,13819045,gpt4-32k-0613,,,,"Matt informs Phil and Tony that Bon Jovi is coming to Poland, Warsaw, next July. They each express interest in going, especially noting that the ticket prices, starting at 250 PLN, are reasonable for a band of this caliber. They decide it would be best to secure the tickets as soon as possible due to the risk of them selling out. Phil reminisces about how he enjoyed the band during his childhood and expresses that it would be great to see them live, although he needs some time to think about it before committing. Matt encourages Phil to make a decision soon.","Matt: have you heard that Bon Jovi are coming to Poland?
+Phil: No way!
+Phil: where, when?
+Matt: Warsaw, next July
+Tony: would you like to go?
+Matt: Sure!
+Phil: how much are the tickets? Very expensive?
+Phil: they''re huge, I guess tix can cost a bomb
+Matt: I read the cheapest ones start from pln 250
+Phil: not too bad, for Bon Jovi
+Matt: Yep!
+Tony: maybe I will go too
+Tony: Would you like to get the tix soon?
+Matt: Yes
+Matt: The sooner, the better
+Tony: Right, they may be sold out pretty soon
+Matt: How about you, Phil?
+Matt: would you like to go too?
+Phil: Will think about it
+Phil: I liked them a lot when I was a kid
+Phil: It would be great to see them live
+Matt: I guess so!
+Matt: Think about it and let me know soon, ok?
+Phil: Sure"
+185,2518539b-c41e-4fdb-b71a-8a221e1161cd,sanjana,13819472,gpt4-32k-0613,,,,"Jenny, Jeremy, and Joan are planning to attend a concert on Saturday. Before the concert, Joan suggests they have a drink. Though Jenny isn''t aware of any affordable places nearby, Jeremy suggests a place named Barcelona located on 8th avenue, to which Jenny agrees.","Jenny: Are we going to that concert on Saturday
+Jeremy: sure, it''s the only opportunity to hear them
+Joan: but we could start with a drink
+Jenny: I don''t know anything affordable nearby
+Jeremy: and Barcelona?
+Jenny: Where is it? 
+Jeremy: 8th av
+Jenny: perfect"
+186,0b5db3da-71c7-4ea5-b30c-d11a2a145ae8,sanjana,13819478,gpt4-32k-0613,,,,Mariana asked if the readings for the next session of Stephen''s seminar are available at the print shop. Rita and Arthur didn''t know but mentioned that the texts were not there on Monday. Rita offered to check the availability of the texts the following morning and assure the print shop produces sufficient copies.,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephens seminar are in the print shop?
+Rita: No idea, sorry
+Chae-yeong: The only thing I know is that they were not yet there on Monday
+Arthur: Yer, Ive made the mistake of going on Monday as well and I can confirm the texts were not there and the staff was as rude as always
+Mariana: Sounds familiar
+Rita: Ill go tomorrow morning and let you know if the texts are available
+Rita: I cant buy the copies for you because they never have enough at hand but Ill just ask them to print more for later
+Chae-yeong: No worries
+Arthur: Yeah, just let us know if theyre ready, thats a huge favour already
+Rita: Cool. Will do! xx"
+187,9c028d7f-3efa-486e-a10b-4e12a3d13ec8,sanjana,13819098,gpt4-32k-0613,,,,"Claire shares a file with Nicole and Maria, likely a dress, with mixed feelings about it. Maria and Nicole express enthusiasm about how perfect and affordable it is. Despite Claire''s comment on the color not being vivid enough, Nicole disagrees and suggests that Claire should buy it. Maria also supports Nicole''s suggestion, describing the dress as incredibly beautiful. Convinced by their advice, Claire agrees to consider purchasing the dress.","Claire: Check this out :)))
+Claire: <file_other>
+Maria: !!
+Nicole: Absolutely perfect for you!!
+Claire: I guess so
+Claire: But it could be a bit darker, cause this color is not very vivid
+Nicole: Noooooo, I think this color is perfectly good for the bride
+Maria: And it''s no that expensive :)))
+Claire: Yes, the price appeals to me xD
+Nicole: You should order that dress
+Nicole: I think you won''t regret
+Maria: Don''t hesitate, it''s incredibly beauty!!
+Claire: Ok, if you say so :))"
+188,35ed364f-8b83-4ab3-8621-191c41707273,sanjana,13819314,gpt4-32k-0613,Marco invited Daniel to Bologna,"Marco: : Are you coming to Bologna this fall?
+Daniel: : accidentally, I am flying today thought Bologna but only became I have to change there",Intrinsic_Error,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''ll let you know"
+189,399062bf-1a33-4f10-8782-9a3b391e025e,sanjana,13819721,gpt4-32k-0613,with more information,"Sarah: : Okay, I will call you later
+Lisa: : See you",Intrinsic_Error,"Lisa, Mary, and Sarah are planning a surprise to get an aquarium for someone who''s been wanting it for a long time. Now that they''ve deemed he is old enough to have it, they plan to transport it with the help of someone named Frank. They are excited to see his reaction and compliment their teamwork. Sarah will contact the others later with more information.","Lisa: Is it safe?
+Mary: Don''t worry. Aquarium is kept in a safe place.
+Sarah: He will enjoy it for sure.
+Lisa: He was asking for it for ages.
+Mary: True, now he is old enough to have it
+Sarah: How do we transport that?
+Mary: Easy sister, Frank will help us.
+Lisa: That''s great!
+Sarah: I can''t wait to see his face.
+Lisa: Me too!
+Mary: Good teamwork you all.
+Sarah: Okay, I will call you later
+Lisa: See you"
+190,4c0a93b9-cbc5-4311-9ce4-98329b2ad9b6,sanjana,13819831,gpt4-32k-0613,,,,"Barbara has invited Sean and Zac to her home. Sean has asked permission to bring his dog, to which Barbara agreed. Barbara also offered an opportunity for an overnight stay, which Sean is considering. Zac is currently en route to Barbara''s house.","Barbara: I''m home already, you can come over
+Sean: May I bring the dog?
+Zac: I''m on my way
+Barbara: sure you can, Sean
+Barbara: do you want to stay overnight?
+Sean: great!
+Sean: I thought about it
+Barbara: nice!"
+191,1e2192e2-6d77-4231-a663-0b9c5f251d5b,sanjana,13820513,gpt4-32k-0613,,,,"Rodney, Truman, and Ross discuss a recent campus incident where a man was beaten and mugged by a masked assailant. The victim is in the hospital, but is expected to recover. The potential identity of the assailant is currently unknown, but an official statement and a newspaper article will be released soon. The trio speculate on whether it was a student involved and express concerns about campus security. They all hope the perpetrator will be captured soon.","Rodney: Have you heard a guy got beaten and mugged on campus?
+Truman: Oh, man is he ok?
+Ross: Do they have any idea who did it?
+Rodney: They''re gonna give an official statement about. There''s also gonna be an article in the paper. As far as I know the assailant had a mask on.
+Truman: And what about the beaten guy?
+Rodney: He''s in the hospital, but it seems like he''ll be fine.
+Ross: You think it was a student?
+Rodney: Who knows what those jocks are capable of.
+Ross: They could do it just for fun.
+Truman: On the other hand its easy to get on campus without being detected
+Ross: There are cameras.
+Truman: If your masked it don''t matter. You know how those security guards are
+Rodney: They don''t give a fuck
+Ross: True that
+Truman: Hope they catch the guy soon"
+192,d14050b8-f215-4ea7-85e5-fdfb78f8abf5,sanjana,13820547,gpt4-32k-0613,,,,"Olafur, Nathalie, and Zoe are planning their New Year''s Eve celebration. Nathalie suggests something classy like an opera, which costs 100$, but Olafur prefers the idea of a party. Zoe proposes a ""Breakfast at Tiffany''s"" style party, but they agree on going to a club in Soho after Olafur shares a link to it. They decide they need to buy tickets soon.","Olafur: are we doing anything for New Year''s Eve?
+Nathalie: I was thinking about something classy, like opera or sth like that
+Zoe: how much does it cost?
+Olafur: opera is not for me
+Nathalie: so what do you propose?
+Nathalie: it''s 100$ 
+Olafur: I was thinking about partying somewhere
+Nathalie: partying sounds fun, as long as it will be classy
+Zoe: <file_link>
+Zoe: Breakfast at Tiffany''s party sounds classy
+Olafur: <file_link> 
+Olafur: is it classy enough?
+Nathalie: :O
+Nathalie: this club is AMAZING
+Zoe: whoa
+Nathalie: we''ll going to Soho then
+Olafur: we just need to hurry up and buy some tickets soon
+Zoe: sure"
+193,c1c2c5b1-33e8-44c4-aaa4-e9b654a50de6,sanjana,13820577,gpt4-32k-0613,,,,"Haley shares an old photo of her cat, Bella, when she was a kitten, exciting her friends Jenny and Tess who found the picture adorable. Jenny inquires about Bella''s age in the picture, to which Haley responds, she was around two weeks old. Tess comments on Bella''s current size, with Haley elaborating that in cat years, she''s middle-aged. The friends agree that Bella is still incredibly adorable.","Haley: I found this old photo on my computer - look how cute Bella was a kitten <3 <file_photo>
+Jenny: awwwwwwwww
+Tess: omg omg omg <3
+Haley: she was the cutest little baby
+Jenny: how old is she in that picture?
+Haley: About 2 weeks I think
+Tess: I can''t believe she''s so big now
+Haley: Yup, in cat years she''s actually middle-aged
+Jenny: Haha, yeah, she is. But still totes adorable
+Haley: no doubt ;)"
+194,f4652f64-f317-4fd3-9f44-a9fb1cf84590,sanjana,13820579,gpt4-32k-0613,,,,"Eve, Charlie, and Nicole agreed to meet at the entrance of a crowded location.","Eve: Where are we meeting?
+Charlie: at the entrance
+Nicole: yes, it''s the best place. We would''t find each other inside, it''ll be too crowded
+Eve: ok!"
+195,6c91ed29-c417-43c6-86ea-3b30384b4735,sanjana,13820639,gpt4-32k-0613,,,,"The group is discussing how to handle shared expenses after a member, Juls, has left the group. Ken managed to absorb Juls'' extra cost and proposes to add her back when her share towards the car rental price is calculated. Julia identifies herself as Juls and offers to pay back what she owes. Ken suggests waiting until the end of the month to calculate the final amount due to unforeseen costs. Gerardo plans to ask early departures to stay in the splitwise group for the calculation of gas expenses, to which George agrees.","Iris: Anyone know how to fix this? Trying to remove myself from an expense: > This expense involves a person who has left the group, and thus it can no longer be edited. If you wish to change this expense, you must first add that person back to your group.
+Ken: You got the email address of the person?
+Iris: Doesn''t say. But probably juls?
+Luke: Probably have to delete that expense and re-add it
+Iris: I’m gonna try
+Luke: It''s the car right?
+Ken: yip
+Iris: gracias
+Ken: fixed it - absorbed Juls extra cost so we can remove her from the group again
+Gerardo: We will  need to add her towards the car rental price.
+Ken: true that - let me know when you are doing that and I''ll add her back in
+Julia: Ooops, that’d be me
+Ken: No worries, we got this :)
+Julia: let me know how much I owe u so I can wire :)
+Ken: I guess by the end of the month – something unpredicted always pops up in the meantime so we have to recalculate again
+Gerardo: Speaking of which, I’m gonna ask the peeps leaving early to stay in the splitwise group until the end of the month
+Ken: Sara, George
+George: We will, my man
+Gerardo: It’s gonna be the $ for gas too"
+196,e87bf394-c1ed-40b9-9eea-7b31e326fa54,sanjana,13820984,gpt4-32k-0613,,,,"Viola, who is feeling a bit nervous before her wedding, still has some things to organize. Carmen offers to help her on Friday night and provides her phone number for Viola to contact if she needs any assistance.","Carmen: how are you feeling, Viola? it is so so close...
+Alfred: My dearest Viola <3
+Viola: I think as one''s feeling before the wedding - a little bit light in the stomach! ive got some things to organize still!
+Carmen: i will be on friday night, i could give you a helping hand :))
+Viola: Thanks darling, i will let you know x
+Carmen: (Y) my number just in case +00123456789
+Viola: (Y) <3"
+197,8f6c0d4c-c285-4fcc-80c5-3e02c9e566aa,sanjana,13821284,gpt4-32k-0613,political instability,Not found,Extrinsic_Error,"The conversation between Abby, Dylan, Brandon, and Brenda revolved around a person named Miro. Abby was the one with the most information about him, revealing that Miro is of Albanian descent and his father immigrated to the United States in the early 1990s. This came as news to Dylan, who was unaware of Miro''s background. Abby explained that Miro''s family hailed from the Albanian seacoast town of Duress, not Tirana, and spoke only Albanian at home. Their departure from Albania, according to Abby, was precipitated by extreme poverty and political instability, prompting people to board any available ships to escape. Abby mentioned that Miro showed her pictures of the chaotic events, which included his father among the escapees. Dylan referred to the history as ""scary but interesting"".","Abby: Have you talked to Miro?
+Dylan: No, not really, I''ve never had an opportunity
+Brandon: me neither, but he seems a nice guy
+Brenda: you met him yesterday at the party?
+Abby: yes, he''s so interesting
+Abby: told me the story of his father coming from Albania to the US in the early 1990s
+Dylan: really, I had no idea he is Albanian
+Abby: he is, he speaks only Albanian with his parents
+Dylan: fascinating, where does he come from in Albania?
+Abby: from the seacoast
+Abby: Duress I believe, he told me they are not from Tirana
+Dylan: what else did he tell you?
+Abby: That they left kind of illegally
+Abby: it was a big mess and extreme poverty everywhere
+Abby: then suddenly the border was open and they just left 
+Abby: people were boarding available ships, whatever, just to get out of there
+Abby: he showed me some pictures, like <file_photo>
+Dylan: insane
+Abby: yes, and his father was among the people
+Dylan: scary but interesting
+Abby: very!"
+198,10015edf-bd73-4737-8054-b034bd3790c9,sanjana,13821299,gpt4-32k-0613,,,,"Natalie asked if anyone could check if her wallet was in her room. Jenny was not at home to check, but Tobias found the wallet in the room and confirmed its presence with a photo. Natalie expressed relief at this.","Natalie: Could anybody check if my wallet is in my room?
+Jenny: I''m not home
+Tobias: It''s here <file_photo>
+Natalie: phew"
+199,8d3a3314-4831-444b-901a-4a2fa47a8f8e,sanjana,13820710,gpt4-32k-0613,,,,"Natalie, Judy, and Denise are discussing a new club on Regents Street. Denise has been there a few times and praises the DJ, suggesting it to be her new favorite club. Judy plans to go there this weekend with her friends Miranda and Helen and Natalie expresses her interest to accompany them. Judy is happy with the proposal.","Natalie: Have you been to this new club at Regents Street?
+Judy: I''m going there this weekend!
+Judy: I heard it''s nice 
+Denise: Yes! It''s cool
+Denise: I was there a few times already
+Denise: I think it might be my new favourite club in town
+Denise: The DJ is awesome
+Judy: My friends were also praising the music
+Natalie: That sounds great.
+Natalie: I want to go.
+Natalie: Can I go with you Judy?
+Natalie: Are you going on Friday?
+Judy: Sure.
+Judy: I''m going on Saturday
+Judy: With Miranda and Helen.
+Natalie: Cool"
+200,8c50094c-cec1-466e-9351-1de42cbb99fe,sanjana,13820776,gpt4-32k-0613,,,,"Leticia has either lost her wallet or had it stolen and is in need of $10. Lora agrees to lend her the money and advises her to block her bank account, which Leticia has already done. Miranda offers additional help if needed. Leticia didn''t have a lot of cash in the wallet but is concerned about the time it will take to replace her lost documents. They all hope that somebody might find and return the wallet.","Leticia: would any of you have 10$ and could lend it? I''m really in need, I will gve it back as soon as possible
+Lora: sure
+Lora: is everything ok?
+Leticia: actually no...
+Leticia: I''ve lost my wallet, or someone stole it...i''m not sure but i always take care of my stuff so that''s even more weird
+Miranda: shit...that''s bad
+Miranda: if you need any help I''m also here
+Leticia: thank you girls, really
+Lora: you better call the bank and block your account
+Leticia: I''ve already done it
+Miranda: did you have like a lot of money in this wallet?
+Leticia: fortunately not...you know i hate dealing with cash
+Lora: at least that...
+Leticia: yeah...but i''m afraid i''ll have to get new documents and i have no time for that :///////////
+Miranda: don''t worry, maybe there will be some good person who posts it on lost/found
+Leticia: I hope so"
+201,4b67bdb5-4875-44f7-a579-6a4fb6c9569b,sanjana,13820950,gpt4-32k-0613,,,,"Maria suggested discussing remaining questions and calculations after an IMF lecture. However, Alexander didn''t attend the class and Sarah would be at work. Martha reminded everyone that the deadline was Monday. Alexander proposed a meeting on Friday afternoon or the next day because he had another presentation on Saturday. Sarah was available from 5 pm both days, while Lawrence could make time after class or during the weekend. The group decided to meet the following evening at 5:15 pm, with Lawrence noting that he would be late.","Maria: Who''s gonna be at IMF lecture tomorrow? We can discuss all remaining questions after and do the calculations?
+Alexander: I don''t attend that class, but it is fine by me to meet
+Sarah: I will not be there, sorry. I am working
+Martha: So when? We are due on Monday
+Martha: That doesn''t leave many options
+Alexander: On Saturday I already have to meet for another presentation, so my option is Friday afternoon or tomorrow
+Sarah: Tomorrow and on Friday I am available from 5pm, during the weekend for the whole day
+Lawrence: I am meet after class anytime or make time over the weekend if needed
+Sarah: So can we meet tomorrow evening? 17:15?
+Alexander: It is fine by me
+Lawrence: I will be late, but you can start without me"
+202,211dbc63-48ba-4bf3-9427-9b8bbb438466,sanjana,13821034,gpt4-32k-0613,Edward is anxious about the meetings with clients,Edward: : You think its gonna be just a few meetings with clients 😶,Intrinsic_Error,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''all there then "
+203,6d7363bb-1374-48da-9156-f06a609e8e58,sanjana,13821073,gpt4-32k-0613,a non-scary movie,Not found,Extrinsic_Error,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''m a fucking moron?
+Rose: Cause you''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''s have a spontaneous sleepover :D
+Rose: Oh, man it''s late, but why the hell not.
+Rose: I''ll bring cookies for the cocoa :D
+Julie: yay :D"
+204,4812007e-12f5-439d-b490-6dce79cec664,sanjana,13821297,gpt4-32k-0613,,,,Ella asked her family to confirm their attendance and specify their dietary requirements via a provided link for the purpose of catering. Barbara stated she had done so and also filled out the information for their mom. Ella acknowledged Barbara''s message.,"Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>
+Barbara: Done!!!
+Eva: <3
+Barbara: I flled out for mom too
+Ella: I saw that
+Barbara: (Y)"
+205,de6a199f-48a8-41e4-b2f9-db8c92bbcf7a,sanjana,13821443,gpt4-32k-0613,,,,"Jeff, Peter, and Miranda discuss concerns about the American economy and potential global financial repercussions due to Trump''s actions towards China and uncertainties around Brexit. Despite a poor performance in Wall Street over Christmas, the market is believed to have bounced back. However, they predict that while 2019 may remain calm, the global economy might weaken further, with the possibility of a more significant economic downturn happening in the early 2020s.","Jeff: Have you heard about this Christmas at Wall Street?
+Peter: Yup, was apparently the worst since the end of the 19th century
+Miranda: but it''s bounced back since, no panic
+Jeff: I''ve listened to some radio podcasts about the American economy
+Jeff: and it''s pretty scary, I mean the economic war on China that Trump is waging and all his unpredictability
+Jeff: but I''m not an economist
+Peter: I know, it''s hard to say what may happen because Trump is rather unpredictable
+Peter: But people in my bank seem calm, at least 2019 should be calm
+Miranda: yup, calm, but the global economy will get weaker
+Miranda: and the growth will be weaker but not tragic, I suppose
+Jeff: and the EU? How do you think?
+Miranda: We just don''t know what will happen to the UK and with Brexit 
+Miranda: There are many different scenarios possible
+Miranda: but it seems that 2020 may be much worse
+Peter: I agree, I''d expect a global economic meltdown in the early 2020s"
+206,c1200ba9-9257-445d-bccb-761ec17c57fe,sanjana,13821583,gpt4-32k-0613,,,,"Laura shares the sad news with Kristian and Anne that her mother passed away after a tough fight. Both Kristian and Anne express their condolences and offer to come and spend more time with Laura for support, who agrees to their offer.","Laura: Hey I have bad news 
+Kristian: Is your mom ok? 
+Laura: She passed away this morning
+Laura: 
+Kristian: Oh noo
+Kristian: My condolences so sorry!
+Anne: I am so sorry to hear that 
+Laura: She fought hard
+Laura: It was a hard battle
+Kristian: You want us to come see you? 
+Anne: We want to spend more time with u now
+Laura: Sure
+Anne: Stay strong girl"
+207,14cf1732-5437-4618-9a57-b6325aae74f4,sanjana,13821684,gpt4-32k-0613,,,,Joyce shared a link of something that Michael considered cheap. Edson was so impressed that he decided to book his ticket immediately.,"Joyce: Check this out!
+Joyce: <link>
+Michael: That''s cheap!
+Edson: No way! I''m booking my ticket now!!"
+208,7fda9a3a-e71e-43bd-8f6f-be5b6dc6467c,sanjana,13828110,gpt4-32k-0613,,,,"Rita inquires about one of Helen''s clients, Salvage Industries, which is a waste disposal business. She raises concerns about their legitimacy and potential public relations issues, prompting Helen to promise to verify the matter further.","Rita: I need some info on you client.
+Helen: Which one?
+Rita: Salvage Industries.
+Helen: Yeah? What do you need?
+Rita: What''s their major business.
+Helen: They are into waste disposal.
+Rita: I thought so.
+Rita: You think they are legit.
+Helen: What do you mean?!
+Helen: Of course, they are legit.
+Rita: Got a favor to ask. Can you double check if they have no PR problems?
+Helen: I don''t think so. But I''ll check it for you.
+Rita: You are a dear, Helen.
+Helen: I sure am:)"
