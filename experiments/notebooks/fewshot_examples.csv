@@ -1,0 +1,63 @@
+,Unnamed: 0,Dialogue,Model,Summary,origin,Annotations,Reference_Summary,Errors
+277,277,"Derek McCarthy: Filip - are you around? Would you have an Android cable I could borrow for an hour? I'm almost out of charge and I have a power pack  but forgot my cable😭
+Tommy: I am in Poland but can ring my wife and she will give you one
+Tommy: Do you want me to?
+Tommy: 67 glenoaks close
+Derek McCarthy: That would be great if you could!! Otherwise I'm sitting here in the dark for an hour <emoticon_smile>
+Tommy: Put it in gps and start driving
+Derek McCarthy: <emoticon_thumbup>
+Tommy: She might be at work for next 15 min but will help you for sure
+Derek McCarthy: Thanks a lot mate
+Tommy: Sent her msg. She will give it to you. Approx time when she will be at home is 8:15 pm
+Derek McCarthy: Thanks again!! What's your wife's name  again??
+Tommy: Paulina",structure_aware_bart,Tommy is in Poland and needs an Android cable to power his power pack. Tommy will call his wife Paulina to borrow one.,SAMSum,"{'Tommy is in Poland and needs an Android cable to power his power pack.': [('and needs', 'n/a', 'Others')], 'Tommy will call his wife Paulina to borrow one.': [('borrow', 'intrinsic', 'PredE')]}",Derek McCarthy will pick up an Android cable from Tommy's wife at 8:15.,2
+271,271,"Ryan: Merry Christmas everybody!
+Nick: Merry Xmas!
+Chris: Merry Xmas to you!
+Chris: Where are you btw?
+Ryan: visiting family in Manchester
+Ryan: white a disaster hahhaha
+Chris: We stayed home with Ann, first time on our own!
+Chris: and I've liked it so far very much",condigsum,Ryan is visiting family in Manchester. Chris and Ann stayed home with Ann for Christmas.,SAMSum,"{'Chris and Ann stayed home with Ann for Christmas.': [('Chris and Ann', 'intrinsic', 'EntE')]}",Ryan is visiting family in Manchester for Christmas. Chris stayed home with Ann.,1
+117,117,"Sophia: I'm sorry
+Mason: It's fine
+Sophia: Ok...If u was there, I would give you a hot kiss for apologize
+Mason: Hahaha. You still send me a photo one
+Sophia: What photo?
+Mason: Kiss photo. Haha
+Sophia: Hehe I sent u already such a photo
+Mason: Another one wouldn't hurt
+Sophia: Maybe later :) When I take a shower and look good
+Mason: And who says you don't look good now ?
+Sophia: Me
+Mason: Let me be the judge of that
+Sophia: No
+Mason: I'll still love you the same. Whether you have make up or not
+Sophia: Hehe but I don't  want u to see me when I do not look good
+Mason: You must
+Sophia: I must what?
+Mason: Send me the kiss now
+Sophia: Haha
+Mason: Doesn't matter how you look, you'll still look good to me
+Sophia: Hahah
+Sophia: <file_photo>",structure_aware_bart,Mason sends Sophia a Kiss photo. Sophia doesn't want Mason to see her when she doesn't look good. Mason is not going to judge Sophia.,SAMSum,"{'Mason sends Sophia a Kiss photo.': [('Mason', 'intrinsic', 'EntE')]}",Sophia apologizes to Mason. She sends him a kiss photo on his request.,1
+218,218,"Lilly: Wanna go out tonight?
+Marshall: can't :( money's low
+Lilly: my treat :)
+Marshall: I wouldn't let a woman pay for me Lils
+Lilly: a woman
+Lilly: ME
+Marshall: come over and we'll watch some netflix",pegasus,Marshall can't go out tonight because he can't pay for a woman. He and a woman will watch some Netflix tonight at Marshall's.,SAMSum,"{""Marshall can't go out tonight because he can't pay for a woman."": [('a woman', 'intrinsic', 'EntE')], ""He and a woman will watch some Netflix tonight at Marshall's."": [('will watch', 'intrinsic', 'PredE')]}",Marshall invited Lilly to watch Netflix with him.,2
+207,207,"Morgan: Hey gorgeous, how’s your day?
+Suzanne: Nothing special, it’s just one of many boring days at work. But… better now though!
+Morgan: Are you working at all? 😉
+Suzanne: I’m trying 😉 But you aren’t helping me, at all
+Suzanne: I’m just taking a well-deserved break 😉
+Morgan:  I miss you Suzie
+Suzanne: I miss you too Morgan
+Morgan: Do you feel like going to a concert next week? Maroon 5 is playing at the Hulu Theater at Madison Square Garden.
+Morgan: As it happens, I’ve got two tickets 😉
+Morgan: Do you want to go?
+Suzanne: Really? OMG! That’s wonderful!
+Suzanne: Thank you sweetheart!
+Morgan: Oh, nothing. I just want you to be happy 😉",bart,Morgan and Suzanne are going to a Maroon 5 concert next week. Morgan has two tickets.,SAMSum,{},Suzanne is at work and is having a break now. Morgan invites Suzanne to a concert of Maroon 5 which takes place next week at the Hulu Theatre at Madison Square Garden. Suzzanne agrees.,0
