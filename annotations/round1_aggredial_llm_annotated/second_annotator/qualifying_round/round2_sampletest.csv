@@ -1,0 +1,1211 @@
+,uuid,user_id,docid,model,nonfactual_spans,evidence,error_type,summary,dialogue
+0,4f078e37-1e86-425c-9770-db56cda00051,sanjana,13611734,gpt4-32k-0613,,,,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+1,1eea9cb1-0916-4547-91dc-808f342be3e9,sanjana,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+2,c8600806-0f6d-42d5-8960-b2b593ed06fc,sanjana,13716726,gpt4-32k-0613,,,,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+3,acfc3bb5-3614-49e4-9cca-a9cc04bb45e7,sanjana,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+4,b1778795-e25b-4268-b095-94b37310a59f,sanjana,13810193,gpt4-32k-0613,,,,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+5,973e6a82-cd24-45a0-9516-981673eeffc9,sanjana,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+6,5b570fff-cc15-470e-82d9-b10774841d0a,sanjana,13819314,gpt4-32k-0613,,,,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''''ll let you know"
+7,1bd69a63-fb80-473d-bfb4-5dfc1b4cc034,sanjana,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+8,35d2a012-921b-4e64-b177-5a6a0a80f205,sanjana,13821297,gpt4-32k-0613,,,,Ella asked her family to confirm their attendance and specify their dietary requirements via a provided link for the purpose of catering. Barbara stated she had done so and also filled out the information for their mom. Ella acknowledged Barbara''''s message.,"Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>
+Barbara: Done!!!
+Eva: <3
+Barbara: I flled out for mom too
+Ella: I saw that
+Barbara: (Y)"
+9,2dfb9bcd-6e2b-4c3b-88a4-4b19aae99aae,sanjana,13821073,gpt4-32k-0613,,,,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''''m a fucking moron?
+Rose: Cause you''''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''''s have a spontaneous sleepover :D
+Rose: Oh, man it''''s late, but why the hell not.
+Rose: I''''ll bring cookies for the cocoa :D
+Julie: yay :D"
+10,ea8da266-4b2d-4215-b3fa-d96b0a9bf689,ann_uulx,13611734,gpt4-32k-0613,,,,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+11,fbfb8f53-0fd7-4bd0-8d01-6d89cd0ec362,ann_hkfy,13611734,gpt4-32k-0613,,,,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+12,dbe7f52f-7cdf-4926-9d7b-8142b465fea6,ann_uulx,13716726,gpt4-32k-0613,,,,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+13,e9265333-3fde-488e-9e14-ad4370ee2860,ann_poem,13611734,gpt4-32k-0613,"team''s coach, Jose","Yeah, Jose has his trust in him",Extrinsic_Error,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+14,9a03e548-01c2-4d4f-8f0b-f65da7023261,ann_poem,13716726,gpt4-32k-0613,,,,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+15,70cf2346-a0b7-44b5-b443-b3e36307aac8,ann_poem,13716726,gpt4-32k-0613,,,,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+16,eaa41e69-fcb7-4ec0-9c81-a54e9a30c7e3,ann_hkfy,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+17,b9a6e5d6-9544-4726-ba6f-9cd0410b324e,ann_hkfy,13611734,gpt4-32k-0613,,,,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+18,578dac06-1ddf-4bbe-86dc-915d2af941bb,ann_uulx,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+19,9b93ea3e-3e99-4c43-94db-9a93868ead05,ann_hkfy,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+20,46a37232-13ad-4f5c-b0ec-38a42e5ffa3d,ann_uulx,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+21,e839a26a-1134-4dfb-ae33-aaeb93138bda,ann_poem,13611734,gpt4-32k-0613,"team''s coach, Jose,", Jose has his trust in him,Extrinsic_Error,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+22,4bc1fdaf-80f2-4c4b-9924-119b737a761c,ann_uulx,13810193,gpt4-32k-0613,,,,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+23,c0279789-ffdd-4c68-8403-2eaa55b7ca80,ann_poem,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+24,638b07a4-0530-4a59-84d1-e7706edf7498,ann_uulx,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+25,0f3f152f-4e0c-4f80-bdaf-e373b5f7d6e4,ann_uulx,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+26,af3d670a-5161-42b4-a5a9-3367162e48dd,ann_poem,13716905,gpt4-32k-0613,family photo , It''s us,Extrinsic_Error,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+27,c03d3415-63b0-4ca9-9d32-ddcd6c588d07,ann_hkfy,13819314,gpt4-32k-0613,,,,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''''ll let you know"
+28,39dd8557-be86-446e-a06a-b6f8676e574b,ann_hkfy,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+29,bebb30d9-cf35-452e-a545-77c15e967685,ann_poem,13821297,gpt4-32k-0613,,,,Ella asked her family to confirm their attendance and specify their dietary requirements via a provided link for the purpose of catering. Barbara stated she had done so and also filled out the information for their mom. Ella acknowledged Barbara''''s message.,"Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>
+Barbara: Done!!!
+Eva: <3
+Barbara: I flled out for mom too
+Ella: I saw that
+Barbara: (Y)"
+30,b799186f-2508-4176-9928-f83505929d7e,ann_slct,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+31,7cea3063-ceca-4def-ab1c-ed5657fb5873,ann_hkfy,13821297,gpt4-32k-0613,,,,Ella asked her family to confirm their attendance and specify their dietary requirements via a provided link for the purpose of catering. Barbara stated she had done so and also filled out the information for their mom. Ella acknowledged Barbara''''s message.,"Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>
+Barbara: Done!!!
+Eva: <3
+Barbara: I flled out for mom too
+Ella: I saw that
+Barbara: (Y)"
+32,a87c69ce-e307-4448-86b5-4cb745a20aa8,ann_slct,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+33,4dbe3a0c-4798-44ee-ac7c-526283a3c054,ann_uulx,13810193,gpt4-32k-0613,,,,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+34,559b2be8-0124-4956-8af9-dd74c20f539f,ann_hkfy,13716726,gpt4-32k-0613,,,,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+35,e892aac4-c107-4ffc-a061-6aa073735e63,ann_poem,13810193,gpt4-32k-0613, her child,coming to Elliot''s,Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+36,9eadaf38-aae6-493e-8644-0eb5fed7f634,ann_poem,13810193,gpt4-32k-0613,"her child, ", Finlay had a lovely time!,Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+37,8d1bd5f0-aca6-4df5-abba-2b1d212c36a6,ann_uulx,13819314,gpt4-32k-0613,,,,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''''ll let you know"
+38,f9bccf80-acec-4b81-874a-b181395de85e,ann_poem,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+39,a89d9029-6f1b-42c5-a350-840a64dedb21,ann_uulx,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+40,7d73ff96-8370-498c-a303-c2f77e124690,ann_poem,13819314,gpt4-32k-0613,Marco invited Daniel,Are you coming to Bologna this fall?,Intrinsic_Error,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''''ll let you know"
+41,b44f0efb-56a1-4070-b669-f0c0cd630f4c,ann_slct,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+42,5073d2fe-10f8-4127-9e64-6e0cb0640c67,ann_uulx,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+43,e73c3077-6833-45b9-926a-a2d39afbdcf3,ann_slct,13611734,gpt4-32k-0613,,,,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+44,f4382012-d89b-4dc4-8aeb-c9ef0e1bde89,ann_hkfy,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+45,7973e8f0-9b2b-4728-b7ea-ad9b86a78444,ann_hkfy,13810193,gpt4-32k-0613,,,,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+46,d7465eab-9de8-4e88-96fc-fcd467571db7,ann_hkfy,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+47,d5aaa36b-7e45-4f60-83cc-ed314134c4d4,ann_poem,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+48,6c7653af-4b75-4d0c-9ad6-ee0254768444,ann_poem,13821034,gpt4-32k-0613,Edward is anxious about the meetings with clients,Expos are not as stressful as meetings tho,Intrinsic_Error,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+49,4f123bc9-4900-444d-aefd-284cd75558e1,ann_poem,13821073,gpt4-32k-0613,,,,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''''m a fucking moron?
+Rose: Cause you''''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''''s have a spontaneous sleepover :D
+Rose: Oh, man it''''s late, but why the hell not.
+Rose: I''''ll bring cookies for the cocoa :D
+Julie: yay :D"
+50,b5f3b400-c5ce-460f-88ee-20a229bcd046,ann_slct,13716726,gpt4-32k-0613,teacher''s inability to handle stress or potential substance abuse,fired 2day and thrown out of school?,Extrinsic_Error,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+51,370559e0-a427-41d2-a7cf-aaf43de7fd92,ann_hkfy,13821073,gpt4-32k-0613,,,,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''''m a fucking moron?
+Rose: Cause you''''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''''s have a spontaneous sleepover :D
+Rose: Oh, man it''''s late, but why the hell not.
+Rose: I''''ll bring cookies for the cocoa :D
+Julie: yay :D"
+52,13363051-86ec-49c0-b28d-26d9449cda4a,ann_slct,13810193,gpt4-32k-0613,,,,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+53,44009815-f20a-4cc1-afea-e1329140cbe5,ann_slct,13819314,gpt4-32k-0613,,,,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''''ll let you know"
+54,9a0ff9ba-4ed3-4f5a-b725-94ddfae248aa,ann_slct,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+55,a0e3e631-566d-4146-9d4d-e0ef913e44f9,ann_slct,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+56,1c0d4e25-4c92-4a60-b719-8767b8a9c000,ann_slct,13821073,gpt4-32k-0613,,,,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''''m a fucking moron?
+Rose: Cause you''''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''''s have a spontaneous sleepover :D
+Rose: Oh, man it''''s late, but why the hell not.
+Rose: I''''ll bring cookies for the cocoa :D
+Julie: yay :D"
+57,2c2ff4e6-63b0-43fd-b003-f9299140f350,ann_slct,13821297,gpt4-32k-0613,,,,Ella asked her family to confirm their attendance and specify their dietary requirements via a provided link for the purpose of catering. Barbara stated she had done so and also filled out the information for their mom. Ella acknowledged Barbara''''s message.,"Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>
+Barbara: Done!!!
+Eva: <3
+Barbara: I flled out for mom too
+Ella: I saw that
+Barbara: (Y)"
+58,85d3e129-4fc3-408f-85f3-bc9ad74f8fff,ann_cpts,13611734,gpt4-32k-0613,,,,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+59,e21f8c5e-bd62-45ce-ab8e-f483b7cccf63,ann_cpts,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+60,485d5b7b-63ef-40df-b4b1-b06dab0bcc2f,ann_japq,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+61,47ad942c-05fb-4edf-8a58-7d6cfed89f3b,ann_cpts,13716726,gpt4-32k-0613,,,,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+62,729dc90d-1038-4c37-850d-f9c27954d9f2,ann_cpts,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+63,d0340172-7add-4dc2-9f5d-fb575e643da9,ann_cpts,13821297,gpt4-32k-0613,,,,Ella asked her family to confirm their attendance and specify their dietary requirements via a provided link for the purpose of catering. Barbara stated she had done so and also filled out the information for their mom. Ella acknowledged Barbara''''s message.,"Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>
+Barbara: Done!!!
+Eva: <3
+Barbara: I flled out for mom too
+Ella: I saw that
+Barbara: (Y)"
+64,6363790d-184f-438d-933d-dbf8c47342d0,ann_cpts,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+65,0368865d-2e5d-4576-99a3-1cc7a6c7489e,ann_cpts,13810193,gpt4-32k-0613,,,,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+66,82f5c5a6-7db8-471d-b8b1-5dfd8a122589,ann_cpts,13819314,gpt4-32k-0613,,,,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''''ll let you know"
+67,8120cc6f-9d4d-40c6-a319-5ee4e2f7a048,ann_cpts,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+68,fa001ff7-c445-430e-9213-2125b5e72f54,ann_cpts,13821073,gpt4-32k-0613,,,,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''''m a fucking moron?
+Rose: Cause you''''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''''s have a spontaneous sleepover :D
+Rose: Oh, man it''''s late, but why the hell not.
+Rose: I''''ll bring cookies for the cocoa :D
+Julie: yay :D"
+69,a4437d74-a5e8-4d8d-8f41-69de2dd507cb,ann_japq,13611734,gpt4-32k-0613," that the team''s coach, Jose", Jose has his trust in him,Extrinsic_Error,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+70,ceb625e2-75d4-4712-8c41-508c50c079cf,ann_japq,13611734,gpt4-32k-0613,were happy to see him rewarded., reward,Extrinsic_Error,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+71,374bcb72-20fc-481b-9689-27459d092079,ann_japq,13716726,gpt4-32k-0613,They speculate the cause might be due to the teacher''s inability to handle stress or potential substance abuse.,"I suppose he''s had it and lost it.
+
+
+                    
+                
+                    
+                    
+                        Oliver :  Or maybe had one too many ;)
+
+
+I suppose he''s had it and lost it.
+Or maybe had one too many ;)",Intrinsic_Error,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+72,18a5cb32-d75a-4763-b035-63e58304fc3b,ann_japq,13716726,gpt4-32k-0613,here is also a mention of the teacher being physically thrown out of the school.,Literally thrown out!,Intrinsic_Error,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+73,9d7eccb3-3d73-447b-921e-c2c5196fe79b,ann_japq,13810193,gpt4-32k-0613, her child,coming to Elliot''s birthday party. ,Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+74,4de824d6-6ada-4458-926f-7586bb166070,ann_japq,13810193,gpt4-32k-0613,"her child, ","No worries, Finlay had a lovely time",Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+75,61765700-ead7-4e21-beac-95cfd2b7f9fb,ann_japq,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+76,d139e2e9-5e52-4b1c-b402-51b4052c3575,ann_japq,13810193,gpt4-32k-0613, her child,coming to Elliot''s birthday party. ,Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+77,947f8a20-1ea6-47cc-95b2-63ada1e16d5d,ann_japq,13810193,gpt4-32k-0613,"her child, ","No worries, Finlay had a lovely time",Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+78,ffeb4bdb-34e7-4b87-b955-489220549184,ann_vimn,13611734,gpt4-32k-0613,"the team''s coach,",Not found,Extrinsic_Error,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+79,8dbedf71-5c63-4b14-a7a5-564998034b42,ann_vimn,13611734,gpt4-32k-0613,a particularly impressive,Not found,Extrinsic_Error,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+80,45e31899-45b3-48a0-a7b1-85ea6bc17b98,ann_vimn,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+81,1b5d9e3c-d112-4b5d-894f-649d04bb66b6,ann_vimn,13716726,gpt4-32k-0613,"Shanon, Victor, Oliver, and Sid, express their joy","Oliver :  I''m so happy  )
+Sid :  Me too!",Intrinsic_Error,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+82,48d85b86-1859-44f5-954d-5f3305e39eb7,ann_vimn,13716726,gpt4-32k-0613,They speculate,"Victor :  I suppose he''s had it and lost it.
+Oliver :  Or maybe had one too many ;)",Intrinsic_Error,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+83,288cdb94-c1d9-415e-bfe0-cc73410ce7b8,ann_vimn,13810193,gpt4-32k-0613,her child Elliot''s,Not found,Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+84,e263890b-b95f-453c-9a1f-52d24976e2c4,ann_vimn,13716905,gpt4-32k-0613,a family photo,Not found,Extrinsic_Error,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+85,617bed1c-95f0-4e59-9ffb-c4446124aed6,ann_vimn,13810193,gpt4-32k-0613,"her child, Finlay",Not found,Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+86,2de6936b-a1d3-491a-81de-8d40546329fe,ann_ccry,13611734,gpt4-32k-0613,,,,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+87,64035e6d-56d9-4ee8-8baf-3de420c7bd83,ann_ccry,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+88,92f1b971-af9c-452c-8a91-5ef1dd0889dc,ann_ccry,13716726,gpt4-32k-0613,the teacher''s inability to handle stress or potential substance abuse.,Not found,,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+89,fa56c8ae-ffa3-47f6-ac93-c279295357fa,ann_ccry,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+90,886a332a-4c3d-4824-b0db-7a19686d98ae,ann_ccry,13810193,gpt4-32k-0613,,,,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+91,7c966a0d-c9c3-4138-86d1-367da2cbdaf5,ann_ccry,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+92,1d251230-06b2-4a32-a362-9e13159ca53e,ann_ccry,13819314,gpt4-32k-0613,,,,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''''ll let you know"
+93,9cf99120-9c34-48b0-a5b0-a6dd9ad35995,ann_ccry,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+94,a873c464-9874-4447-b1d8-7a79d2585bfc,ann_ccry,13821073,gpt4-32k-0613,tisztában van az intenzitásukkal,Not found,Intrinsic_Error,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''''m a fucking moron?
+Rose: Cause you''''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''''s have a spontaneous sleepover :D
+Rose: Oh, man it''''s late, but why the hell not.
+Rose: I''''ll bring cookies for the cocoa :D
+Julie: yay :D"
+95,c56d1601-7c46-4ec0-91ce-c6b2423cee78,ann_ccry,13821073,gpt4-32k-0613,tisztában van az intenzitásukkal., quite unaffected by horror movies.,Intrinsic_Error,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''''m a fucking moron?
+Rose: Cause you''''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''''s have a spontaneous sleepover :D
+Rose: Oh, man it''''s late, but why the hell not.
+Rose: I''''ll bring cookies for the cocoa :D
+Julie: yay :D"
+96,ca2d3206-c277-49dd-8ee4-c81022987c02,ann_ccry,13821297,gpt4-32k-0613,,,,Ella asked her family to confirm their attendance and specify their dietary requirements via a provided link for the purpose of catering. Barbara stated she had done so and also filled out the information for their mom. Ella acknowledged Barbara''''s message.,"Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>
+Barbara: Done!!!
+Eva: <3
+Barbara: I flled out for mom too
+Ella: I saw that
+Barbara: (Y)"
+97,4218bb2d-d03f-47f8-bdd6-3ba64412252a,ann_lkji,13611734,gpt4-32k-0613,,,,"Richie and Clay are discussing the performance of a soccer player named Pogba, who they refer to as ""Pogboom."" They praise his striking ability, and note that they hope his good form lasts. They also mentioned that Pogba has matured this season and that the team''''s coach, Jose, trusts him. After a particularly impressive 60 minutes on the pitch, they agreed that Pogba deserved to score and were happy to see him rewarded.","Richie: Pogba
+Clay: Pogboom
+Richie: what a s strike yoh!
+Clay: was off the seat the moment he chopped the ball back to his right foot
+Richie: me too dude
+Clay: hope his form lasts
+Richie: This season he''''s more mature
+Clay: Yeah, Jose has his trust in him
+Richie: everyone does
+Clay: yeah, he really deserved to score after his first 60 minutes
+Richie: reward
+Clay: yeah man
+Richie: cool then 
+Clay: cool"
+98,d45b227b-f7c5-448a-82c9-f82ece89c14b,ann_lkji,13716169,gpt4-32k-0613,,,,"Casey shared a photo of her nail art which she created using new nail polish. Both Amelia and Kristen admired it and asked Casey to do their nails too. However, Casey refused saying it was too time-consuming as it had taken her nearly four hours.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much"
+99,3e050530-ad19-4c1d-9000-75754dad11ef,ann_lkji,13716726,gpt4-32k-0613,,,,"The group of students, Shanon, Victor, Oliver, and Sid, express their joy that their teacher has been fired and is no longer employed at their school. They speculate the cause might be due to the teacher''''s inability to handle stress or potential substance abuse. There is also a mention of the teacher being physically thrown out of the school.","Shanon: Yeah. So what bout him?
+Victor: He''''s no longer our teacher :)
+Oliver: I''''m so happy :)
+Sid: Me too!
+Shanon: Bt y?
+Sid: He got fired 2day and thrown out of school?
+Oliver: Literally thrown out!
+Shanon: What?!
+Victor: I suppose he''''s had it and lost it.
+Oliver: Or maybe had one too many ;)
+Sid: Not. Our. Teacher. Anymore!"
+100,f143b761-e370-43e8-8e9f-3b72260e65ec,ann_lkji,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+101,e4d25c83-ec4f-448a-bfb2-99bbadec44dc,ann_lkji,13716905,gpt4-32k-0613,,,,"Yvonne and Chiara, two nieces, inquire about the health of their uncle Sam from their aunt Lucy who informs them he''''s okay. The two girls express their concern for their uncle''''s health, receiving reassurances from their aunt. There''''s a brief mention of a family photo taken during a cousin''''s wedding in Chicago. The conversation shifts as Lucy asks about their love lives. Chiara reveals that Yvonne is dating a guy from Argentina, causing Yvonne some bashful embarrassment.","Yvonne: How''''s uncle Sam?
+Lucy: He''''s OK, just came back from work.
+Chiara: We were worried about him. Dad told us he was in hospital.
+Lucy: It''''s nothing serious, don''''t worry! How kind of you to write to us!
+Yvonne: Auntie, you''''re like our second parents!
+Lucy: <3
+Chiara: <file_photo>
+Chiara: It''''s us in Chicago 2 weeks ago.
+Lucy: Wow, you looked stunning! 
+Yvonne: Thanks, it was at our cousins wedding.
+Lucy: And how are you girls? Any nice boys in sight?
+Chiara: Yvonne is dating a hot Argentinian!
+Yvonne: Chiara, stop it!
+Lucy: Oh, come on! Tell me the details!"
+102,74624219-6faf-4e53-a9ae-0c2b52f3002b,ann_lkji,13810193,gpt4-32k-0613,child,Not found,Extrinsic_Error,"Amelia thanks Lindsay for attending her child Elliot''''s birthday party, emphasizing that he enjoyed it. Lindsay affirms that her child, Finlay, also had a great time at the party. Amelia expresses that the party would not have been the same without their presence.","Amelia: Just wanted to say again, thank you so much for coming to Elliot''''s birthday party. He loved it! 
+Lindsay: No worries, Finlay had a lovely time! thanks for having us!
+Amelia: it wouldn''''t be the same without you guys xx
+Lindsay: glad he had a good time! x"
+103,8ffca760-8dc1-4025-a738-df11ab3b02e5,ann_lkji,13813011,gpt4-32k-0613,,,,"Nova and Dominic are discussing an internet trend where actor Timothe Chalamet is photoshopped into artworks. They find it amusing and compare Chalamet''''s doctored appearance to a young man from a 19th-century portrait. They joke that he looks as if he were an absinthe-drinking, Rimbaud poem-reading individual from that era.","Nova: Do know that people are photoshoping Timothe Chalamet into artworks? :D
+Nova: It''''s hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you''''re so right! :D he looks as if he read Rimbaud''''s poems and drank absinthe on a daily basis
+Dominic: hahaha XD it''''s so accurate"
+104,01daee3c-968f-49b6-8bdc-30040d2688a4,ann_lkji,13819314,gpt4-32k-0613,,,,"Marco invited Daniel to Bologna, but Daniel mentioned he would only be in Bologna to change flights and would stay at the airport for 2 hours. Marco sees this as too short a time to meet. However, Simone offered to visit Marco in December for a weekend, to which Marco happily agreed.","Marco: Are you coming to Bologna this fall?
+Daniel: accidentally, I am flying today thought Bologna but only became I have to change there
+Marco: wow! how long will you stay at the airport?
+Daniel: 2 hours only
+Marco: ok, that may be too short for me to see you
+Simone: I may come in December for a weekend, if you want to host
+Marco: with pleasure! and always, as I always tell you :)
+Simone: great, I''''ll let you know"
+105,3dd35714-f368-43c8-9348-b8ad1f228e97,ann_lkji,13821034,gpt4-32k-0613,,,,"Edward, Lauren, and Kate are expressing their concerns about an upcoming business trip they have to go on. Edward is anxious about the meetings with clients, while Lauren is stressed about their boss accompanying them. Kate, although okay with their boss, dislikes the expo part of the trip where they have to interact with people who do not relate to their work. Despite their reservations, they all accept that they have to go anyway.","Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don''''t think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We''''re going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we''''re doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y''''all there then "
+106,2bbb5be7-1ce3-4278-8547-a4062862ee2c,ann_lkji,13821073,gpt4-32k-0613,a non-scary movie,Not found,Extrinsic_Error,"After watching a Japanese horror movie late at night while home alone, Julie is left feeling scared and reaches out to her friends Rose and Paula for comfort. Rose criticizes Julie for watching a horror movie alone, despite being aware of their intensity. Paula offers to come over to Julie''''s house to keep her company, suggesting they watch a non-scary movie and have some cocoa. Julie expresses gratitude and invites Rose over as well for a spontaneous sleepover. Despite the late hour, Rose agrees to come, promising to bring cookies.","Julie: hey guys... could you just talk to me for a bit? I just watched this Japanese horror movie and I''''m home alone and a little uneasy (aka scared shitless)
+Rose: Jesus, why on earth would you watch a Japanese horror, home alone at this hour?
+Julie: Cause I''''m a fucking moron?
+Rose: Cause you''''re a fuckin moron. 
+Paula: 5 point for Gryffindor, my friend. But in your defense, I always thought you were quite unaffected by horror movies.
+Julie: That''''s what I thought too!
+Paula: So what kinda movie was it?
+Julie: <file_other>
+Rose: seems pretty generic
+Julie: It''''s scarier than it looks.
+Rose: you know that japanese horror are the worst ones, right?
+Julie: I know that now.
+Paula: If... you want me to come over I can.
+Julie: omg really? <3
+Paula: Yeah, sure, it''''s like 20 minutes by bike to your house, we can drink cocoa and watch ""when harry met Sally"" until we fall asleep ;)
+Julie: Omg Thank you so much, I love you!
+Rose: I wish I lived in your neighborhood :(
+Paula: We can chip in for an Uber for you :D
+Julie: Let''''s have a spontaneous sleepover :D
+Rose: Oh, man it''''s late, but why the hell not.
+Rose: I''''ll bring cookies for the cocoa :D
+Julie: yay :D"
+107,e93b9fe8-2657-4237-b86f-a525386f50f7,ann_lkji,13821297,gpt4-32k-0613,,,,Ella asked her family to confirm their attendance and specify their dietary requirements via a provided link for the purpose of catering. Barbara stated she had done so and also filled out the information for their mom. Ella acknowledged Barbara''''s message.,"Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>
+Barbara: Done!!!
+Eva: <3
+Barbara: I flled out for mom too
+Ella: I saw that
+Barbara: (Y)"

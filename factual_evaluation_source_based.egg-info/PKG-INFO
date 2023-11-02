@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: factual-evaluation-source-based
 Version: 1.0.0
-Summary: Factual evaluation dialogue summaries
-Home-page: https://github.com/sanjanaramprasad/factual_evaluation_source_based.git
+Summary: Factual annotation llm summaries
+Home-page: https://github.com/sanjanaramprasad/factual_evaluation_source_based
 Author: Sanjana Ramprasad
 Author-email: ramprasad.sa@northeastern.edu

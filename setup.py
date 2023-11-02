@@ -11,8 +11,8 @@ setup_info = dict(
      version='1.0.0',
      author='Sanjana Ramprasad',
      author_email='ramprasad.sa@northeastern.edu',
-     url='https://github.com/sanjanaramprasad/factual_evaluation_source_based.git',
-     description='Factual evaluation dialogue summaries',
+     url='https://github.com/sanjanaramprasad/factual_evaluation_source_based',
+     description='Factual annotation llm summaries',
      long_description=long_description,
      packages=find_packages()
 )
