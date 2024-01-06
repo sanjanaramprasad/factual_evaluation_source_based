@@ -1,0 +1,90 @@
+template_name: factual_evaluation_source_based
+template_label: factual_evaluation_source_based
+template_description: Factuality in Source Based
+
+
+interface_text:
+  typology:
+    context_label: "Article"
+    source_label: "Generated Summary"
+    target_label: "Marked Evidence/Error Type/Evidence"
+
+
+
+display:
+- side-by-side
+
+edits:
+    -   name: ExistE
+        label: "Existing (Noun/Predicate/Discourse)"
+        color: blue
+        icon: fa-box
+        annotation:
+        -   name: Existing Error
+            question: "Pick the most apt category"
+            options:
+                -   name: noun_phrase
+                    label: "Noun Phrase Error"
+
+                -   name: event_pred
+                    label: "Event/Predicate Error"
+                    
+                -   name: discourse_error
+                    label: "Discourse Error"
+    -   name: ExistL
+        label: "Linguistic"
+        color: orange
+        icon: fa-box
+        annotation:
+        -   name: Linguistic Categories
+            question: "Choose from prior identified categories"
+            options:
+                -   name: coreference
+                    label: "Coreference"
+
+                -   name: event misordering
+                    label: "Event Misordering"
+
+                -   name: lack of commonsense knowledge
+                    label: "Lack of Commonsense Knowledge"
+
+                -   name: fail to understand idiom
+                    label: "Fail to Understand Idiom"
+                
+                -   name: manner
+                    label: "Manner"
+
+                -   name: modality
+                    label: "Modality"
+
+                -   name: misattribution
+                    label: "Misattribution"
+
+                -   name: missed detail
+                    label: "Missed Detail"
+
+                -   name: quantity
+                    label: "Quantity"
+
+                -   name: quality
+                    label: "Quality"
+
+                -   name: world knowledge
+                    label: "World Knowledge"
+
+                -   name: wrong verb
+                    label: "Wrong Verb"
+
+                -   name: wrong word sense
+                    label: "Wrong Word Sense"
+
+
+    -   name: OtherE
+        label: "Other Error"
+        color: grey
+        icon: fa-minus
+        annotation:
+        -   name: other_error_type
+            question: "How would you best categorize this error type?"
+            options: textarea
+        
