@@ -78,6 +78,9 @@ edits:
                 -   name: wrong word sense
                     label: "Wrong Word Sense"
 
+                -   name: missed humor
+                    label: "Missed Humor"
+
 
     -   name: OtherE
         label: "Other Error"
