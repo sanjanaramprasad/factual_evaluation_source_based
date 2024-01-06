@@ -81,6 +81,18 @@ edits:
                 -   name: missed humor
                     label: "Missed Humor"
 
+                -   name: modal
+                    label: "Modal"
+
+                -   name: negation
+                    label: "Negation"
+
+                -   name: tense
+                    label: "Tense"
+                
+                -   name: prompt error
+                    label: "Prompt Error"
+
 
     -   name: OtherE
         label: "Other Error"
